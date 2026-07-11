@@ -12,6 +12,8 @@ on:
     paths:
       - "index.html"
       - "*.py"
+      - "profile_verified_from_resume.json"
+      - "preferences_summer_2027.json"
       - ".github/workflows/dol_lookup.yml"
 
 permissions:
@@ -38,37 +40,32 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run DOL and h1bdata lookup
+      - name: Refresh DOL and H-1B sponsorship evidence
         run: python3 dol_lookup.py
 
-      - name: Re-score postings
-        run: |
-          python3 score.py
-          python3 calibrate.py
-          python3 portfolio.py
+      - name: Generate personalized internship recommendations
+        run: python3 score.py
 
-      - name: Commit updated data if changed
+      - name: Commit updated recommendation data if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add \
             data/dol_lookup.json \
-            data/matches.json \
-            data/lane_calibration.json \
-            data/portfolio.json
+            data/matches.json
 
           if git diff --cached --quiet; then
             echo "No generated data changes."
           else
-            git commit -m "Refresh LCA evidence and scoring data"
+            git commit -m "Refresh sponsorship evidence and recommendations"
             git push
           fi
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Pages artifact
+      - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: .
