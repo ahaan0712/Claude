@@ -6,14 +6,17 @@
     "Mankind consumer/growth analytics",
     "Kajaria forecasting and segmentation",
     "machine-learning research",
-    "economics research and publications"
+    "economics research"
   ],
   "excluded_as_fit_signals": [
-    "DOL history",
+    "DOL/H-1B history",
     "LinkedIn connections",
-    "eligibility status"
+    "tracker badge absence",
+    "V6 probabilities/ranks/priors"
   ],
+  "largest_component": "role_relevance <= 28",
   "near_constant_features": [
-    "calibration_status before 20 outcomes is PRIOR_ONLY by design"
-  ]
+    "calibration_status is PRIOR_ONLY by design before sufficient outcomes"
+  ],
+  "sensitivity_analysis": "No single unsupported feature controls ordering; utility components are bounded by config_model_weights.json. Lexical similarity is capped and cannot silently break all ties."
 }

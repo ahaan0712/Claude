@@ -1,0 +1,9 @@
+{
+  "role_relevance": 28,
+  "technical_overlap": 22,
+  "experience_similarity": 18,
+  "screening_compatibility": 14,
+  "domain_alignment": 10,
+  "posting_quality": 8,
+  "note": "Cold-start fit utility only; not interview probability. Public UI exposes tiers and priorities only."
+}

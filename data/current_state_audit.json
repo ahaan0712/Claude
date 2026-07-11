@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-07-11T00:00:00+00:00",
+  "branch_created": "rescue/campaign-27-foundation",
+  "pr4_merge_commit": "b9843d0 Merge pull request #4 from ahaan0712/codex/rebuild-campaign-27-for-summer-2027",
+  "ground_truth": {
+    "score_py": "Packaged existing live/review/excluded JSON into data/matches.json; it did not perform scoring.",
+    "enrich_py": "Used a small keyword rubric for role family, eligibility, and fit; not a predictive recommendation model.",
+    "discover_py": "Generated deterministic fake production postings for target companies including Capital One, Microsoft, Google, Amazon, and Salesforce.",
+    "watchlist_py": "Only filled defaults and did not monitor real career pages.",
+    "import_target_universe_py": "Scanned multiple workbook worksheets instead of deliberately importing only Target Companies.",
+    "reported_counts_before_rescue": {"active_companies": 164, "active_target_programs": 204},
+    "v6_reconciliation_status": "Counts were derived from broad workbook parsing and not a genuine V6 reconciliation.",
+    "authoritative_workbook_found_locally": false,
+    "ci_failure": "Failed workflow logs were not locally accessible; reproduction of the dirty post-PR workspace showed schema/enrichment drift: validate_posting raised missing fields evidence_source, missing_evidence, verification_action, demonstrated_skills, listed_skills, inferred_transferable_skills. Committed HEAD alone passed 7 tests."
+  },
+  "stale_or_inconsistent_generated_files": ["data/matches.json", "data/portfolio.json", "data/dol_lookup.json", "data/postings.json as primary feed", "site/data/* prior to rebuild"],
+  "source_precedence": ["exact live posting text", "verified résumé/profile", "cleaned XLSX", "current official company career pages", "verified historical evidence", "V6 reference metadata", "supplemental tracker data"]
+}

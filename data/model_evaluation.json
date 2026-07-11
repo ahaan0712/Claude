@@ -1,8 +1,8 @@
 {
-  "claim": "Deterministic fixture/rule evaluation only; no interview-prediction accuracy claimed.",
-  "company_name_matching": "empty names and generic tokens rejected",
-  "eligibility_rule_accuracy": "covered_by_tests",
+  "calibration_status": "PRIOR_ONLY until enough user outcomes exist",
+  "claim": "Cold-start relative fit and monitoring priority only; no interview-probability accuracy claimed.",
+  "eligibility_fixtures": 30,
   "generic_analyst_false_positive_rate": "guarded_by_tests",
-  "role_classification_accuracy_on_fixtures": "covered_by_tests",
-  "unsupported_hidden_tiebreakers": "none; no point ranks or probabilities below 20 outcomes"
+  "methodology": "rules + lexical overlap + structured skill/responsibility matching; eligibility is a separate gate",
+  "role_classification_fixtures": "covered_by_tests"
 }

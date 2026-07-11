@@ -1,21 +1,28 @@
 #!/usr/bin/env python3
-import json, hashlib
+from __future__ import annotations
+import json, hashlib, time
 from pathlib import Path
-from schema import write_json, now_iso, default_posting
-DATA_TITLES=['Data Analyst Intern','Data Analytics Intern','Business Intelligence Intern']
-def make_fixture(company, cid, pids, title, desc):
-    p=default_posting(); p.update(posting_id='fixture-'+hashlib.sha1((company+title).encode()).hexdigest()[:10], canonical_company_id=cid,target_program_ids=pids,company=company,title=title,location='United States',source='deterministic fixture',source_class='TARGET_DISCOVERY',canonical_apply_url='',posting_date='2026-07-11',internship_term='Summer 2027',employment_type='Internship',full_description=desc,retrieval_status='FULL',retrieval_provider='MANUAL_FIXTURE',retrieval_timestamp=now_iso(),data_completeness=0.85); return p
+from urllib.parse import urlparse
+from schema import write_json, now_iso
+CACHE=Path('data/discovery_cache.json')
+def provider_for(url):
+    h=urlparse(url or '').netloc.lower(); p=(url or '').lower()
+    if 'greenhouse.io' in h or 'greenhouse' in p: return 'Greenhouse'
+    if 'lever.co' in h or 'lever' in p: return 'Lever'
+    if 'myworkdayjobs' in h or 'workday' in p: return 'Workday'
+    if 'oraclecloud' in h or 'oracle' in p: return 'Oracle'
+    if url: return 'GenericHTML/JSONLD'
+    return 'UNKNOWN'
 def main():
-    comps=json.load(open('data/company_watchlist.json')); raw=[]
+    comps=json.load(open('data/company_watchlist.json')) if Path('data/company_watchlist.json').exists() else []
+    cache=json.loads(CACHE.read_text()) if CACHE.exists() else {}
+    raw=[]
     for c in comps:
-        name=c['company'].lower()
-        if 'capital one' in name:
-            raw.append(make_fixture(c['company'],c['canonical_company_id'],c['target_program_ids'],'Data Analyst Intern - Summer 2027','Data analytics internship using SQL Python and dashboards. Candidates must have unrestricted work authorization in the United States and must not require sponsorship now or in the future.'))
-            c['discovery_state']='CHECKED_MATCH_FOUND'; c['last_checked']=now_iso()
-        elif any(x in name for x in ['microsoft','google','amazon','salesforce']):
-            raw.append(make_fixture(c['company'],c['canonical_company_id'],c['target_program_ids'],'Data Analytics Intern - Summer 2027','Undergraduate data analytics internship. Responsibilities include SQL, Python, dashboards, experimentation, and stakeholder analysis. CPT or other student work authorization can be reviewed by recruiting; verify posting details before applying.'))
-            c['discovery_state']='CHECKED_MATCH_FOUND'; c['last_checked']=now_iso()
-        else:
-            c['discovery_state']='EXPECTED_LATER'; c['current_status']='Target retained; no live fixture posting verified yet.'
-    write_json('data/postings_raw.json', raw); write_json('data/company_watchlist.json', comps)
+        url=c.get('career_page_url') or ''; provider=provider_for(url); c['ats_provider']=provider
+        if not url:
+            c['retrieval_status']='NEEDS_PROVIDER_SETUP'; c['retrieval_error']='No career-page URL in XLSX'; continue
+        key=hashlib.sha1(url.encode()).hexdigest(); cached=cache.get(key)
+        # Safe incremental discovery: record provider setup/check metadata only; no invented postings.
+        c['last_checked']=now_iso(); c['retrieval_status']='NEEDS_PROVIDER_SETUP'; c['retrieval_error']=f'{provider} adapter requires live-source configuration; no fake posting produced'; cache[key]={'url':url,'provider':provider,'status':c['retrieval_status'],'timestamp':c['last_checked']}
+    write_json('data/postings_raw.json', raw); write_json('data/company_watchlist.json', comps); write_json(CACHE, cache)
 if __name__=='__main__': main()

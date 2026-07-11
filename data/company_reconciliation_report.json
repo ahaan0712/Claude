@@ -1,23 +1,24 @@
 {
-  "companies_archived_by_current_preferences": 17,
-  "duplicates_and_aliases_merged": [],
-  "final_active_company_count": 164,
-  "final_active_target_program_count": 204,
-  "final_archived_company_count": 17,
-  "malformed_rows": 0,
-  "nonblank_rows": 221,
-  "overlap": 0,
-  "unique_v6_companies": 0,
-  "unique_xlsx_companies": 181,
-  "unresolved_conflicts": [],
-  "v6_only_companies": 0,
-  "valid_target_program_rows": 204,
-  "worksheets_read": [
-    "Target Companies",
-    "Application Tracker",
-    "READ ME - Strategy",
-    "Role Model (V4)"
+  "active_companies": 164,
+  "active_programs": 204,
+  "archived_companies": 0,
+  "duplicate_company_aliases": {},
+  "duplicate_programs": [],
+  "industry_exclusions": {},
+  "malformed_rows": [],
+  "quant_programs_removed": 0,
+  "source_precedence": [
+    "exact live posting text",
+    "verified r\u00e9sum\u00e9/profile",
+    "cleaned XLSX",
+    "current official company career pages",
+    "verified historical evidence",
+    "V6 reference metadata",
+    "supplemental tracker data"
   ],
-  "xlsx_filename": "Ahaan 2027 Internship Target List.xlsx",
-  "xlsx_only_companies": 164
+  "source_workbook": "sanitized derived JSON fallback",
+  "total_rows": 204,
+  "unresolved_records": [],
+  "valid_rows": 204,
+  "worksheet_used": "Target Companies"
 }

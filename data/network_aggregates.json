@@ -140,7 +140,7 @@
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "bain-and-company",
+    "canonical_company_id": "bain-company",
     "direct_connection_count": 0,
     "followed_company": false,
     "most_recent_connection_date": null,
@@ -870,7 +870,7 @@
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "johnson-and-johnson",
+    "canonical_company_id": "johnson-johnson",
     "direct_connection_count": 0,
     "followed_company": false,
     "most_recent_connection_date": null,
@@ -1180,7 +1180,7 @@
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "procter-and-gamble",
+    "canonical_company_id": "procter-gamble",
     "direct_connection_count": 0,
     "followed_company": false,
     "most_recent_connection_date": null,
@@ -1270,7 +1270,7 @@
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "s-and-p-global",
+    "canonical_company_id": "s-p-global",
     "direct_connection_count": 0,
     "followed_company": false,
     "most_recent_connection_date": null,
