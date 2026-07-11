@@ -1,5 +1,5 @@
 {
-  "scored_at": "2026-07-11T03:26:58.444548Z",
+  "scored_at": "2026-07-11T03:53:31.976129Z",
   "as_of_date": "2026-07-11",
   "posting_count": 171,
   "eligibility_counts": {
@@ -20,7 +20,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -42,7 +48,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -64,7 +76,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -86,7 +104,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -108,7 +132,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -130,7 +160,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.3,
       "fit_tier": "Exploratory",
@@ -152,7 +188,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.3,
       "fit_tier": "Exploratory",
@@ -174,7 +216,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 4.2,
       "fit_tier": "Exploratory",
@@ -196,7 +244,13 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.4,
       "fit_tier": "Exploratory",
@@ -218,7 +272,13 @@
       "date_posted": "2026-07-08",
       "days_since_posted": 3,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.4,
       "fit_tier": "Exploratory",
@@ -240,7 +300,13 @@
       "date_posted": "2026-07-08",
       "days_since_posted": 3,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -262,7 +328,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 5.1,
       "fit_tier": "Exploratory",
@@ -284,7 +356,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.1,
       "fit_tier": "Exploratory",
@@ -306,7 +384,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -328,7 +412,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -350,7 +440,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -372,7 +468,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -394,7 +496,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Data Analytics",
       "fit_score": 26.1,
       "fit_tier": "Exploratory",
@@ -416,7 +524,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 4.9,
       "fit_tier": "Exploratory",
@@ -438,7 +552,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -460,7 +580,13 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -482,7 +608,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 10.4,
       "fit_tier": "Exploratory",
@@ -504,7 +636,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.1,
       "fit_tier": "Exploratory",
@@ -526,7 +664,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -548,7 +692,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -570,7 +720,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -592,7 +748,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.7,
       "fit_tier": "Exploratory",
@@ -614,7 +776,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -636,7 +804,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.8,
       "fit_tier": "Exploratory",
@@ -658,7 +832,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 8.8,
       "fit_tier": "Exploratory",
@@ -680,7 +860,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -702,7 +888,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.3,
       "fit_tier": "Exploratory",
@@ -724,7 +916,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -746,7 +944,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.9,
       "fit_tier": "Exploratory",
@@ -768,7 +972,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.7,
       "fit_tier": "Exploratory",
@@ -790,7 +1000,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.9,
       "fit_tier": "Exploratory",
@@ -812,7 +1028,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.3,
       "fit_tier": "Exploratory",
@@ -834,7 +1056,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 5.6,
       "fit_tier": "Exploratory",
@@ -856,7 +1084,13 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Data Analytics",
       "fit_score": 19.1,
       "fit_tier": "Exploratory",
@@ -878,7 +1112,13 @@
       "date_posted": "2026-06-27",
       "days_since_posted": 14,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 5.9,
       "fit_tier": "Exploratory",
@@ -900,7 +1140,13 @@
       "date_posted": "2026-06-27",
       "days_since_posted": 14,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -922,7 +1168,13 @@
       "date_posted": "2026-06-27",
       "days_since_posted": 14,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.0,
       "fit_tier": "Exploratory",
@@ -944,7 +1196,13 @@
       "date_posted": "2026-06-25",
       "days_since_posted": 16,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -966,7 +1224,13 @@
       "date_posted": "2026-06-23",
       "days_since_posted": 18,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Data Analytics",
       "fit_score": 40.5,
       "fit_tier": "Good",
@@ -988,7 +1252,13 @@
       "date_posted": "2026-06-23",
       "days_since_posted": 18,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1010,7 +1280,13 @@
       "date_posted": "2026-06-22",
       "days_since_posted": 19,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1032,7 +1308,13 @@
       "date_posted": "2026-06-21",
       "days_since_posted": 20,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.5,
       "fit_tier": "Exploratory",
@@ -1054,7 +1336,13 @@
       "date_posted": "2026-06-19",
       "days_since_posted": 22,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 4.1,
       "fit_tier": "Exploratory",
@@ -1076,7 +1364,13 @@
       "date_posted": "2026-06-18",
       "days_since_posted": 23,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Applied Data Science",
       "fit_score": 10.8,
       "fit_tier": "Exploratory",
@@ -1098,7 +1392,13 @@
       "date_posted": "2026-06-16",
       "days_since_posted": 25,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1120,7 +1420,13 @@
       "date_posted": "2026-06-15",
       "days_since_posted": 26,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.0,
       "fit_tier": "Exploratory",
@@ -1142,7 +1448,13 @@
       "date_posted": "2026-06-15",
       "days_since_posted": 26,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.7,
       "fit_tier": "Exploratory",
@@ -1165,6 +1477,12 @@
       "days_since_posted": 27,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1186,7 +1504,13 @@
       "date_posted": "2026-06-12",
       "days_since_posted": 29,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Data Analytics",
       "fit_score": 8.9,
       "fit_tier": "Exploratory",
@@ -1209,6 +1533,12 @@
       "days_since_posted": 31,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1231,6 +1561,12 @@
       "days_since_posted": 31,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1252,7 +1588,13 @@
       "date_posted": "2026-06-04",
       "days_since_posted": 37,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1274,7 +1616,13 @@
       "date_posted": "2026-06-01",
       "days_since_posted": 40,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1296,7 +1644,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.7,
       "fit_tier": "Exploratory",
@@ -1318,7 +1672,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1340,7 +1700,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1362,7 +1728,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1384,7 +1756,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1406,7 +1784,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1428,7 +1812,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1450,7 +1840,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1472,7 +1868,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1494,7 +1896,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.7,
       "fit_tier": "Exploratory",
@@ -1516,7 +1924,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. dol_lookup.py has not been run yet for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": null,
+        "trend": null,
+        "note": "dol_lookup.py has not been run yet for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1538,7 +1952,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1560,7 +1980,13 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1583,6 +2009,12 @@
       "days_since_posted": 53,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1604,7 +2036,13 @@
       "date_posted": "2026-05-19",
       "days_since_posted": 53,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1627,6 +2065,12 @@
       "days_since_posted": 53,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1649,6 +2093,12 @@
       "days_since_posted": 58,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Decision Science",
       "fit_score": 3.4,
       "fit_tier": "Exploratory",
@@ -1671,6 +2121,12 @@
       "days_since_posted": 58,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1693,6 +2149,12 @@
       "days_since_posted": 58,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1715,6 +2177,12 @@
       "days_since_posted": 58,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1737,6 +2205,12 @@
       "days_since_posted": 58,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.8,
       "fit_tier": "Exploratory",
@@ -1759,6 +2233,12 @@
       "days_since_posted": 60,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.7,
       "fit_tier": "Exploratory",
@@ -1780,7 +2260,13 @@
       "date_posted": "2026-05-12",
       "days_since_posted": 60,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1803,6 +2289,12 @@
       "days_since_posted": 60,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1825,6 +2317,12 @@
       "days_since_posted": 60,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1846,7 +2344,13 @@
       "date_posted": "2026-05-11",
       "days_since_posted": 61,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1868,7 +2372,13 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1890,7 +2400,13 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1912,7 +2428,13 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1935,6 +2457,12 @@
       "days_since_posted": 63,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1957,6 +2485,12 @@
       "days_since_posted": 63,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -1978,7 +2512,13 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2001,6 +2541,12 @@
       "days_since_posted": 63,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2022,7 +2568,13 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2045,6 +2597,12 @@
       "days_since_posted": 63,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2067,6 +2625,12 @@
       "days_since_posted": 73,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 5.0,
       "fit_tier": "Exploratory",
@@ -2089,6 +2653,12 @@
       "days_since_posted": 74,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2111,6 +2681,12 @@
       "days_since_posted": 74,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2133,6 +2709,12 @@
       "days_since_posted": 74,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.6,
       "fit_tier": "Exploratory",
@@ -2154,7 +2736,13 @@
       "date_posted": "2026-04-28",
       "days_since_posted": 74,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2177,6 +2765,12 @@
       "days_since_posted": 74,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2199,6 +2793,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2221,6 +2821,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2242,7 +2848,13 @@
       "date_posted": "2026-04-24",
       "days_since_posted": 78,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.3,
       "fit_tier": "Exploratory",
@@ -2265,6 +2877,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2287,6 +2905,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2309,6 +2933,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2331,6 +2961,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2353,6 +2989,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2375,6 +3017,12 @@
       "days_since_posted": 78,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2396,7 +3044,13 @@
       "date_posted": "2026-04-24",
       "days_since_posted": 78,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2419,6 +3073,12 @@
       "days_since_posted": 80,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.9,
       "fit_tier": "Exploratory",
@@ -2440,7 +3100,13 @@
       "date_posted": "2026-04-22",
       "days_since_posted": 80,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2462,7 +3128,13 @@
       "date_posted": "2026-04-22",
       "days_since_posted": 80,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2484,7 +3156,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2506,7 +3184,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2528,7 +3212,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.7,
       "fit_tier": "Exploratory",
@@ -2550,7 +3240,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 6.7,
       "fit_tier": "Exploratory",
@@ -2573,6 +3269,12 @@
       "days_since_posted": 82,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2595,6 +3297,12 @@
       "days_since_posted": 82,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2616,7 +3324,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2638,7 +3352,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2660,7 +3380,13 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.2,
       "fit_tier": "Exploratory",
@@ -2682,7 +3408,13 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.4,
       "fit_tier": "Exploratory",
@@ -2704,7 +3436,13 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.5,
       "fit_tier": "Exploratory",
@@ -2726,7 +3464,13 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.8,
       "fit_tier": "Exploratory",
@@ -2749,6 +3493,12 @@
       "days_since_posted": 83,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2771,6 +3521,12 @@
       "days_since_posted": 83,
       "eligibility": "CLOSED",
       "eligibility_reason": "Tracker marked this posting closed.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2792,7 +3548,13 @@
       "date_posted": "2026-04-08",
       "days_since_posted": 94,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.8,
       "fit_tier": "Exploratory",
@@ -2814,7 +3576,13 @@
       "date_posted": "2026-01-15",
       "days_since_posted": 177,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2836,7 +3604,13 @@
       "date_posted": "2026-01-08",
       "days_since_posted": 184,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.0,
       "fit_tier": "Exploratory",
@@ -2858,7 +3632,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2880,7 +3660,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 8.3,
       "fit_tier": "Exploratory",
@@ -2902,7 +3688,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -2924,7 +3716,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Decision Science",
       "fit_score": 11.5,
       "fit_tier": "Exploratory",
@@ -2946,7 +3744,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": "Decision Science",
       "fit_score": 4.8,
       "fit_tier": "Exploratory",
@@ -2968,7 +3772,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. dol_lookup.py has not been run yet for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": null,
+        "trend": null,
+        "note": "dol_lookup.py has not been run yet for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.3,
       "fit_tier": "Exploratory",
@@ -2990,7 +3800,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. dol_lookup.py has not been run yet for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": null,
+        "trend": null,
+        "note": "dol_lookup.py has not been run yet for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.5,
       "fit_tier": "Exploratory",
@@ -3012,7 +3828,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 1.3,
       "fit_tier": "Exploratory",
@@ -3034,7 +3856,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.9,
       "fit_tier": "Exploratory",
@@ -3057,6 +3885,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3079,6 +3913,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3100,7 +3940,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3122,7 +3968,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3144,7 +3996,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3167,6 +4025,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3188,7 +4052,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3211,6 +4081,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3232,7 +4108,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3254,7 +4136,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3277,6 +4165,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3299,6 +4193,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.0,
       "fit_tier": "Exploratory",
@@ -3321,6 +4221,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3343,6 +4249,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3365,6 +4277,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3386,7 +4304,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3408,7 +4332,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3430,7 +4360,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3452,7 +4388,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 6.1,
       "fit_tier": "Exploratory",
@@ -3474,7 +4416,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3496,7 +4444,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 2.1,
       "fit_tier": "Exploratory",
@@ -3518,7 +4472,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3541,6 +4501,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3562,7 +4528,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 8.1,
       "fit_tier": "Exploratory",
@@ -3584,7 +4556,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3606,7 +4584,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
-      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls).",
+      "eligibility_reason": "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.3,
       "fit_tier": "Exploratory",
@@ -3628,7 +4612,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.1,
       "fit_tier": "Exploratory",
@@ -3650,7 +4640,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.8,
       "fit_tier": "Exploratory",
@@ -3672,7 +4668,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3694,7 +4696,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 3.5,
       "fit_tier": "Exploratory",
@@ -3716,7 +4724,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",
@@ -3739,6 +4753,12 @@
       "days_since_posted": null,
       "eligibility": "INELIGIBLE",
       "eligibility_reason": "Tracker badge: US citizens only. Ahaan is an F-1 international student.",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.8,
       "fit_tier": "Exploratory",
@@ -3760,7 +4780,13 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "sponsorship_evidence": {
+        "status": "UNKNOWN",
+        "total_filings_3yr": 0,
+        "trend": "insufficient_data",
+        "note": "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+      },
       "role_family": null,
       "fit_score": 0.0,
       "fit_tier": "Exploratory",

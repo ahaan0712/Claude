@@ -131,6 +131,10 @@
     align-self: start; justify-self: end;
   }
   .posting .p-reason { color: var(--text-muted); font-size: 0.78rem; grid-column: 1 / -1; font-style: italic; }
+  .posting .p-sponsor { font-size: 0.78rem; grid-column: 1 / -1; }
+  .sponsor-REAL { color: var(--status-good); }
+  .sponsor-NONE { color: var(--text-muted); }
+  .sponsor-UNKNOWN { color: var(--text-muted); font-style: italic; }
 
   .status-badge {
     display: inline-flex; align-items: center; gap: 0.3rem;
@@ -247,6 +251,20 @@ function renderPortfolio(p) {
   curveSVG(p.prior_only_curve, "n_postings", "prior-curve-holder");
 }
 
+function sponsorLine(m) {
+  const s = m.sponsorship_evidence;
+  if (!s) return "";
+  let text;
+  if (s.status === "REAL") {
+    text = `DOL filing history: ${s.total_filings_3yr} LCA filings / 3 fiscal years, trend ${s.trend}`;
+  } else if (s.status === "NONE") {
+    text = "No filing history found — rely on exact posting language.";
+  } else {
+    text = "Sponsorship history not yet checked — rely on exact posting language.";
+  }
+  return `<div class="p-sponsor sponsor-${s.status}">${text}</div>`;
+}
+
 function postingCard(m) {
   const url = m.url ? `<a href="${m.url}" target="_blank" rel="noopener">${m.role}</a>` : m.role;
   return `
@@ -261,6 +279,7 @@ function postingCard(m) {
         <span>source: ${m.source}</span>
       </div>
       <div class="p-reason">${m.eligibility_reason}</div>
+      ${sponsorLine(m)}
     </div>`;
 }
 

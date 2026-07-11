@@ -1,0 +1,40 @@
+name: DOL LCA lookup
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 13 1 * *"  # monthly, 1st of month 13:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  dol-lookup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run DOL/h1bdata lookup
+        run: python3 dol_lookup.py
+
+      - name: Re-score postings with fresh sponsorship evidence
+        run: |
+          python3 score.py
+          python3 calibrate.py
+          python3 portfolio.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "campaign-27-v7-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/dol_lookup.json data/matches.json data/lane_calibration.json data/portfolio.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "dol_lookup: refresh LCA filing data and re-score postings"
+            git push
+          fi

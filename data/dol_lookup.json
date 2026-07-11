@@ -1,0 +1,1541 @@
+{
+  "fetched_at": "2026-07-11T03:53:31.827778Z",
+  "as_of_date": "2026-07-11",
+  "target_fiscal_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "dol_bulk_reachable": false,
+  "h1bdata_fallback_reachable": false,
+  "company_count": 109,
+  "note": "sponsorship_evidence is REAL or NONE only when a source was actually reached for that company (checked=true). UNKNOWN means neither DOL's bulk disclosure files nor h1bdata.info could be reached for this company - never treated as NONE.",
+  "companies": {
+    "ABC Fitness": {
+      "company": "ABC Fitness",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "ABC News": {
+      "company": "ABC News",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "ASM": {
+      "company": "ASM",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Abundant": {
+      "company": "Abundant",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Affinius Capital": {
+      "company": "Affinius Capital",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Al Warren Oil Company": {
+      "company": "Al Warren Oil Company",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Amazon": {
+      "company": "Amazon",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Anduril": {
+      "company": "Anduril",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Apex Technology, Inc.": {
+      "company": "Apex Technology, Inc.",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Apple": {
+      "company": "Apple",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Apptronik": {
+      "company": "Apptronik",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Aquatic": {
+      "company": "Aquatic",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Arrowstreet Capital": {
+      "company": "Arrowstreet Capital",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "AssetMark": {
+      "company": "AssetMark",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Avanade": {
+      "company": "Avanade",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "BNP Paribas": {
+      "company": "BNP Paribas",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Baird": {
+      "company": "Baird",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Bank of America": {
+      "company": "Bank of America",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "BlackRock": {
+      "company": "BlackRock",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Blue Origin": {
+      "company": "Blue Origin",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "ByteDance": {
+      "company": "ByteDance",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "CTGT": {
+      "company": "CTGT",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Cadence": {
+      "company": "Cadence",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Capital One": {
+      "company": "Capital One",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Cargill": {
+      "company": "Cargill",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Circleback": {
+      "company": "Circleback",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Citadel": {
+      "company": "Citadel",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Citi": {
+      "company": "Citi",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "CloudFit Software": {
+      "company": "CloudFit Software",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Cubist Systematic Strategies": {
+      "company": "Cubist Systematic Strategies",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "D. E. Shaw": {
+      "company": "D. E. Shaw",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "DE Shaw": {
+      "company": "DE Shaw",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "DTCC": {
+      "company": "DTCC",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Databricks": {
+      "company": "Databricks",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Dedalus Labs": {
+      "company": "Dedalus Labs",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Delta Air Lines": {
+      "company": "Delta Air Lines",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Dexcom": {
+      "company": "Dexcom",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "DimeHealth AI": {
+      "company": "DimeHealth AI",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Ellipsis Labs": {
+      "company": "Ellipsis Labs",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Epic": {
+      "company": "Epic",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Etched": {
+      "company": "Etched",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Ether.fi": {
+      "company": "Ether.fi",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Fiserv": {
+      "company": "Fiserv",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Flow Traders": {
+      "company": "Flow Traders",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "GE Aerospace": {
+      "company": "GE Aerospace",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "GE Appliances": {
+      "company": "GE Appliances",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "General Astronautics": {
+      "company": "General Astronautics",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "General Dynamics Mission Systems, Inc.": {
+      "company": "General Dynamics Mission Systems, Inc.",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Granite Construction": {
+      "company": "Granite Construction",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "H&CO": {
+      "company": "H&CO",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Homebase": {
+      "company": "Homebase",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Horace Mann": {
+      "company": "Horace Mann",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "ICF": {
+      "company": "ICF",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "IMC": {
+      "company": "IMC",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "IMC Trading": {
+      "company": "IMC Trading",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Intercontinental Exchange, Inc.": {
+      "company": "Intercontinental Exchange, Inc.",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "JPMorganChase": {
+      "company": "JPMorganChase",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Jump Trading Group": {
+      "company": "Jump Trading Group",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "KBR": {
+      "company": "KBR",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Kudu Dynamics": {
+      "company": "Kudu Dynamics",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "LA-Tech.org": {
+      "company": "LA-Tech.org",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "LiveRamp": {
+      "company": "LiveRamp",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Los Alamos National Laboratory": {
+      "company": "Los Alamos National Laboratory",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "LufCo": {
+      "company": "LufCo",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "MLH": {
+      "company": "MLH",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Medpace": {
+      "company": "Medpace",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Member Solutions": {
+      "company": "Member Solutions",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Microsoft": {
+      "company": "Microsoft",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Midmark": {
+      "company": "Midmark",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Naive": {
+      "company": "Naive",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Nash": {
+      "company": "Nash",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Na\u00efve": {
+      "company": "Na\u00efve",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Neo": {
+      "company": "Neo",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Northspyre": {
+      "company": "Northspyre",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Optiver": {
+      "company": "Optiver",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Paragon": {
+      "company": "Paragon",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Podium": {
+      "company": "Podium",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Point72": {
+      "company": "Point72",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Poshmark": {
+      "company": "Poshmark",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Rakuten International": {
+      "company": "Rakuten International",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Rippling": {
+      "company": "Rippling",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "SK Hynix Memory Solution": {
+      "company": "SK Hynix Memory Solution",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Salesforce": {
+      "company": "Salesforce",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Schonfeld": {
+      "company": "Schonfeld",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Skyworks": {
+      "company": "Skyworks",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Solar Turbines (Caterpillar)": {
+      "company": "Solar Turbines (Caterpillar)",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "StarSling": {
+      "company": "StarSling",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "StepStone Group": {
+      "company": "StepStone Group",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Stoke Space": {
+      "company": "Stoke Space",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Susquehanna": {
+      "company": "Susquehanna",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Susquehanna Investment Group": {
+      "company": "Susquehanna Investment Group",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "TETRAMEM": {
+      "company": "TETRAMEM",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "TSMC Arizona": {
+      "company": "TSMC Arizona",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Terranox AI": {
+      "company": "Terranox AI",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Thales": {
+      "company": "Thales",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "TikTok": {
+      "company": "TikTok",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Tower Research": {
+      "company": "Tower Research",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Trata": {
+      "company": "Trata",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Trimble": {
+      "company": "Trimble",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Twilio": {
+      "company": "Twilio",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Two Sigma": {
+      "company": "Two Sigma",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Veeam Software": {
+      "company": "Veeam Software",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Virtu Financial": {
+      "company": "Virtu Financial",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Voloridge Investment Management": {
+      "company": "Voloridge Investment Management",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "WSP": {
+      "company": "WSP",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Walleye Capital": {
+      "company": "Walleye Capital",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Wipfli": {
+      "company": "Wipfli",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "Zoox": {
+      "company": "Zoox",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    },
+    "org": {
+      "company": "org",
+      "fiscal_year_filings": {
+        "2024": 0,
+        "2025": 0,
+        "2026": 0
+      },
+      "total_filings_3yr": 0,
+      "trend": "insufficient_data",
+      "sponsorship_evidence": "UNKNOWN",
+      "source": null,
+      "matched_employer_names": [],
+      "checked": false
+    }
+  }
+}
