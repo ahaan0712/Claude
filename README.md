@@ -28,11 +28,12 @@ Ahaan's own outcome data to justify one.
 ## Pipeline
 
 ```
-ingest.py  →  data/postings.json
-score.py   →  data/matches.json        (needs data/postings.json, data/profile.json)
-calibrate.py → data/lane_calibration.json  (needs data/outcomes.csv)
-portfolio.py → data/portfolio.json     (needs data/matches.json, data/lane_calibration.json)
-app.html   →  reads data/matches.json + data/portfolio.json
+ingest.py     →  data/postings.json
+dol_lookup.py →  data/dol_lookup.json      (needs data/postings.json)
+score.py      →  data/matches.json         (needs data/postings.json, data/profile.json, data/dol_lookup.json)
+calibrate.py  →  data/lane_calibration.json  (needs data/outcomes.csv)
+portfolio.py  →  data/portfolio.json       (needs data/matches.json, data/lane_calibration.json)
+app.html      →  reads data/matches.json + data/portfolio.json
 ```
 
 Every script is stdlib-only Python 3.9+ (no pip installs required) and writes
@@ -56,7 +57,53 @@ out of its table, tab- or pipe-separated, one per line). Output is cached to
 a prior run. Use `--no-fetch` to rebuild only from the paste-in file and the
 existing cache.
 
-### 2. `score.py` — score per posting, not per company
+### 2. `dol_lookup.py` — real H-1B/LCA filing counts per company
+
+```
+python3 dol_lookup.py
+```
+
+Pulls real Labor Condition Application (LCA) filing counts, per company on
+the ingested posting board, from DOL OFLC's public LCA Disclosure Data files
+(no key required) with [`h1bdata.info`](https://h1bdata.info) as a
+per-company fallback for anything the DOL bulk files don't turn up. Company
+names are matched via `companies.py`'s shared alias/normalization table (the
+same one `score.py` uses), so "Capital One" on a posting matches whatever
+legal-entity form DOL filed under.
+
+For each company, `data/dol_lookup.json` records `fiscal_year_filings` for
+the last 3 federal fiscal years, `total_filings_3yr`, a `trend`
+(rising/flat/falling), and a `sponsorship_evidence` status that is **only**
+one of:
+
+- `REAL` — a source was reached and returned ≥1 filing.
+- `NONE` — a source was reached and returned zero filings.
+- `UNKNOWN` — neither DOL nor h1bdata.info could be reached for this company.
+  **Never collapsed into `NONE`** — a blocked/failed fetch is not evidence of
+  anything, and this project's whole premise is not fabricating certainty
+  that isn't there.
+
+**Network note:** this script needs real outbound internet to `dol.gov` and
+`h1bdata.info`. Sandboxed environments that only allow GitHub traffic (like
+the one this repo was originally built in) will report every company as
+`UNKNOWN` — that's the honest result of a blocked fetch, not a bug. The
+`.github/workflows/dol_lookup.yml` Action runs it on a GitHub-hosted runner,
+which has unrestricted outbound internet, and commits the refreshed
+`data/dol_lookup.json` (plus a re-run of `score.py`/`calibrate.py`/
+`portfolio.py`) back to this branch. Trigger it from the Actions tab, or run
+the script locally on a machine with normal internet access.
+
+There's no `data/company_board.xlsx` in this repo — V7's board *is* whatever
+`ingest.py` pulled into `data/postings.json` (currently ~110 distinct
+companies), not the old V6 spreadsheet's fixed 157. For a fixed sanity-check
+set, `STRONG_TARGET_COMPANIES` in `dol_lookup.py` names 13 large, well-known
+employers already on that board (Capital One, JPMorganChase, Citi, Bank of
+America, BlackRock, BNP Paribas, DTCC, Fiserv, Salesforce, Microsoft, Amazon,
+Databricks, Twilio) that a correctly-working lookup should be able to find
+real LCA history for. That list is only used to print a coverage check at the
+end of a run — it is never surfaced as a company ranking anywhere.
+
+### 3. `score.py` — score per posting, not per company
 
 ```
 python3 score.py
@@ -66,11 +113,16 @@ For each posting:
 
 1. **Eligibility gate** (runs first, hard stop): tracker badges and posting
    text are scanned for explicit CPT/OPT/sponsorship/citizenship blocks. A hit
-   → `INELIGIBLE`, full stop, no fit score changes that. A closed-tracker badge
-   → `CLOSED`. Ambiguous language (mentions "sponsorship"/"CPT"/"visa" without
-   a clear block) → `VERIFY` — the honest state, since trackers only capture a
-   company-level badge and V6's own lesson was that *exact posting wording
-   controls*, not company history.
+   → `INELIGIBLE`, full stop, no fit score changes that — company-level DOL
+   filing history never overrides an explicit posting-language block, per the
+   V6 lesson that exact wording controls. A closed-tracker badge → `CLOSED`.
+   Ambiguous language (mentions "sponsorship"/"CPT"/"visa" without a clear
+   block) → `VERIFY`. For `VERIFY` and the default `ELIGIBLE` state, the
+   posting's `sponsorship_evidence` card (from `dol_lookup.py`) is attached:
+   real filing counts + trend when evidence is `REAL`, an explicit "no filing
+   history found — rely on exact posting language" when `NONE`, and a "not
+   yet checked" note when `UNKNOWN`/lookup hasn't been run — replacing what
+   would otherwise be a guessed default.
 2. **Fit**: dependency-free TF-IDF cosine similarity between Ahaan's résumé
    text (`data/profile.json`) and the posting text, multiplied by a
    role-family match multiplier (keyword-based lane assignment across the 10
@@ -152,10 +204,32 @@ clearly labeled.
 
 ```
 python3 ingest.py
+python3 dol_lookup.py
 python3 score.py
 python3 calibrate.py
 python3 portfolio.py
 ```
+
+## GitHub Pages
+
+`app.html` is deployed by `.github/workflows/pages.yml` on every push to this
+branch that touches `app.html` or `data/**` (or manually via
+workflow_dispatch). It copies `app.html` to `index.html` at the site root
+along with `data/`, so the whole tool is one bookmarkable URL with no
+`/app.html` suffix needed:
+
+```
+https://ahaan0712.github.io/Claude/
+```
+
+## GitHub Actions
+
+- **`dol_lookup.yml`** — runs `dol_lookup.py` → `score.py` → `calibrate.py` →
+  `portfolio.py` on a GitHub-hosted runner (real outbound internet) and
+  commits any data changes back to this branch. Manual trigger or monthly
+  cron.
+- **`pages.yml`** — builds and deploys `app.html` + `data/` to GitHub Pages,
+  described above.
 
 ## Logging outcomes
 
@@ -177,12 +251,17 @@ data/
   profile.json          Ahaan's profile/résumé signal (extracted from V6 workbook), role-family keyword taxonomy
   postings.json          raw ingested postings (ingest.py output)
   simplify_paste.txt      paste-in target for Simplify rows
-  matches.json            scored postings: fit + eligibility (score.py output)
+  dol_lookup.json          per-company LCA filing counts / trend / sponsorship_evidence (dol_lookup.py output)
+  matches.json            scored postings: fit + eligibility + sponsorship evidence (score.py output)
   outcomes.csv             Ahaan's logged application outcomes (append-only, starts empty)
   lane_calibration.json    per-lane Bayesian posterior / PRIOR-ONLY status (calibrate.py output)
   portfolio.json           expected-interviews curves (portfolio.py output)
 legacy/
   ahaan_model_v4_update.py  original V4 Bayesian updater, kept verbatim; calibrate.py imports from it
-ingest.py / score.py / calibrate.py / portfolio.py
+.github/workflows/
+  dol_lookup.yml            runs the DOL/h1bdata pull + re-score on a GitHub-hosted runner, commits results
+  pages.yml                 deploys app.html + data/ to GitHub Pages
+companies.py               shared company-name alias/normalization table (dol_lookup.py + score.py)
+ingest.py / dol_lookup.py / score.py / calibrate.py / portfolio.py
 app.html
 ```

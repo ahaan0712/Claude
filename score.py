@@ -32,6 +32,8 @@ from datetime import date, datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+from companies import names_match
+
 STOPWORDS = {
     "the", "a", "an", "and", "or", "of", "to", "in", "for", "on", "with", "at", "by",
     "is", "are", "be", "as", "this", "that", "will", "we", "you", "our", "your",
@@ -140,7 +142,46 @@ def timing_multiplier(date_posted: Optional[str], as_of: date) -> Tuple[Optional
     return days, max(mult, 0.5)
 
 
-def eligibility_state(posting: dict, profile: dict) -> Tuple[str, str]:
+def load_dol_lookup(path: Path) -> Dict[str, dict]:
+    if not path.exists():
+        return {}
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    return payload.get("companies", {})
+
+
+def sponsorship_card(company: str, dol_companies: Dict[str, dict]) -> dict:
+    """Company-level DOL/h1bdata LCA evidence, keyed via companies.py's alias
+    table so 'Capital One' on a posting matches whatever employer name form
+    dol_lookup.py found. Never used to override an explicit posting-language
+    block (see eligibility_state) - only to add real context to VERIFY/
+    ELIGIBLE cases in place of a guessed default."""
+    entry = dol_companies.get(company)
+    if entry is None:
+        for name, candidate in dol_companies.items():
+            if names_match(company, name):
+                entry = candidate
+                break
+
+    if entry is None:
+        return {"status": "UNKNOWN", "total_filings_3yr": None, "trend": None,
+                "note": "dol_lookup.py has not been run yet for this company - rely on exact posting language."}
+
+    status = entry.get("sponsorship_evidence", "UNKNOWN")
+    if status == "REAL":
+        n_years = len(entry.get("fiscal_year_filings", {})) or 3
+        note = (f"Real LCA filing history: {entry['total_filings_3yr']} filings over the last "
+                f"{n_years} fiscal years, trend {entry['trend']}. Historically sponsors visas - "
+                "still verify exact posting wording before applying.")
+    elif status == "NONE":
+        note = "No filing history found - rely on exact posting language."
+    else:
+        note = "DOL/h1bdata lookup could not reach a source for this company - rely on exact posting language."
+
+    return {"status": status, "total_filings_3yr": entry.get("total_filings_3yr"),
+            "trend": entry.get("trend"), "note": note}
+
+
+def eligibility_state(posting: dict, profile: dict, dol_card: dict) -> Tuple[str, str]:
     if posting.get("closed_badge"):
         return "CLOSED", "Tracker marked this posting closed."
 
@@ -154,13 +195,16 @@ def eligibility_state(posting: dict, profile: dict) -> Tuple[str, str]:
             return "INELIGIBLE", f"Posting text matches a hard block phrase: \"{phrase}\"."
 
     if posting.get("no_sponsorship_badge"):
-        return "INELIGIBLE", "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls)."
+        return "INELIGIBLE", "Tracker badge: no visa sponsorship. Treated as a hard stop per V6 lesson (exact posting wording controls) - real DOL filing history does not override an explicit posting-language block."
 
     for phrase in profile["eligibility_verify_phrases"]:
         if phrase.lower() in text:
-            return "VERIFY", f"Posting text mentions \"{phrase}\" - exact CPT/sponsorship wording must be checked on the live posting before applying."
+            return "VERIFY", (f"Posting text mentions \"{phrase}\" - exact CPT/sponsorship wording must be "
+                               f"checked on the live posting before applying. {dol_card['note']}")
 
-    return "ELIGIBLE", "No CPT/OPT/sponsorship/citizenship block found in tracker data. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause)."
+    return "ELIGIBLE", (f"No CPT/OPT/sponsorship/citizenship block found in tracker data. {dol_card['note']} "
+                         "Still verify on the live posting (trackers only capture company-level badges, not "
+                         "always the exact posting clause).")
 
 
 def tier_for_fit(fit_score: float) -> str:
@@ -175,6 +219,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--postings", default=Path("data/postings.json"), type=Path)
     parser.add_argument("--profile", default=Path("data/profile.json"), type=Path)
+    parser.add_argument("--dol-lookup", default=Path("data/dol_lookup.json"), type=Path)
     parser.add_argument("--out", default=Path("data/matches.json"), type=Path)
     parser.add_argument("--as-of", default=None, help="YYYY-MM-DD, defaults to today (UTC).")
     args = parser.parse_args()
@@ -182,6 +227,7 @@ def main() -> None:
     postings_payload = json.loads(args.postings.read_text(encoding="utf-8"))
     profile = json.loads(args.profile.read_text(encoding="utf-8"))
     postings = postings_payload["postings"]
+    dol_companies = load_dol_lookup(args.dol_lookup)
 
     as_of = datetime.strptime(args.as_of, "%Y-%m-%d").date() if args.as_of else date.today()
 
@@ -193,7 +239,8 @@ def main() -> None:
     counts = Counter()
 
     for posting, text, doc_tokens in zip(postings, posting_texts, corpus_token_lists):
-        eligibility, eligibility_reason = eligibility_state(posting, profile)
+        dol_card = sponsorship_card(posting["company"], dol_companies)
+        eligibility, eligibility_reason = eligibility_state(posting, profile, dol_card)
         counts[eligibility] += 1
 
         family, family_mult = role_family_match(text, profile["role_families"])
@@ -220,6 +267,7 @@ def main() -> None:
             "days_since_posted": days_since_posted,
             "eligibility": eligibility,
             "eligibility_reason": eligibility_reason,
+            "sponsorship_evidence": dol_card,
             "role_family": family,
             "fit_score": fit_score,
             "fit_tier": tier_for_fit(fit_score),
