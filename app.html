@@ -256,7 +256,8 @@ function sponsorLine(m) {
   if (!s) return "";
   let text;
   if (s.status === "REAL") {
-    text = `DOL filing history: ${s.total_filings_3yr} LCA filings / 3 fiscal years, trend ${s.trend}`;
+    const trendText = (s.trend && s.trend !== "insufficient_data") ? `, trend ${s.trend}` : " (trend not yet available)";
+    text = `DOL filing history: ${s.total_filings_3yr} LCA filings / 3 fiscal years${trendText}`;
   } else if (s.status === "NONE") {
     text = "No filing history found — rely on exact posting language.";
   } else {

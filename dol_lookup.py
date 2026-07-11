@@ -254,11 +254,17 @@ def fetch_dol_quarter(base_url: str, fy: int, quarter: str) -> Optional[Path]:
 
 
 def process_dol_fiscal_year(fy: int, companies: List[str], tally: Dict[str, Dict[int, int]],
-                             matched_names: Dict[str, set]) -> bool:
-    """Returns True if at least one quarter file for this fiscal year was
-    successfully fetched and parsed (i.e. the source was reachable), whether
-    or not it happened to contain matches."""
+                             matched_names: Dict[str, set]) -> Tuple[bool, int]:
+    """Returns (reached, quarters_parsed). reached is True if at least one
+    quarter file for this fiscal year was successfully fetched and parsed
+    (i.e. the source was reachable), whether or not it happened to contain
+    matches. quarters_parsed counts how many of the 4 quarters actually
+    came back - DOL publishes each quarter with a lag of a few months, so
+    the current/most recent fiscal year is often still incomplete. Callers
+    use this to avoid comparing a complete year against a partial one and
+    calling the difference a "trend"."""
     reached = False
+    quarters_parsed = 0
     for quarter in DOL_QUARTERS:
         fetched = None
         for base_url in DOL_BASE_URLS:
@@ -275,12 +281,13 @@ def process_dol_fiscal_year(fy: int, companies: List[str], tally: Dict[str, Dict
                     rows = tally_from_rows(csv.reader(f), companies, fy, tally, matched_names)
             if rows > 0:
                 reached = True
+                quarters_parsed += 1
                 print(f"  FY{fy} {quarter}: parsed {rows} disclosure rows")
         except (zipfile.BadZipFile, ET.ParseError, csv.Error, UnicodeDecodeError) as exc:
             print(f"  ! could not parse FY{fy} {quarter} file: {exc}", file=sys.stderr)
         finally:
             fetched.unlink(missing_ok=True)
-    return reached
+    return reached, quarters_parsed
 
 
 H1BDATA_ROW_RE = re.compile(r"<tr>(.*?)</tr>", re.IGNORECASE | re.DOTALL)
@@ -328,13 +335,26 @@ def h1bdata_lookup(company: str, fiscal_years: List[int]) -> Tuple[Optional[Dict
     return dict(fy_counts), True, matched_employer
 
 
-def compute_trend(fy_counts: Dict[int, int], fiscal_years: List[int]) -> str:
-    ordered = [fy_counts.get(fy, 0) for fy in sorted(fiscal_years)]
-    if sum(ordered) == 0:
+QUARTERS_PER_FY = 4
+
+
+def compute_trend(fy_counts: Dict[int, int], complete_fiscal_years: List[int]) -> str:
+    """Trend is only ever computed between two fiscal years DOL has fully
+    published (4/4 quarters) - never against the current/most recent FY
+    while it's still partial. DOL publishes each quarter with a few months'
+    lag, so the latest target fiscal year is routinely incomplete; comparing
+    a complete year's total against a partial one would show "falling" for
+    almost every employer near the start of a fiscal year, which is an
+    artifact of publication lag, not a real signal. insufficient_data (not
+    a guess) is the honest answer until 2+ complete years exist."""
+    if len(complete_fiscal_years) < 2:
         return "insufficient_data"
-    first, last = ordered[0], ordered[-1]
+    ordered = sorted(complete_fiscal_years)
+    first, last = fy_counts.get(ordered[0], 0), fy_counts.get(ordered[-1], 0)
+    if first == 0 and last == 0:
+        return "insufficient_data"
     if first == 0:
-        return "rising" if last > 0 else "flat"
+        return "rising"
     ratio = last / first
     if ratio >= 1.15:
         return "rising"
@@ -370,12 +390,27 @@ def main() -> None:
     tally: Dict[str, Dict[int, int]] = defaultdict(lambda: defaultdict(int))
     matched_names: Dict[str, set] = defaultdict(set)
     dol_reachable = False
+    fy_quarters_parsed: Dict[int, int] = {}
 
     if not args.skip_dol_bulk:
         for fy in fiscal_years:
             print(f"Fetching DOL LCA disclosure data for FY{fy} ...")
-            if process_dol_fiscal_year(fy, companies, tally, matched_names):
+            reached, quarters_parsed = process_dol_fiscal_year(fy, companies, tally, matched_names)
+            fy_quarters_parsed[fy] = quarters_parsed
+            if reached:
                 dol_reachable = True
+
+    # A fiscal year only counts as "complete" for trend purposes once all 4
+    # quarters have been published. h1bdata.info draws on the same
+    # underlying DOL data, so it's subject to the same publication lag -
+    # this completeness check applies regardless of which source a given
+    # company's counts ultimately came from.
+    complete_fiscal_years = [fy for fy in fiscal_years if fy_quarters_parsed.get(fy, 0) >= QUARTERS_PER_FY]
+    if len(complete_fiscal_years) < len(fiscal_years):
+        incomplete = [fy for fy in fiscal_years if fy not in complete_fiscal_years]
+        print(f"Fiscal year(s) {incomplete} are not fully published yet "
+              f"(quarters parsed: { {fy: fy_quarters_parsed.get(fy, 0) for fy in incomplete} }) - "
+              "excluded from trend comparisons.")
 
     h1bdata_reachable_any = False
     companies_out = {}
@@ -409,7 +444,7 @@ def main() -> None:
             "company": company,
             "fiscal_year_filings": fy_counts,
             "total_filings_3yr": total,
-            "trend": compute_trend(fy_counts, fiscal_years) if checked else "insufficient_data",
+            "trend": compute_trend(fy_counts, complete_fiscal_years) if checked else "insufficient_data",
             "sponsorship_evidence": evidence,
             "source": source,
             "matched_employer_names": sorted(matched_names.get(company, [])),
@@ -420,13 +455,19 @@ def main() -> None:
         "fetched_at": datetime.utcnow().isoformat() + "Z",
         "as_of_date": as_of.isoformat(),
         "target_fiscal_years": fiscal_years,
+        "complete_fiscal_years": complete_fiscal_years,
+        "fiscal_year_quarters_published": fy_quarters_parsed,
         "dol_bulk_reachable": dol_reachable,
         "h1bdata_fallback_reachable": h1bdata_reachable_any,
         "company_count": len(companies_out),
         "note": (
             "sponsorship_evidence is REAL or NONE only when a source was actually reached for that "
             "company (checked=true). UNKNOWN means neither DOL's bulk disclosure files nor "
-            "h1bdata.info could be reached for this company - never treated as NONE."
+            "h1bdata.info could be reached for this company - never treated as NONE. trend is "
+            "'insufficient_data' unless at least 2 fiscal years in complete_fiscal_years (all 4 "
+            "quarters published by DOL) are available - the most recent target fiscal year is "
+            "routinely still partial due to DOL's publication lag, and comparing a complete year "
+            "against a partial one would manufacture a false 'falling' signal for almost everyone."
         ),
         "companies": companies_out,
     }

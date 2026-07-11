@@ -169,8 +169,10 @@ def sponsorship_card(company: str, dol_companies: Dict[str, dict]) -> dict:
     status = entry.get("sponsorship_evidence", "UNKNOWN")
     if status == "REAL":
         n_years = len(entry.get("fiscal_year_filings", {})) or 3
+        trend = entry.get("trend")
+        trend_clause = f", trend {trend}" if trend and trend != "insufficient_data" else " (trend not yet available - DOL hasn't published enough fiscal years to compare)"
         note = (f"Real LCA filing history: {entry['total_filings_3yr']} filings over the last "
-                f"{n_years} fiscal years, trend {entry['trend']}. Historically sponsors visas - "
+                f"{n_years} fiscal years{trend_clause}. Historically sponsors visas - "
                 "still verify exact posting wording before applying.")
     elif status == "NONE":
         note = "No filing history found - rely on exact posting language."
