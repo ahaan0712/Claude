@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Campaign 27 V7 — Posting Matcher</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --grid:           #e1e0d9;
+    --border:         rgba(11,11,11,0.10);
+    --tier-strong:    #2a78d6;
+    --tier-good:      #5598e7;
+    --tier-explore:   #86b6ef;
+    --status-good:    #0ca30c;
+    --status-warning: #fab219;
+    --status-serious: #ec835a;
+    --status-critical:#d03b3b;
+    --status-neutral: #898781;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --grid:           #2c2c2a;
+      --border:         rgba(255,255,255,0.10);
+      --tier-strong:    #3987e5;
+      --tier-good:      #5598e7;
+      --tier-explore:   #6da7ec;
+      --status-good:    #0ca30c;
+      --status-warning: #fab219;
+      --status-serious: #ec835a;
+      --status-critical:#e66767;
+    }
+  }
+  :root[data-theme="dark"] {
+    --surface-1: #1a1a19; --page:#0d0d0d; --text-primary:#ffffff; --text-secondary:#c3c2b7;
+    --grid:#2c2c2a; --border: rgba(255,255,255,0.10);
+  }
+  :root[data-theme="light"] {
+    --surface-1:#fcfcfb; --page:#f9f9f7; --text-primary:#0b0b0b; --text-secondary:#52514e;
+    --grid:#e1e0d9; --border: rgba(11,11,11,0.10);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0 0 4rem;
+    background: var(--page);
+    color: var(--text-primary);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+
+  header.top {
+    padding: 2.2rem 0 1.2rem;
+    border-bottom: 1px solid var(--border);
+  }
+  header.top h1 { margin: 0 0 0.3rem; font-size: 1.5rem; letter-spacing: -0.01em; }
+  header.top p.sub { margin: 0; color: var(--text-secondary); max-width: 62ch; }
+  header.top .meta { margin-top: 0.8rem; color: var(--text-muted); font-size: 0.8rem; }
+
+  section { margin-top: 2.2rem; }
+  h2 { font-size: 1.05rem; margin: 0 0 0.9rem; }
+  .card {
+    background: var(--surface-1);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.1rem 1.2rem;
+  }
+
+  .headline-text { color: var(--text-secondary); margin: 0 0 1rem; max-width: 74ch; }
+  .basis-pill {
+    display: inline-block; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.02em;
+    padding: 0.18rem 0.55rem; border-radius: 999px; text-transform: uppercase;
+    margin-bottom: 0.7rem;
+  }
+  .basis-NO_CALIBRATED_LANES { background: color-mix(in srgb, var(--status-warning) 22%, transparent); color: var(--status-warning); }
+  .basis-PARTIAL { background: color-mix(in srgb, var(--status-warning) 22%, transparent); color: var(--status-warning); }
+  .basis-FULLY_CALIBRATED { background: color-mix(in srgb, var(--status-good) 22%, transparent); color: var(--status-good); }
+
+  .curve-block { margin-top: 1.1rem; }
+  .curve-block h3 { font-size: 0.85rem; margin: 0 0 0.2rem; color: var(--text-primary); }
+  .curve-block .curve-note { font-size: 0.78rem; color: var(--text-muted); margin: 0 0 0.6rem; max-width: 70ch; }
+  svg.curve { width: 100%; height: 220px; overflow: visible; }
+  .curve-band { fill: var(--tier-explore); opacity: 0.22; }
+  .curve-line { fill: none; stroke: var(--tier-strong); stroke-width: 2; }
+  .curve-axis { stroke: var(--grid); stroke-width: 1; }
+  .curve-tick { fill: var(--text-muted); font-size: 10px; }
+  .curve-empty { color: var(--text-muted); font-size: 0.85rem; padding: 1rem 0; }
+
+  .tabs { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .tab-btn {
+    border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary);
+    border-radius: 999px; padding: 0.35rem 0.85rem; font-size: 0.8rem; cursor: pointer;
+  }
+  .tab-btn[aria-selected="true"] { color: var(--text-primary); border-color: var(--text-primary); font-weight: 600; }
+  .tab-count { color: var(--text-muted); }
+
+  .tier-group { margin-top: 1.3rem; }
+  .tier-group:first-child { margin-top: 0; }
+  .tier-heading {
+    display: flex; align-items: center; gap: 0.5rem;
+    font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--text-muted); margin-bottom: 0.55rem;
+  }
+  .tier-dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .tier-Strong .tier-dot { background: var(--tier-strong); }
+  .tier-Good .tier-dot { background: var(--tier-good); }
+  .tier-Exploratory .tier-dot { background: var(--tier-explore); }
+
+  .posting-list { display: grid; gap: 0.55rem; }
+  .posting {
+    display: grid; grid-template-columns: 1fr auto; gap: 0.2rem 1rem;
+    border: 1px solid var(--border); border-radius: 8px; padding: 0.7rem 0.9rem;
+    background: var(--surface-1);
+  }
+  .posting .p-title { font-weight: 600; }
+  .posting .p-title a { color: inherit; text-decoration: none; }
+  .posting .p-title a:hover { text-decoration: underline; }
+  .posting .p-sub { color: var(--text-secondary); font-size: 0.85rem; grid-column: 1 / -1; }
+  .posting .p-meta { color: var(--text-muted); font-size: 0.78rem; grid-column: 1 / -1; display: flex; gap: 0.9rem; flex-wrap: wrap; }
+  .posting .p-score {
+    font-variant-numeric: tabular-nums; font-weight: 700; font-size: 1rem;
+    align-self: start; justify-self: end;
+  }
+  .posting .p-reason { color: var(--text-muted); font-size: 0.78rem; grid-column: 1 / -1; font-style: italic; }
+
+  .status-badge {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    font-size: 0.72rem; font-weight: 600; padding: 0.1rem 0.5rem; border-radius: 999px;
+  }
+  .status-ELIGIBLE { color: var(--status-good); }
+  .status-VERIFY { color: var(--status-warning); }
+  .status-INELIGIBLE { color: var(--status-critical); }
+  .status-CLOSED { color: var(--status-neutral); }
+
+  .empty-state { color: var(--text-muted); padding: 1rem 0; }
+  footer.note { margin-top: 2.5rem; color: var(--text-muted); font-size: 0.78rem; }
+  .load-error {
+    border: 1px solid var(--status-critical); border-radius: 8px; padding: 1rem;
+    color: var(--status-critical); background: color-mix(in srgb, var(--status-critical) 8%, transparent);
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Campaign 27 V7 — Posting Matcher</h1>
+    <p class="sub">Ahaan Anand · F-1, Virginia Tech CMDA + Economics · May 2028 · analytics / econ-consulting.
+      Every row below is one <em>posting</em>, not one company. Groups are eligibility, then fit tier —
+      never a point rank. Fit scores are relevance, not a probability of any outcome.</p>
+    <p class="meta" id="freshness"></p>
+  </header>
+
+  <section id="portfolio-section">
+    <h2>Portfolio: apply to top N postings → expected interviews</h2>
+    <div class="card" id="portfolio-card">Loading…</div>
+  </section>
+
+  <section id="postings-section">
+    <h2>Postings</h2>
+    <div class="tabs" id="elig-tabs"></div>
+    <div id="tier-groups"></div>
+  </section>
+
+  <footer class="note" id="footer-note"></footer>
+</div>
+
+<script>
+const ELIG_ORDER = ["ELIGIBLE", "VERIFY", "INELIGIBLE", "CLOSED"];
+const ELIG_LABEL = {
+  ELIGIBLE: "Eligible", VERIFY: "Verify on posting", INELIGIBLE: "Ineligible", CLOSED: "Closed"
+};
+const TIER_ORDER = ["Strong", "Good", "Exploratory"];
+
+async function loadJSON(path) {
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+  return res.json();
+}
+
+function fmtDays(d) {
+  if (d === null || d === undefined) return "posting date unknown";
+  if (d === 0) return "posted today";
+  if (d === 1) return "posted 1 day ago";
+  return `posted ${d} days ago`;
+}
+
+function curveSVG(curve, xKey, containerId) {
+  const el = document.getElementById(containerId);
+  if (!curve || curve.length === 0) {
+    el.innerHTML = '<div class="curve-empty">No postings available for this curve yet.</div>';
+    return;
+  }
+  const W = 640, H = 200, padL = 34, padR = 10, padT = 10, padB = 24;
+  const xs = curve.map(p => p.n_postings);
+  const maxY = Math.max(1, ...curve.map(p => p.p90));
+  const x = n => padL + (n - xs[0]) / (xs[xs.length - 1] - xs[0] || 1) * (W - padL - padR);
+  const y = v => H - padB - (v / maxY) * (H - padT - padB);
+
+  const bandTop = curve.map(p => `${x(p.n_postings)},${y(p.p90)}`).join(" L ");
+  const bandBot = curve.slice().reverse().map(p => `${x(p.n_postings)},${y(p.p10)}`).join(" L ");
+  const bandPath = `M ${bandTop} L ${bandBot} Z`;
+  const linePath = "M " + curve.map(p => `${x(p.n_postings)},${y(p.expected_interviews_mean)}`).join(" L ");
+
+  const yTicks = [0, maxY / 2, maxY].map(v => `
+    <line class="curve-axis" x1="${padL}" x2="${W-padR}" y1="${y(v)}" y2="${y(v)}"/>
+    <text class="curve-tick" x="4" y="${y(v)+3}">${v.toFixed(1)}</text>`).join("");
+  const xTicks = curve.filter((_, i) => i === 0 || i === curve.length - 1 || i % Math.ceil(curve.length/6) === 0)
+    .map(p => `<text class="curve-tick" x="${x(p.n_postings)}" y="${H-6}" text-anchor="middle">${p.n_postings}</text>`).join("");
+
+  el.innerHTML = `
+    <svg class="curve" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMinYMin meet" role="img"
+         aria-label="Expected interviews vs number of postings applied to, with 10th-90th percentile band">
+      <path class="curve-band" d="${bandPath}"/>
+      <path class="curve-line" d="${linePath}"/>
+      ${yTicks}${xTicks}
+      <text class="curve-tick" x="${padL}" y="${H}" text-anchor="start">applications →</text>
+    </svg>`;
+}
+
+function renderPortfolio(p) {
+  const card = document.getElementById("portfolio-card");
+  const pillClass = `basis-pill basis-${p.basis}`;
+  card.innerHTML = `
+    <span class="${pillClass}">${p.basis.replace(/_/g, " ")}</span>
+    <p class="headline-text">${p.headline}</p>
+    <div class="curve-block">
+      <h3>Calibrated curve (DATA-BACKED lanes only)</h3>
+      <p class="curve-note">${p.calibrated_curve_note}</p>
+      <div id="calibrated-curve-holder"></div>
+    </div>
+    <div class="curve-block">
+      <h3>Illustrative PRIOR-ONLY curve</h3>
+      <p class="curve-note">${p.prior_only_curve_note}</p>
+      <div id="prior-curve-holder"></div>
+    </div>
+  `;
+  curveSVG(p.calibrated_curve, "n_postings", "calibrated-curve-holder");
+  curveSVG(p.prior_only_curve, "n_postings", "prior-curve-holder");
+}
+
+function postingCard(m) {
+  const url = m.url ? `<a href="${m.url}" target="_blank" rel="noopener">${m.role}</a>` : m.role;
+  return `
+    <div class="posting">
+      <div class="p-title">${m.company} — ${url}</div>
+      <div class="p-score">${m.fit_score.toFixed(1)}</div>
+      <div class="p-sub">${m.role_family || "role family: unmatched"} · ${m.location || "location unknown"}</div>
+      <div class="p-meta">
+        <span class="status-badge status-${m.eligibility}">${ELIG_LABEL[m.eligibility]}</span>
+        <span>${fmtDays(m.days_since_posted)}</span>
+        <span>fit tier: ${m.fit_tier}</span>
+        <span>source: ${m.source}</span>
+      </div>
+      <div class="p-reason">${m.eligibility_reason}</div>
+    </div>`;
+}
+
+function renderPostings(matches) {
+  const counts = {};
+  ELIG_ORDER.forEach(e => counts[e] = matches.filter(m => m.eligibility === e).length);
+
+  const tabsEl = document.getElementById("elig-tabs");
+  tabsEl.innerHTML = ELIG_ORDER.map((e, i) => `
+    <button class="tab-btn" data-elig="${e}" aria-selected="${i === 0}">
+      ${ELIG_LABEL[e]} <span class="tab-count">(${counts[e]})</span>
+    </button>`).join("");
+
+  function draw(elig) {
+    const groupsEl = document.getElementById("tier-groups");
+    const pool = matches.filter(m => m.eligibility === elig);
+    if (pool.length === 0) {
+      groupsEl.innerHTML = '<p class="empty-state">No postings in this group.</p>';
+      return;
+    }
+    groupsEl.innerHTML = TIER_ORDER.map(tier => {
+      const items = pool.filter(m => m.fit_tier === tier)
+        .sort((a, b) => (a.days_since_posted ?? 9999) - (b.days_since_posted ?? 9999));
+      if (items.length === 0) return "";
+      return `
+        <div class="tier-group tier-${tier}">
+          <div class="tier-heading"><span class="tier-dot"></span>${tier} fit (${items.length})</div>
+          <div class="posting-list">${items.map(postingCard).join("")}</div>
+        </div>`;
+    }).join("") || '<p class="empty-state">No postings in this group.</p>';
+  }
+
+  tabsEl.addEventListener("click", e => {
+    const btn = e.target.closest(".tab-btn");
+    if (!btn) return;
+    [...tabsEl.children].forEach(b => b.setAttribute("aria-selected", b === btn));
+    draw(btn.dataset.elig);
+  });
+
+  draw(ELIG_ORDER[0]);
+}
+
+async function main() {
+  try {
+    const [matchesPayload, portfolio] = await Promise.all([
+      loadJSON("data/matches.json"),
+      loadJSON("data/portfolio.json"),
+    ]);
+    document.getElementById("freshness").textContent =
+      `postings scored ${matchesPayload.scored_at} · as of ${matchesPayload.as_of_date} · portfolio generated ${portfolio.generated_at}`;
+    document.getElementById("footer-note").textContent = matchesPayload.note;
+    renderPortfolio(portfolio);
+    renderPostings(matchesPayload.matches);
+  } catch (err) {
+    document.getElementById("portfolio-card").innerHTML =
+      `<div class="load-error">Could not load data/matches.json or data/portfolio.json (${err.message}).
+       This page must be served over HTTP, not opened as a file:// URL — run
+       <code>python3 -m http.server</code> in the repo root and open
+       <code>http://localhost:8000/app.html</code>.</div>`;
+  }
+}
+main();
+</script>
+</body>
+</html>

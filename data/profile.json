@@ -1,0 +1,126 @@
+{
+  "name": "Ahaan Anand",
+  "school": "Virginia Tech",
+  "majors": ["Computational Modeling & Data Analytics (CMDA)", "Economics"],
+  "grad_month": "2028-05",
+  "visa_status": "F-1 international student; requires CPT authorization during any internship, OPT after graduation. Not a US citizen or permanent resident.",
+  "gpa_cumulative": 3.31,
+  "gpa_note": "~3.7 sophomore-year average; Dean's List Fall 2025 and Spring 2026. Cumulative GPA is what portals see.",
+
+  "experience": [
+    {
+      "org": "ALSAC / St. Jude Children's Research Hospital",
+      "title": "Data Science & Insights Intern",
+      "bullets": [
+        "Built SQL and Python pipelines against 30M+ donor records",
+        "Built Tableau dashboards for donor insights reporting",
+        "Built propensity-to-give models using DataRobot",
+        "Direct US undergraduate analytics internship progression"
+      ]
+    },
+    {
+      "org": "Mankind Pharma",
+      "title": "Analytics Intern",
+      "bullets": [
+        "Consumer, competitor, and social-sentiment analytics in Python and R",
+        "Recommendations advanced to R&D based on market analysis",
+        "Strong signal for consumer, growth, marketing, and payments/marketplace analytics roles"
+      ]
+    },
+    {
+      "org": "Kajaria Ceramics",
+      "title": "Analytics Intern",
+      "bullets": [
+        "Demand forecasting, segmentation, and regional sales analytics in R and Python",
+        "Pricing analysis and customer segmentation for commercial decisions"
+      ]
+    },
+    {
+      "org": "Research",
+      "title": "Undergraduate Researcher",
+      "bullets": [
+        "Economics replication project",
+        "Machine learning and human-motion research",
+        "Two publications",
+        "Differentiating evidence for economic consulting, experimentation, and decision-science roles"
+      ]
+    },
+    {
+      "org": "Leadership",
+      "title": "Well-Being Student Leader (incoming); Sigma Tau Gamma",
+      "bullets": [
+        "Selected 1 of ~90 from ~900 applicants for Well-Being Student Leader",
+        "Fraternity membership (Sigma Tau Gamma) — networking value, not analytics evidence"
+      ]
+    }
+  ],
+
+  "skills": ["Python", "R", "SQL", "Java", "Tableau", "pandas", "NumPy", "Matplotlib", "DataRobot", "Excel"],
+
+  "resume_text": "Ahaan Anand Virginia Tech Computational Modeling and Data Analytics CMDA Economics undergraduate May 2028. Data Science and Insights Intern ALSAC St. Jude Children's Research Hospital SQL Python pipelines 30 million donor records Tableau dashboards donor insights reporting propensity to give models DataRobot direct analytics progression. Analytics Intern Mankind Pharma consumer competitor social sentiment analytics Python R recommendations advanced to R&D market analysis consumer growth marketing payments marketplace analytics. Analytics Intern Kajaria Ceramics demand forecasting segmentation regional sales analytics R Python pricing analysis customer segmentation commercial decisions. Undergraduate researcher economics replication project machine learning human motion research two publications economic consulting experimentation decision science. Well-Being Student Leader selected one of ninety from nine hundred applicants Sigma Tau Gamma fraternity networking. Skills Python R SQL Java Tableau pandas NumPy Matplotlib DataRobot Excel data analytics business intelligence product analytics decision science economic consulting risk financial analytics applied data science quantitative analyst intern.",
+
+  "role_families": {
+    "Data Analytics": {
+      "keywords": ["data analyst", "data analytics", "analytics intern", "reporting analyst", "SQL", "dashboards", "data insights"]
+    },
+    "Business Intelligence": {
+      "keywords": ["business intelligence", "BI analyst", "BI intern", "tableau", "power bi", "data visualization"]
+    },
+    "Product Analytics": {
+      "keywords": ["product analyst", "product analytics", "growth metrics", "product data science", "user analytics"]
+    },
+    "Decision Science": {
+      "keywords": ["decision science", "applied scientist", "experimentation", "causal inference", "A/B testing", "research scientist"]
+    },
+    "Growth / Marketing Analytics": {
+      "keywords": ["growth analytics", "marketing analytics", "campaign analytics", "growth intern", "marketing data"]
+    },
+    "Strategy / Business Analytics": {
+      "keywords": ["strategy analyst", "business operations", "biz ops", "strategy intern", "corporate strategy", "business analytics"]
+    },
+    "Analytics Consulting": {
+      "keywords": ["analytics consulting", "data consulting", "management consulting analytics", "consulting analyst"]
+    },
+    "Economic Consulting": {
+      "keywords": ["economic consulting", "economic consultant", "antitrust", "litigation economics", "econ consulting", "competition economics"]
+    },
+    "Risk / Financial Analytics": {
+      "keywords": ["risk analytics", "credit risk", "quantitative risk", "financial analytics", "risk analyst intern"]
+    },
+    "Applied Data Science": {
+      "keywords": ["data science intern", "applied data scientist", "machine learning analyst", "data scientist intern", "ML intern analytics"]
+    }
+  },
+
+  "off_target_keywords": [
+    "software engineer intern", "swe intern", "firmware", "embedded systems", "hardware engineer",
+    "quantitative trading", "quant trader", "quantitative researcher intern trading",
+    "mechanical engineer", "civil engineer", "electrical engineer", "manufacturing engineer",
+    "insurance underwriting", "hospitality management", "network engineer intern"
+  ],
+
+  "preferred_industries": {
+    "keywords": ["technology", "tech", "fintech", "payments", "data platform", "marketplace", "media", "streaming",
+                 "digital bank", "neobank", "consulting", "analytics consulting"],
+    "note": "Modern technology, fintech/payments, data platforms, marketplaces, media, modern banking, and consulting."
+  },
+  "deprioritized_industries": {
+    "keywords": ["insurance", "hospitality", "hotel", "manufacturing", "industrial", "quant trading", "quantitative trading",
+                 "hardware", "semiconductor fab", "oil and gas", "mining"],
+    "note": "Insurance, hospitality, industrial/manufacturing, quant trading, and unrelated SWE/hardware. Remain visible, receive a preference penalty rather than exclusion."
+  },
+
+  "eligibility_block_phrases": [
+    "not able to provide sponsorship", "no sponsorship", "does not sponsor", "will not sponsor",
+    "unable to sponsor", "must be a us citizen", "u.s. citizen only", "us citizens only",
+    "must be authorized to work in the united states without sponsorship",
+    "requires US citizenship", "security clearance required", "active security clearance",
+    "cpt not accepted", "does not support cpt", "no cpt", "opt not accepted"
+  ],
+  "eligibility_verify_phrases": [
+    "sponsorship", "work authorization", "visa", "cpt", "opt", "citizenship",
+    "clearance eligible", "export control"
+  ],
+
+  "source": "Extracted from Ahaan_2027_Evidence_Driven_Model_V6.xlsx (Ahaan Profile, Role-Level Model sheets), 2026-07-11."
+}
