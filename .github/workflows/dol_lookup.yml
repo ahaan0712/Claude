@@ -1,44 +1,153 @@
-name: DOL LCA lookup
+name: Refresh data and deploy site
 
 on:
-  workflow_dispatch: {}
+
+  workflow_dispatch:
+
   schedule:
-    - cron: "0 13 1 * *"  # monthly, 1st of month 13:00 UTC
+
+    - cron: "0 13 1 * *"
+
   push:
-    branches: ["claude/campaign-27-v7-matcher-ailg6c"]
+
+    branches:
+
+      - main
+
     paths:
+
+      - "index.html"
+
+      - "app.html"
+
+      - "data/**"
+
+      - "*.py"
+
       - ".github/workflows/dol_lookup.yml"
 
 permissions:
+
   contents: write
 
-jobs:
-  dol-lookup:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+  pages: write
 
-      - uses: actions/setup-python@v5
+  id-token: write
+
+concurrency:
+
+  group: github-pages
+
+  cancel-in-progress: false
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Check out repository
+
+        uses: actions/checkout@v4
+
         with:
+
+          fetch-depth: 0
+
+      - name: Set up Python
+
+        uses: actions/setup-python@v5
+
+        with:
+
           python-version: "3.11"
 
-      - name: Run DOL/h1bdata lookup
+      - name: Run DOL and h1bdata lookup
+
         run: python3 dol_lookup.py
 
-      - name: Re-score postings with fresh sponsorship evidence
+      - name: Re-score postings
+
         run: |
+
           python3 score.py
+
           python3 calibrate.py
+
           python3 portfolio.py
 
-      - name: Commit updated data if changed
+      - name: Create Pages homepage
+
         run: |
-          git config user.name "campaign-27-v7-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/dol_lookup.json data/matches.json data/lane_calibration.json data/portfolio.json
-          if git diff --cached --quiet; then
-            echo "No data changes."
-          else
-            git commit -m "dol_lookup: refresh LCA filing data and re-score postings"
-            git push
+
+          if [ ! -f index.html ] && [ -f app.html ]; then
+
+            cp app.html index.html
+
           fi
+
+      - name: Commit updated data if changed
+
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+
+            data/dol_lookup.json \
+
+            data/matches.json \
+
+            data/lane_calibration.json \
+
+            data/portfolio.json \
+
+            index.html
+
+          if git diff --cached --quiet; then
+
+            echo "No generated data changes."
+
+          else
+
+            git commit -m "Refresh LCA evidence and scoring data"
+
+            git push
+
+          fi
+
+      - name: Configure GitHub Pages
+
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+
+        uses: actions/upload-pages-artifact@v4
+
+        with:
+
+          path: .
+
+  deploy:
+
+    environment:
+
+      name: github-pages
+
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    needs: build
+
+    steps:
+
+      - name: Deploy to GitHub Pages
+
+        id: deployment
+
+        uses: actions/deploy-pages@v4
