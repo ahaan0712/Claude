@@ -2,19 +2,22 @@
   "active_target_programs": 204,
   "active_xlsx_target_companies": 164,
   "closed_postings": 23,
-  "companies_checked": 6,
-  "companies_expected_later": 158,
-  "companies_expected_within_30_days": 164,
+  "companies_checked": 0,
   "companies_to_check_this_week": 164,
-  "companies_with_ineligible_openings": 3,
-  "companies_with_live_matches": 4,
-  "excluded_postings": 144,
-  "generated_at": "2026-07-11T17:28:24+00:00",
-  "live_matches": 4,
-  "retrieval_coverage": {
-    "FULL": 6,
-    "PARTIAL_OR_LESS": 148
+  "companies_with_ineligible_openings": 1,
+  "companies_with_live_matches": 0,
+  "excluded_postings": 141,
+  "generated_at": "2026-07-11T18:59:12+00:00",
+  "live_matches": 0,
+  "monitoring_status_counts": {
+    "NEEDS_RESEARCH": 164
   },
-  "review_queue": 6,
+  "privacy_result": "site/ excludes raw XLSX, DOCX, LinkedIn CSVs, ZIPs, Python source, and repository root",
+  "programs_opening_31_90_days": 0,
+  "programs_opening_next_30_days": 0,
+  "retrieval_coverage": {
+    "TITLE_ONLY": 148
+  },
+  "review_queue": 7,
   "tracker_postings_treated_as_supplemental": 171
 }

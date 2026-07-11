@@ -113,7 +113,7 @@
       "match_method": "NO_MATCH"
     },
     {
-      "canonical_company_id": "bain-and-company",
+      "canonical_company_id": "bain-company",
       "company": "Bain & Company",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
@@ -697,7 +697,7 @@
       "match_method": "NO_MATCH"
     },
     {
-      "canonical_company_id": "johnson-and-johnson",
+      "canonical_company_id": "johnson-johnson",
       "company": "Johnson & Johnson",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
@@ -945,7 +945,7 @@
       "match_method": "NO_MATCH"
     },
     {
-      "canonical_company_id": "procter-and-gamble",
+      "canonical_company_id": "procter-gamble",
       "company": "Procter & Gamble",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
@@ -1017,7 +1017,7 @@
       "match_method": "NO_MATCH"
     },
     {
-      "canonical_company_id": "s-and-p-global",
+      "canonical_company_id": "s-p-global",
       "company": "S&P Global",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
@@ -1313,7 +1313,7 @@
       "match_method": "NO_MATCH"
     }
   ],
-  "generated_at": "2026-07-11T17:28:23+00:00",
+  "generated_at": "2026-07-11T18:59:11+00:00",
   "note": "Existing broken-match evidence invalidated; external refresh in Actions should regenerate. Network failures produce UNKNOWN, never NONE.",
   "previous_real_values_invalidated": true,
   "sample_false_positives_corrected": [

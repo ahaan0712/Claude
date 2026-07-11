@@ -4,47 +4,69 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "Capital One",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": "2026-07-07",
     "deadline": null,
+    "demonstrated_skills": [],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 3, 'experience_similarity': 0, 'screening_compatibility': 3, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 0.0}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r"
+    ],
     "location": "Mclean, VA",
     "matched_resume_evidence": [],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": false,
-    "posting_date": "2026-07-07",
+    "posting_date": null,
     "posting_id": "vanshb03/summer2027-internships:capital one:data analyst intern:mclean, va",
     "preferred_qualifications": "",
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Data Analyst Intern",
     "role_family": "DATA_ANALYTICS",
-    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "role_reason_code": "TITLE_DATA_ANALYTICS",
     "skills_preferred": [],
     "skills_required": [],
     "source": "vanshb03/Summer2027-Internships",
@@ -52,9 +74,10 @@
     "sponsorship_evidence": "",
     "target_program_ids": [],
     "title": "Data Analyst Intern",
-    "tracker_url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah",
+    "tracker_url": null,
     "url": "https://www.capitalonecareers.com/job/mclean/data-analyst-intern-summer-2027/31238/97421687472?utm_source=github-vansh-ouckah",
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   },
@@ -63,44 +86,73 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "IMC Trading",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": "2026-06-28",
     "deadline": null,
+    "demonstrated_skills": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 6, 'experience_similarity': 3, 'screening_compatibility': 3, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 1.54}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r",
+      "machine learning"
+    ],
     "location": "Chicago, IL",
-    "matched_resume_evidence": [],
+    "matched_resume_evidence": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "full description",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "full description",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": false,
-    "posting_date": "2026-06-28",
+    "posting_date": null,
     "posting_id": "sndsh404/summer-2027-internships:imc trading:machine learning research intern:chicago, il",
     "preferred_qualifications": "",
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Machine Learning Research Intern",
     "role_family": "DATA_SCIENCE",
     "role_reason_code": "PRIMARY_DATA_ROLE",
@@ -111,9 +163,10 @@
     "sponsorship_evidence": "",
     "target_program_ids": [],
     "title": "Machine Learning Research Intern",
-    "tracker_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
+    "tracker_url": null,
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   },
@@ -122,47 +175,151 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
+    "citizenship_evidence": "",
+    "clearance_evidence": "",
+    "closed_badge": false,
+    "company": "Bank of America",
+    "country": "United States",
+    "data_completeness": null,
+    "date_posted": "2026-06-28",
+    "deadline": null,
+    "demonstrated_skills": [],
+    "eligibility_confidence": "LOW",
+    "eligibility_evidence": [],
+    "eligibility_reason_codes": [
+      "MISSING_REQUIRED_EVIDENCE"
+    ],
+    "eligibility_status": "VERIFY",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
+    "export_control_evidence": "",
+    "fit_reasons": [
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 3, 'experience_similarity': 0, 'screening_compatibility': 0, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 0.77}",
+      "No probability is estimated or published"
+    ],
+    "fit_tier": "ADJACENT",
+    "full_description": "",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r"
+    ],
+    "location": "multiple US",
+    "matched_resume_evidence": [],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
+    "missing_qualifications": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
+    "no_sponsorship_badge": false,
+    "posting_date": null,
+    "posting_id": "sndsh404/summer-2027-internships:bank of america:quantitative data analyst summer analyst:multiple us",
+    "preferred_qualifications": "",
+    "required_qualifications": "",
+    "retrieval_provider": "SUPPLEMENTAL_TRACKER",
+    "retrieval_status": "TITLE_ONLY",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
+    "role": "Quantitative Data Analyst Summer Analyst",
+    "role_family": "DATA_ANALYTICS",
+    "role_reason_code": "TITLE_DATA_ANALYTICS",
+    "skills_preferred": [],
+    "skills_required": [],
+    "source": "sndsh404/summer-2027-internships",
+    "source_class": "SUPPLEMENTAL_TRACKER",
+    "sponsorship_evidence": "",
+    "target_program_ids": [],
+    "title": "Quantitative Data Analyst Summer Analyst",
+    "tracker_url": null,
+    "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14420/quantitative-data-analyst-summer-analyst-program-multiple-locations",
+    "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
+    "verification_items": [],
+    "work_authorization_evidence": ""
+  },
+  {
+    "application_priority": "VERIFY FIRST",
+    "application_status": "",
+    "calibrated_probability": null,
+    "calibration_status": "PRIOR_ONLY",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "Delta Air Lines",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": "2026-06-23",
     "deadline": null,
+    "demonstrated_skills": [],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 3, 'experience_similarity': 0, 'screening_compatibility': 0, 'domain_alignment': 2, 'posting_quality': 1, 'lexical_similarity': 1.54}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r"
+    ],
     "location": "Atlanta, GA",
     "matched_resume_evidence": [],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": false,
-    "posting_date": "2026-06-23",
+    "posting_date": null,
     "posting_id": "sndsh404/summer-2027-internships:delta air lines:reservations co-op (spring 2027, data analytics / process improvement):atlanta, ga",
     "preferred_qualifications": "",
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Reservations Co-op (Spring 2027, data analytics / process improvement)",
     "role_family": "DATA_ANALYTICS",
-    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "role_reason_code": "TITLE_DATA_ANALYTICS",
     "skills_preferred": [],
     "skills_required": [],
     "source": "sndsh404/summer-2027-internships",
@@ -170,9 +327,10 @@
     "sponsorship_evidence": "",
     "target_program_ids": [],
     "title": "Reservations Co-op (Spring 2027, data analytics / process improvement)",
-    "tracker_url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=32928",
+    "tracker_url": null,
     "url": "https://delta.avature.net/en_US/careers/JobDetail?jobId=32928",
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   },
@@ -181,47 +339,69 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "Solar Turbines (Caterpillar)",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": "2026-06-12",
     "deadline": null,
+    "demonstrated_skills": [],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 3, 'experience_similarity': 0, 'screening_compatibility': 3, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 0.0}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r"
+    ],
     "location": "San Diego, CA",
     "matched_resume_evidence": [],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": true,
-    "posting_date": "2026-06-12",
+    "posting_date": null,
     "posting_id": "sndsh404/summer-2027-internships:solar turbines (caterpillar):gas compressor data analyst intern:san diego, ca",
     "preferred_qualifications": "",
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Gas Compressor Data Analyst Intern",
     "role_family": "DATA_ANALYTICS",
-    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "role_reason_code": "TITLE_DATA_ANALYTICS",
     "skills_preferred": [],
     "skills_required": [],
     "source": "sndsh404/summer-2027-internships",
@@ -229,9 +409,10 @@
     "sponsorship_evidence": "",
     "target_program_ids": [],
     "title": "Gas Compressor Data Analyst Intern",
-    "tracker_url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
+    "tracker_url": null,
     "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786",
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   },
@@ -240,44 +421,71 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "Intercontinental Exchange, Inc.",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": "2026-04-20",
     "deadline": null,
+    "demonstrated_skills": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 6, 'experience_similarity': 3, 'screening_compatibility': 3, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 1.54}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r",
+      "machine learning"
+    ],
     "location": "New York, NY",
-    "matched_resume_evidence": [],
+    "matched_resume_evidence": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": false,
-    "posting_date": "2026-04-20",
+    "posting_date": null,
     "posting_id": "vanshb03/summer2027-internships:intercontinental exchange, inc.:artificial intelligence, data & machine learning intern:new york, ny",
     "preferred_qualifications": "",
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Artificial Intelligence, Data & Machine Learning Intern",
     "role_family": "DATA_SCIENCE",
     "role_reason_code": "PRIMARY_DATA_ROLE",
@@ -288,9 +496,10 @@
     "sponsorship_evidence": "",
     "target_program_ids": [],
     "title": "Artificial Intelligence, Data & Machine Learning Intern",
-    "tracker_url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah",
+    "tracker_url": null,
     "url": "https://careers.ice.com/jobs/12830?lang=en-us&iis=LinkedIn&iisn=Linkedin&mode=apply&jr_id=69e67bb27820c036924d0af9&utm_source=github-vansh-ouckah",
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   },
@@ -299,35 +508,64 @@
     "application_status": "",
     "calibrated_probability": null,
     "calibration_status": "PRIOR_ONLY",
-    "canonical_apply_url": "",
-    "canonical_company_id": "",
+    "canonical_apply_url": null,
+    "canonical_company_id": null,
     "citizenship_evidence": "",
     "clearance_evidence": "",
     "closed_badge": false,
     "company": "Apple",
     "country": "United States",
-    "data_completeness": 0.25,
+    "data_completeness": null,
     "date_posted": null,
     "deadline": null,
+    "demonstrated_skills": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
     "eligibility_confidence": "LOW",
     "eligibility_evidence": [],
     "eligibility_reason_codes": [
-      "MISSING_WORK_AUTH_EVIDENCE"
+      "MISSING_REQUIRED_EVIDENCE"
     ],
     "eligibility_status": "VERIFY",
-    "employment_type": "Internship",
+    "employment_type": null,
+    "evidence_source": "supplemental tracker data",
     "export_control_evidence": "",
     "fit_reasons": [
-      "transparent cold-start fit; eligibility excluded from fit"
+      "Cold-start utility components: {'role_relevance': 28, 'technical_overlap': 6, 'experience_similarity': 3, 'screening_compatibility': 3, 'domain_alignment': 0, 'posting_quality': 1, 'lexical_similarity': 1.54}",
+      "No probability is estimated or published"
     ],
-    "fit_tier": "WEAK MATCH",
+    "fit_tier": "ADJACENT",
     "full_description": "",
-    "graduation_window": "May 2028 compatible not verified",
-    "internship_term": "Summer 2027",
+    "graduation_window": null,
+    "inferred_transferable_skills": [
+      "r"
+    ],
+    "internship_term": null,
+    "listed_skills": [
+      "r",
+      "machine learning"
+    ],
     "location": "ML / AI intern (undergrad)",
-    "matched_resume_evidence": [],
+    "matched_resume_evidence": [
+      "DataRobot propensity modeling and machine-learning research"
+    ],
+    "missing_evidence": [
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "full description",
+      "citizenship/export-control language"
+    ],
     "missing_qualifications": [
-      "Verify CPT/work authorization details"
+      "CPT acceptance",
+      "future sponsorship policy",
+      "Summer 2027 term",
+      "undergraduate status",
+      "graduation window",
+      "full description",
+      "citizenship/export-control language"
     ],
     "no_sponsorship_badge": false,
     "posting_date": null,
@@ -336,7 +574,7 @@
     "required_qualifications": "",
     "retrieval_provider": "SUPPLEMENTAL_TRACKER",
     "retrieval_status": "TITLE_ONLY",
-    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "retrieval_timestamp": "2026-07-11T18:59:11+00:00",
     "role": "Machine Learning & AI Undergrad Internship",
     "role_family": "DATA_SCIENCE",
     "role_reason_code": "PRIMARY_DATA_ROLE",
@@ -350,6 +588,7 @@
     "tracker_url": null,
     "url": null,
     "us_citizen_badge": false,
+    "verification_action": "Open posting and verify CPT/sponsorship, term, graduation, and citizenship/export-control language",
     "verification_items": [],
     "work_authorization_evidence": ""
   }
