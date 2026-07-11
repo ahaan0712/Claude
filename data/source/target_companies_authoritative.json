@@ -1,0 +1,23 @@
+{
+  "source_workbook": "Ahaan 2027 Internship Target List(2).xlsx",
+  "source_worksheet": "Target Companies",
+  "row_count": 162,
+  "legacy_probability_column_excluded": true,
+  "records": [
+    {
+      "source_row_number": "1",
+      "company": "ALSAC / St. Jude",
+      "category": "Nonprofit",
+      "internship_program": "Data Science Intern (return offer!)",
+      "international_student_evidence_text": "STRONG (you're already in)",
+      "opening_window_text": "Spring 2027 for returners",
+      "deadline_behavior": "N/A",
+      "application_route": "Internal - talk to your manager",
+      "career_page_url": "https://www.stjude.org/jobs",
+      "strategy_notes": "YOUR #1 EASIEST WIN: crush this summer, ask about return offers / referrals in your final weeks.",
+      "target_program_id": "7eb9a14b791f60ea",
+      "source_workbook": "Ahaan 2027 Internship Target List(2).xlsx",
+      "source_worksheet": "Target Companies"
+    }
+  ]
+}
