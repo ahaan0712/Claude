@@ -1,5 +1,5 @@
 {
-  "scored_at": "2026-07-11T04:10:16.769184Z",
+  "scored_at": "2026-07-11T16:14:03.094316Z",
   "as_of_date": "2026-07-11",
   "posting_count": 171,
   "eligibility_counts": {
@@ -20,12 +20,12 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 38 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 38 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 38,
-        "trend": "falling",
-        "note": "Real LCA filing history: 38 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 38 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -216,12 +216,12 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 86 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 86 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 86,
-        "trend": "falling",
-        "note": "Real LCA filing history: 86 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 86 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 4.2,
@@ -244,12 +244,12 @@
       "date_posted": "2026-07-09",
       "days_since_posted": 2,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 86 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 86 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 86,
-        "trend": "falling",
-        "note": "Real LCA filing history: 86 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 86 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.4,
@@ -276,8 +276,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 7601,
-        "trend": "falling",
-        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.4,
@@ -304,8 +304,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 200,
-        "trend": "falling",
-        "note": "Real LCA filing history: 200 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 200 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -356,12 +356,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 238 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 238 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 238,
-        "trend": "falling",
-        "note": "Real LCA filing history: 238 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 238 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.1,
@@ -384,12 +384,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying.",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 81,
-        "trend": "falling",
-        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -440,12 +440,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 120,
-        "trend": "falling",
-        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -468,12 +468,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 721 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 721 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 721,
-        "trend": "falling",
-        "note": "Real LCA filing history: 721 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 721 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -496,12 +496,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2239 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2239 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2239,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2239 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2239 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": "Data Analytics",
       "fit_score": 26.1,
@@ -524,12 +524,12 @@
       "date_posted": "2026-07-07",
       "days_since_posted": 4,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2239 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2239 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2239,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2239 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2239 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 4.9,
@@ -608,12 +608,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 263 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 263 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 263,
-        "trend": "falling",
-        "note": "Real LCA filing history: 263 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 263 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 10.4,
@@ -692,12 +692,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying.",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 81,
-        "trend": "falling",
-        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -720,12 +720,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying.",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 81,
-        "trend": "falling",
-        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -748,12 +748,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "VERIFY",
-      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying.",
+      "eligibility_reason": "Posting text mentions \"opt\" - exact CPT/sponsorship wording must be checked on the live posting before applying. Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying.",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 81,
-        "trend": "falling",
-        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 81 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.7,
@@ -916,12 +916,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 67 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 67 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 67,
-        "trend": "falling",
-        "note": "Real LCA filing history: 67 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 67 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -944,12 +944,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 8 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 8 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 8,
-        "trend": "falling",
-        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.9,
@@ -972,12 +972,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2630 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2630 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2630,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2630 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2630 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.7,
@@ -1000,12 +1000,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2630 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2630 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2630,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2630 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2630 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.9,
@@ -1032,8 +1032,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1614,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.3,
@@ -1060,8 +1060,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1614,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 5.6,
@@ -1084,12 +1084,12 @@
       "date_posted": "2026-06-28",
       "days_since_posted": 13,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 1614 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 1614 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1614,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 1614 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": "Data Analytics",
       "fit_score": 19.1,
@@ -1112,12 +1112,12 @@
       "date_posted": "2026-06-27",
       "days_since_posted": 14,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 200 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 200 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 200,
-        "trend": "falling",
-        "note": "Real LCA filing history: 200 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 200 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 5.9,
@@ -1140,12 +1140,12 @@
       "date_posted": "2026-06-27",
       "days_since_posted": 14,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 181 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 181 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 181,
-        "trend": "falling",
-        "note": "Real LCA filing history: 181 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 181 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1196,12 +1196,12 @@
       "date_posted": "2026-06-25",
       "days_since_posted": 16,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 60 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 60 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 60,
-        "trend": "falling",
-        "note": "Real LCA filing history: 60 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 60 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1224,12 +1224,12 @@
       "date_posted": "2026-06-23",
       "days_since_posted": 18,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 482 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 482 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 482,
-        "trend": "falling",
-        "note": "Real LCA filing history: 482 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 482 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": "Data Analytics",
       "fit_score": 40.5,
@@ -1256,8 +1256,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 48280,
-        "trend": "falling",
-        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1312,8 +1312,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 7601,
-        "trend": "falling",
-        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.5,
@@ -1340,8 +1340,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 7601,
-        "trend": "falling",
-        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 4.1,
@@ -1452,8 +1452,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 38,
-        "trend": "falling",
-        "note": "Real LCA filing history: 38 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 38 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.7,
@@ -1480,8 +1480,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 8,
-        "trend": "falling",
-        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1508,8 +1508,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 906,
-        "trend": "falling",
-        "note": "Real LCA filing history: 906 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 906 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": "Data Analytics",
       "fit_score": 8.9,
@@ -1588,12 +1588,12 @@
       "date_posted": "2026-06-04",
       "days_since_posted": 37,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 262 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 262 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 262,
-        "trend": "falling",
-        "note": "Real LCA filing history: 262 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 262 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1616,12 +1616,12 @@
       "date_posted": "2026-06-01",
       "days_since_posted": 40,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 67 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 67 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 67,
-        "trend": "falling",
-        "note": "Real LCA filing history: 67 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 67 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1700,12 +1700,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 16 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 16 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 16,
-        "trend": "falling",
-        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1728,12 +1728,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 155 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 155 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 155,
-        "trend": "falling",
-        "note": "Real LCA filing history: 155 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 155 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1784,12 +1784,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 46,
-        "trend": "falling",
-        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1812,12 +1812,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 46,
-        "trend": "falling",
-        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1840,12 +1840,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 46,
-        "trend": "falling",
-        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1868,12 +1868,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 46,
-        "trend": "falling",
-        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -1896,12 +1896,12 @@
       "date_posted": "2026-05-22",
       "days_since_posted": 50,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 105 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 105 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 105,
-        "trend": "falling",
-        "note": "Real LCA filing history: 105 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 105 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.7,
@@ -2012,8 +2012,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 46,
-        "trend": "falling",
-        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 46 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2124,8 +2124,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 204,
-        "trend": "falling",
-        "note": "Real LCA filing history: 204 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 204 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2180,8 +2180,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 73,
-        "trend": "falling",
-        "note": "Real LCA filing history: 73 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 73 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2292,8 +2292,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 48,
-        "trend": "falling",
-        "note": "Real LCA filing history: 48 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 48 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2320,8 +2320,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 77,
-        "trend": "falling",
-        "note": "Real LCA filing history: 77 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 77 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2344,12 +2344,12 @@
       "date_posted": "2026-05-11",
       "days_since_posted": 61,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 250 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 250 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 250,
-        "trend": "falling",
-        "note": "Real LCA filing history: 250 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 250 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2372,12 +2372,12 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 12 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 12 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 12,
-        "trend": "falling",
-        "note": "Real LCA filing history: 12 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 12 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2400,12 +2400,12 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 12 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 12 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 12,
-        "trend": "falling",
-        "note": "Real LCA filing history: 12 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 12 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2544,8 +2544,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 8,
-        "trend": "falling",
-        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 8 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2568,12 +2568,12 @@
       "date_posted": "2026-05-09",
       "days_since_posted": 63,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 48280 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 48280 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 48280,
-        "trend": "falling",
-        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2600,8 +2600,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 48280,
-        "trend": "falling",
-        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 48280 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2628,8 +2628,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1015,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 5.0,
@@ -2684,8 +2684,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 16,
-        "trend": "falling",
-        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2712,8 +2712,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 16,
-        "trend": "falling",
-        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.6,
@@ -2796,8 +2796,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 444,
-        "trend": "falling",
-        "note": "Real LCA filing history: 444 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 444 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2824,8 +2824,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 182,
-        "trend": "falling",
-        "note": "Real LCA filing history: 182 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 182 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2848,12 +2848,12 @@
       "date_posted": "2026-04-24",
       "days_since_posted": 78,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2226 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2226 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2226,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2226 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2226 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.3,
@@ -2880,8 +2880,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 124,
-        "trend": "falling",
-        "note": "Real LCA filing history: 124 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 124 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2964,8 +2964,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 733,
-        "trend": "falling",
-        "note": "Real LCA filing history: 733 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 733 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -2992,8 +2992,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 733,
-        "trend": "falling",
-        "note": "Real LCA filing history: 733 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 733 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3156,12 +3156,12 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 39 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 39 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 39,
-        "trend": "falling",
-        "note": "Real LCA filing history: 39 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 39 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3184,12 +3184,12 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 309 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 309 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 309,
-        "trend": "falling",
-        "note": "Real LCA filing history: 309 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 309 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3216,8 +3216,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 43,
-        "trend": "falling",
-        "note": "Real LCA filing history: 43 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 43 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.7,
@@ -3240,12 +3240,12 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 682 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 682 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 682,
-        "trend": "falling",
-        "note": "Real LCA filing history: 682 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 682 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 6.7,
@@ -3272,8 +3272,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 93,
-        "trend": "falling",
-        "note": "Real LCA filing history: 93 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 93 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3300,8 +3300,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1015,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3328,8 +3328,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1015,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 1015 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3352,12 +3352,12 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 142 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 142 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 142,
-        "trend": "falling",
-        "note": "Real LCA filing history: 142 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 142 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3380,12 +3380,12 @@
       "date_posted": "2026-04-20",
       "days_since_posted": 82,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 9 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 9 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 9,
-        "trend": "falling",
-        "note": "Real LCA filing history: 9 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 9 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 1.2,
@@ -3408,12 +3408,12 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 233,
-        "trend": "falling",
-        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.4,
@@ -3436,12 +3436,12 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 233,
-        "trend": "falling",
-        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.5,
@@ -3464,12 +3464,12 @@
       "date_posted": "2026-04-19",
       "days_since_posted": 83,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 233,
-        "trend": "falling",
-        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 233 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.8,
@@ -3496,8 +3496,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 22,
-        "trend": "falling",
-        "note": "Real LCA filing history: 22 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 22 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3552,8 +3552,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2537,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2537 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2537 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.8,
@@ -3576,12 +3576,12 @@
       "date_posted": "2026-01-15",
       "days_since_posted": 177,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 1230 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 1230 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 1230,
-        "trend": "falling",
-        "note": "Real LCA filing history: 1230 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 1230 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3608,8 +3608,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 7601,
-        "trend": "falling",
-        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 7601 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.0,
@@ -3688,12 +3688,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 51 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 51 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 51,
-        "trend": "falling",
-        "note": "Real LCA filing history: 51 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 51 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3716,12 +3716,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 263 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 263 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 263,
-        "trend": "falling",
-        "note": "Real LCA filing history: 263 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 263 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": "Decision Science",
       "fit_score": 11.5,
@@ -3916,8 +3916,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 16,
-        "trend": "falling",
-        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 16 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -3940,12 +3940,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 73 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 73 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 73,
-        "trend": "falling",
-        "note": "Real LCA filing history: 73 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 73 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4108,12 +4108,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 20234 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 20234 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 20234,
-        "trend": "falling",
-        "note": "Real LCA filing history: 20234 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 20234 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4196,8 +4196,8 @@
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 131,
-        "trend": "falling",
-        "note": "Real LCA filing history: 131 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 131 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 3.0,
@@ -4332,12 +4332,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 66 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 66 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 66,
-        "trend": "falling",
-        "note": "Real LCA filing history: 66 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 66 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4360,12 +4360,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 205 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 205 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 205,
-        "trend": "falling",
-        "note": "Real LCA filing history: 205 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 205 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4388,12 +4388,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 841 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 841 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 841,
-        "trend": "falling",
-        "note": "Real LCA filing history: 841 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 841 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 6.1,
@@ -4416,12 +4416,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 120,
-        "trend": "falling",
-        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4444,12 +4444,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 120,
-        "trend": "falling",
-        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 2.1,
@@ -4472,12 +4472,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 120,
-        "trend": "falling",
-        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 120 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4528,12 +4528,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2537 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 2537 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 2537,
-        "trend": "falling",
-        "note": "Real LCA filing history: 2537 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 2537 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 8.1,
@@ -4556,12 +4556,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 234 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 234 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 234,
-        "trend": "falling",
-        "note": "Real LCA filing history: 234 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "rising",
+        "note": "Real LCA filing history: 234 filings over the last 3 fiscal years, trend rising. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.0,
@@ -4612,12 +4612,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 563 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 563 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 563,
-        "trend": "falling",
-        "note": "Real LCA filing history: 563 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 563 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 3.1,
@@ -4640,12 +4640,12 @@
       "date_posted": null,
       "days_since_posted": null,
       "eligibility": "ELIGIBLE",
-      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 563 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
+      "eligibility_reason": "No CPT/OPT/sponsorship/citizenship block found in tracker data. Real LCA filing history: 563 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying. Still verify on the live posting (trackers only capture company-level badges, not always the exact posting clause).",
       "sponsorship_evidence": {
         "status": "REAL",
         "total_filings_3yr": 563,
-        "trend": "falling",
-        "note": "Real LCA filing history: 563 filings over the last 3 fiscal years, trend falling. Historically sponsors visas - still verify exact posting wording before applying."
+        "trend": "flat",
+        "note": "Real LCA filing history: 563 filings over the last 3 fiscal years, trend flat. Historically sponsors visas - still verify exact posting wording before applying."
       },
       "role_family": null,
       "fit_score": 0.8,

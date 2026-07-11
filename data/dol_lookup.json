@@ -1,15 +1,24 @@
 {
-  "fetched_at": "2026-07-11T04:10:16.692541Z",
+  "fetched_at": "2026-07-11T16:14:02.990163Z",
   "as_of_date": "2026-07-11",
   "target_fiscal_years": [
     2024,
     2025,
     2026
   ],
+  "complete_fiscal_years": [
+    2024,
+    2025
+  ],
+  "fiscal_year_quarters_published": {
+    "2024": 4,
+    "2025": 4,
+    "2026": 1
+  },
   "dol_bulk_reachable": true,
   "h1bdata_fallback_reachable": true,
   "company_count": 109,
-  "note": "sponsorship_evidence is REAL or NONE only when a source was actually reached for that company (checked=true). UNKNOWN means neither DOL's bulk disclosure files nor h1bdata.info could be reached for this company - never treated as NONE.",
+  "note": "sponsorship_evidence is REAL or NONE only when a source was actually reached for that company (checked=true). UNKNOWN means neither DOL's bulk disclosure files nor h1bdata.info could be reached for this company - never treated as NONE. trend is 'insufficient_data' unless at least 2 fiscal years in complete_fiscal_years (all 4 quarters published by DOL) are available - the most recent target fiscal year is routinely still partial due to DOL's publication lag, and comparing a complete year against a partial one would manufacture a false 'falling' signal for almost everyone.",
   "companies": {
     "ABC Fitness": {
       "company": "ABC Fitness",
@@ -52,7 +61,7 @@
         "2026": 1
       },
       "total_filings_3yr": 9,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -159,7 +168,7 @@
         "2026": 3377
       },
       "total_filings_3yr": 48280,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -254,7 +263,7 @@
         "2026": 14
       },
       "total_filings_3yr": 250,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -307,7 +316,7 @@
         "2026": 3
       },
       "total_filings_3yr": 77,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -349,7 +358,7 @@
         "2026": 2
       },
       "total_filings_3yr": 86,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -402,7 +411,7 @@
         "2026": 7
       },
       "total_filings_3yr": 142,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -430,7 +439,7 @@
         "2026": 26
       },
       "total_filings_3yr": 563,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -482,7 +491,7 @@
         "2026": 76
       },
       "total_filings_3yr": 1614,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -518,7 +527,7 @@
         "2026": 41
       },
       "total_filings_3yr": 1230,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -592,7 +601,7 @@
         "2026": 85
       },
       "total_filings_3yr": 2630,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -628,7 +637,7 @@
         "2026": 42
       },
       "total_filings_3yr": 733,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -659,7 +668,7 @@
         "2026": 210
       },
       "total_filings_3yr": 2239,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -694,7 +703,7 @@
         "2026": 9
       },
       "total_filings_3yr": 234,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -756,7 +765,7 @@
         "2026": 61
       },
       "total_filings_3yr": 721,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -786,7 +795,7 @@
         "2026": 278
       },
       "total_filings_3yr": 2537,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -831,7 +840,7 @@
         "2026": 5
       },
       "total_filings_3yr": 105,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -848,7 +857,7 @@
         "2026": 7
       },
       "total_filings_3yr": 120,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -865,7 +874,7 @@
         "2026": 7
       },
       "total_filings_3yr": 120,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -882,7 +891,7 @@
         "2026": 20
       },
       "total_filings_3yr": 200,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -901,7 +910,7 @@
         "2026": 74
       },
       "total_filings_3yr": 841,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -929,7 +938,7 @@
         "2026": 0
       },
       "total_filings_3yr": 8,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -951,7 +960,7 @@
         "2026": 41
       },
       "total_filings_3yr": 482,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -981,7 +990,7 @@
         "2026": 9
       },
       "total_filings_3yr": 205,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1039,7 +1048,7 @@
         "2026": 2
       },
       "total_filings_3yr": 66,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1086,7 +1095,7 @@
         "2026": 3
       },
       "total_filings_3yr": 46,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1141,7 +1150,7 @@
         "2026": 64
       },
       "total_filings_3yr": 1015,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1196,7 +1205,7 @@
         "2026": 1
       },
       "total_filings_3yr": 8,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1218,7 +1227,7 @@
         "2026": 1
       },
       "total_filings_3yr": 67,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1276,7 +1285,7 @@
         "2026": 1
       },
       "total_filings_3yr": 93,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1312,7 +1321,7 @@
         "2026": 3
       },
       "total_filings_3yr": 73,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1372,7 +1381,7 @@
         "2026": 2
       },
       "total_filings_3yr": 16,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1439,7 +1448,7 @@
         "2026": 34
       },
       "total_filings_3yr": 682,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1477,7 +1486,7 @@
         "2026": 527
       },
       "total_filings_3yr": 7601,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1576,7 +1585,7 @@
         "2026": 6
       },
       "total_filings_3yr": 155,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1606,7 +1615,7 @@
         "2026": 13
       },
       "total_filings_3yr": 131,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1669,7 +1678,7 @@
         "2026": 3
       },
       "total_filings_3yr": 60,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1692,7 +1701,7 @@
         "2026": 0
       },
       "total_filings_3yr": 48,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1720,7 +1729,7 @@
         "2026": 1338
       },
       "total_filings_3yr": 20234,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1831,7 +1840,7 @@
         "2026": 0
       },
       "total_filings_3yr": 22,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1857,7 +1866,7 @@
         "2026": 9
       },
       "total_filings_3yr": 81,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1933,7 +1942,7 @@
         "2026": 30
       },
       "total_filings_3yr": 233,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1952,7 +1961,7 @@
         "2026": 1
       },
       "total_filings_3yr": 43,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -1978,7 +1987,7 @@
         "2026": 4
       },
       "total_filings_3yr": 38,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2003,7 +2012,7 @@
         "2026": 10
       },
       "total_filings_3yr": 181,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2077,7 +2086,7 @@
         "2026": 7
       },
       "total_filings_3yr": 73,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2101,7 +2110,7 @@
         "2026": 5
       },
       "total_filings_3yr": 309,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2125,7 +2134,7 @@
         "2026": 42
       },
       "total_filings_3yr": 906,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2161,7 +2170,7 @@
         "2026": 0
       },
       "total_filings_3yr": 46,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2190,7 +2199,7 @@
         "2026": 1
       },
       "total_filings_3yr": 38,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2216,7 +2225,7 @@
         "2026": 1
       },
       "total_filings_3yr": 16,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2255,7 +2264,7 @@
         "2026": 13
       },
       "total_filings_3yr": 238,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2290,7 +2299,7 @@
         "2026": 3
       },
       "total_filings_3yr": 39,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2315,7 +2324,7 @@
         "2026": 0
       },
       "total_filings_3yr": 262,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2348,7 +2357,7 @@
         "2026": 22
       },
       "total_filings_3yr": 204,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2384,7 +2393,7 @@
         "2026": 6
       },
       "total_filings_3yr": 124,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2413,7 +2422,7 @@
         "2026": 146
       },
       "total_filings_3yr": 2226,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2470,7 +2479,7 @@
         "2026": 5
       },
       "total_filings_3yr": 182,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2503,7 +2512,7 @@
         "2026": 14
       },
       "total_filings_3yr": 444,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2531,7 +2540,7 @@
         "2026": 18
       },
       "total_filings_3yr": 263,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2552,7 +2561,7 @@
         "2026": 1
       },
       "total_filings_3yr": 12,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2575,7 +2584,7 @@
         "2026": 14
       },
       "total_filings_3yr": 200,
-      "trend": "falling",
+      "trend": "flat",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
@@ -2656,7 +2665,7 @@
         "2026": 6
       },
       "total_filings_3yr": 51,
-      "trend": "falling",
+      "trend": "rising",
       "sponsorship_evidence": "REAL",
       "source": "DOL_BULK",
       "matched_employer_names": [
