@@ -1,0 +1,3322 @@
+[
+  {
+    "aliases": [
+      "Accenture"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "accenture",
+    "career_page_url": null,
+    "company": "Accenture",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "accenture-1013446c",
+      "accenture-a1238962"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Adobe"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "adobe",
+    "career_page_url": null,
+    "company": "Adobe",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "adobe-6ca4d876"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Airbnb"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "airbnb",
+    "career_page_url": null,
+    "company": "Airbnb",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "airbnb-194b3149"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "ALSAC / St. Jude"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "alsac-st-jude",
+    "career_page_url": null,
+    "company": "ALSAC / St. Jude",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "alsac-st-jude-4561d518"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Amazon"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "amazon",
+    "career_page_url": null,
+    "company": "Amazon",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "amazon-7e875307"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "AMD"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "amd",
+    "career_page_url": null,
+    "company": "AMD",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "amd-225fd367"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "American Express"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "american-express",
+    "career_page_url": null,
+    "company": "American Express",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "american-express-7f12b95e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Analysis Group"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "analysis-group",
+    "career_page_url": null,
+    "company": "Analysis Group",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "analysis-group-c3a83a20",
+      "analysis-group-c0b9523a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Anthropic"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "anthropic",
+    "career_page_url": null,
+    "company": "Anthropic",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "anthropic-d49c37ef"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Appian"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "appian",
+    "career_page_url": null,
+    "company": "Appian",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "appian-9058bd15",
+      "appian-21a80e87"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Apple"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "apple",
+    "career_page_url": null,
+    "company": "Apple",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "apple-9b61a8fa"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "AstraZeneca"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "astrazeneca",
+    "career_page_url": null,
+    "company": "AstraZeneca",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "astrazeneca-f2a835ca"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Atlassian"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "atlassian",
+    "career_page_url": null,
+    "company": "Atlassian",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "atlassian-68ad31bc"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "AutoZone"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "autozone",
+    "career_page_url": null,
+    "company": "AutoZone",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "autozone-5741fb97",
+      "autozone-381c816e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Bain & Company"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "bain-and-company",
+    "career_page_url": null,
+    "company": "Bain & Company",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "bain-and-company-9bf380e4"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Bank of America"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "bank-of-america",
+    "career_page_url": null,
+    "company": "Bank of America",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "bank-of-america-1619ff77"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Barclays"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "barclays",
+    "career_page_url": null,
+    "company": "Barclays",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "barclays-38922086"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Bates White"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "bates-white",
+    "career_page_url": null,
+    "company": "Bates White",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "bates-white-caa12f19",
+      "bates-white-25f98f7e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Best Buy"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "best-buy",
+    "career_page_url": null,
+    "company": "Best Buy",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "best-buy-e2283950"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Big 4 truth for YOU specifically"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "big-4-truth-for-you-specifically",
+    "career_page_url": null,
+    "company": "Big 4 truth for YOU specifically",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "big-4-truth-for-you-specifically-89203c9a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "BlackRock"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "blackrock",
+    "career_page_url": null,
+    "company": "BlackRock",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "blackrock-83f1e7ae"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Block (Square/Cash App)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "block-square-cash-app",
+    "career_page_url": null,
+    "company": "Block (Square/Cash App)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "block-square-cash-app-a912954f"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Bloomberg"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "bloomberg",
+    "career_page_url": null,
+    "company": "Bloomberg",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "bloomberg-942e965b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Booking Holdings / Priceline"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "booking-holdings-priceline",
+    "career_page_url": null,
+    "company": "Booking Holdings / Priceline",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "booking-holdings-priceline-d7d14c9e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Booz Allen Hamilton"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "booz-allen-hamilton",
+    "career_page_url": null,
+    "company": "Booz Allen Hamilton",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "booz-allen-hamilton-22d866ca"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Boston Consulting Group"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "boston-consulting-group",
+    "career_page_url": null,
+    "company": "Boston Consulting Group",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "boston-consulting-group-95d0da0d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Brattle Group"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "brattle-group",
+    "career_page_url": null,
+    "company": "Brattle Group",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "brattle-group-a87a48a0",
+      "brattle-group-74324e8b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Brinker International (Chili's)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "brinker-international-chili-s",
+    "career_page_url": null,
+    "company": "Brinker International (Chili's)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "brinker-international-chili-s-2bc4537a",
+      "brinker-international-chili-s-243ea906"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Bristol Myers Squibb"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "bristol-myers-squibb",
+    "career_page_url": null,
+    "company": "Bristol Myers Squibb",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "bristol-myers-squibb-0b90f50a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Capital One"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "capital-one",
+    "career_page_url": null,
+    "company": "Capital One",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "capital-one-b470b5b1"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Capital One (VT pipeline note)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "capital-one-vt-pipeline-note",
+    "career_page_url": null,
+    "company": "Capital One (VT pipeline note)",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "capital-one-vt-pipeline-note-8e0da98d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Carilion Clinic"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "carilion-clinic",
+    "career_page_url": null,
+    "company": "Carilion Clinic",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "carilion-clinic-1d3b3b10",
+      "carilion-clinic-5a923a2a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "CarMax"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "carmax",
+    "career_page_url": null,
+    "company": "CarMax",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "carmax-e5ef324f",
+      "carmax-8d498a7b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "CGI"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "cgi",
+    "career_page_url": null,
+    "company": "CGI",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "cgi-1386f0e3",
+      "cgi-1bbaf424"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Charles River Associates"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "charles-river-associates",
+    "career_page_url": null,
+    "company": "Charles River Associates",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "charles-river-associates-7b9735ba",
+      "charles-river-associates-657e91b5"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Chewy"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "chewy",
+    "career_page_url": null,
+    "company": "Chewy",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "chewy-04cd691c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Cisco"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "cisco",
+    "career_page_url": null,
+    "company": "Cisco",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "cisco-3ad56411",
+      "cisco-2b80772c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Citi"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "citi",
+    "career_page_url": null,
+    "company": "Citi",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "citi-042efefe"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Coca-Cola"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "coca-cola",
+    "career_page_url": null,
+    "company": "Coca-Cola",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "coca-cola-5fff1917",
+      "coca-cola-b0432685"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Coinbase"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "coinbase",
+    "career_page_url": null,
+    "company": "Coinbase",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "coinbase-7c181545"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Colgate-Palmolive"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "colgate-palmolive",
+    "career_page_url": null,
+    "company": "Colgate-Palmolive",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "colgate-palmolive-4e47a793",
+      "colgate-palmolive-87f55df9"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Compass Lexecon"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "compass-lexecon",
+    "career_page_url": null,
+    "company": "Compass Lexecon",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "compass-lexecon-6943d971",
+      "compass-lexecon-ad762b48"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Cornerstone Research"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "cornerstone-research",
+    "career_page_url": null,
+    "company": "Cornerstone Research",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "cornerstone-research-a3dd8dab",
+      "cornerstone-research-a58fce35"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Costco"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "costco",
+    "career_page_url": null,
+    "company": "Costco",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "costco-02e7f263"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Cvent"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "cvent",
+    "career_page_url": null,
+    "company": "Cvent",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "cvent-82f4b9d5",
+      "cvent-84b8f93c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "CVS Health"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "cvs-health",
+    "career_page_url": null,
+    "company": "CVS Health",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "cvs-health-0b9c63be"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Databricks"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "databricks",
+    "career_page_url": null,
+    "company": "Databricks",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "databricks-b4de6de0"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Dell Technologies"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "dell-technologies",
+    "career_page_url": null,
+    "company": "Dell Technologies",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "dell-technologies-e134b497"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Deloitte"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "deloitte",
+    "career_page_url": null,
+    "company": "Deloitte",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "deloitte-ba26634a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Deloitte-alternative: FTI Consulting"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "deloitte-alternative-fti-consulting",
+    "career_page_url": null,
+    "company": "Deloitte-alternative: FTI Consulting",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "deloitte-alternative-fti-consulting-64fee983"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Deutsche Bank"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "deutsche-bank",
+    "career_page_url": null,
+    "company": "Deutsche Bank",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "deutsche-bank-a86075d3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Discover"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "discover",
+    "career_page_url": null,
+    "company": "Discover",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "discover-56d3f55b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Disney"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "disney",
+    "career_page_url": null,
+    "company": "Disney",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "disney-8e5727f1"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Domino's"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "domino-s",
+    "career_page_url": null,
+    "company": "Domino's",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "domino-s-2ed36370",
+      "domino-s-64b67e77"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "DoorDash"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "doordash",
+    "career_page_url": null,
+    "company": "DoorDash",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "doordash-dda191b1",
+      "doordash-fd5bb15b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Duolingo"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "duolingo",
+    "career_page_url": null,
+    "company": "Duolingo",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "duolingo-061e6d66"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "eBay"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "ebay",
+    "career_page_url": null,
+    "company": "eBay",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "ebay-9bf73a55"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Edgeworth Economics"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "edgeworth-economics",
+    "career_page_url": null,
+    "company": "Edgeworth Economics",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "edgeworth-economics-d02679dc",
+      "edgeworth-economics-b997117c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Electronic Arts"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "electronic-arts",
+    "career_page_url": null,
+    "company": "Electronic Arts",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "electronic-arts-f1f6d7e7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Eli Lilly"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "eli-lilly",
+    "career_page_url": null,
+    "company": "Eli Lilly",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "eli-lilly-04f4d587"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "ELIGIBILITY KILL-PHRASE (memorize)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "eligibility-kill-phrase-memorize",
+    "career_page_url": null,
+    "company": "ELIGIBILITY KILL-PHRASE (memorize)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "eligibility-kill-phrase-memorize-d6a800dc"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Epic Games"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "epic-games",
+    "career_page_url": null,
+    "company": "Epic Games",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "epic-games-055b10b7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Epsilon"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "epsilon",
+    "career_page_url": null,
+    "company": "Epsilon",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "epsilon-5aee9eac",
+      "epsilon-1e550956"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Equifax"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "equifax",
+    "career_page_url": null,
+    "company": "Equifax",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "equifax-6c3abcd3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Est\u00e9e Lauder"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "est-e-lauder",
+    "career_page_url": null,
+    "company": "Est\u00e9e Lauder",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "est-e-lauder-5f09eb8a",
+      "est-e-lauder-3c087ae4"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Etsy"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "etsy",
+    "career_page_url": null,
+    "company": "Etsy",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "etsy-bdf6c4fa"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Expedia Group"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "expedia-group",
+    "career_page_url": null,
+    "company": "Expedia Group",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "expedia-group-99dee6f9"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Experian"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "experian",
+    "career_page_url": null,
+    "company": "Experian",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "experian-9b6930b3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "EY"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "ey",
+    "career_page_url": null,
+    "company": "EY",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "ey-ef0407d1"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Fannie Mae"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "fannie-mae",
+    "career_page_url": null,
+    "company": "Fannie Mae",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "fannie-mae-9c5e917e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "FedEx"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "fedex",
+    "career_page_url": null,
+    "company": "FedEx",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "fedex-fc246180",
+      "fedex-37b13ca5"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "FICO"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "fico",
+    "career_page_url": null,
+    "company": "FICO",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "fico-8620de2c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Fidelity"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "fidelity",
+    "career_page_url": null,
+    "company": "Fidelity",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "fidelity-3a62f88a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Gartner"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "gartner",
+    "career_page_url": null,
+    "company": "Gartner",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "gartner-09dc6077"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Genentech"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "genentech",
+    "career_page_url": null,
+    "company": "Genentech",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "genentech-02432196"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Goldman Sachs"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "goldman-sachs",
+    "career_page_url": null,
+    "company": "Goldman Sachs",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "goldman-sachs-846f3adc"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Google"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "google",
+    "career_page_url": null,
+    "company": "Google",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "google-8039f878"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "GPA strategy"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "gpa-strategy",
+    "career_page_url": null,
+    "company": "GPA strategy",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "gpa-strategy-d83117ad"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Grammarly"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "grammarly",
+    "career_page_url": null,
+    "company": "Grammarly",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "grammarly-8c5a4b95"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Home Depot"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "home-depot",
+    "career_page_url": null,
+    "company": "Home Depot",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "home-depot-455817ea"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "HP"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "hp",
+    "career_page_url": null,
+    "company": "HP",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "hp-2d21bffd"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "HSBC"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "hsbc",
+    "career_page_url": null,
+    "company": "HSBC",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "hsbc-f017792d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Humana"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "humana",
+    "career_page_url": null,
+    "company": "Humana",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "humana-bcd5a798"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "IBM"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "ibm",
+    "career_page_url": null,
+    "company": "IBM",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "ibm-97403715",
+      "ibm-c9fc67cd"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Instacart"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "instacart",
+    "career_page_url": null,
+    "company": "Instacart",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "instacart-34f3d52b",
+      "instacart-8857f6a4"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Intel"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "intel",
+    "career_page_url": null,
+    "company": "Intel",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "intel-964ea054"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Intuit"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "intuit",
+    "career_page_url": null,
+    "company": "Intuit",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "intuit-726c5538"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Johnson & Johnson"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "johnson-and-johnson",
+    "career_page_url": null,
+    "company": "Johnson & Johnson",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "johnson-and-johnson-303bbb47"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Kearney"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "kearney",
+    "career_page_url": null,
+    "company": "Kearney",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "kearney-fe6e5891"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "KPMG"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "kpmg",
+    "career_page_url": null,
+    "company": "KPMG",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "kpmg-fde811de"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Kroger / 84.51\u00b0"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "kroger-84-51",
+    "career_page_url": null,
+    "company": "Kroger / 84.51\u00b0",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "kroger-84-51-12992c63",
+      "kroger-84-51-fc70a925"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "L'Or\u00e9al"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "l-or-al",
+    "career_page_url": null,
+    "company": "L'Or\u00e9al",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "l-or-al-88be34fa",
+      "l-or-al-c209a802"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "LinkedIn"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "linkedin",
+    "career_page_url": null,
+    "company": "LinkedIn",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "linkedin-f8125527"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Lowe's"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "lowe-s",
+    "career_page_url": null,
+    "company": "Lowe's",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "lowe-s-a3fbc20f"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Lyft"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "lyft",
+    "career_page_url": null,
+    "company": "Lyft",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "lyft-3a8f962d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Mars"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "mars",
+    "career_page_url": null,
+    "company": "Mars",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "mars-d23f198c",
+      "mars-fff7eca8"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Mastercard"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "mastercard",
+    "career_page_url": null,
+    "company": "Mastercard",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "mastercard-fc7df5d3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Merck"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "merck",
+    "career_page_url": null,
+    "company": "Merck",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "merck-9e97104d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Meta"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "meta",
+    "career_page_url": null,
+    "company": "Meta",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "meta-8b11c458"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Microsoft"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "microsoft",
+    "career_page_url": null,
+    "company": "Microsoft",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "microsoft-50537f2e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Moody's"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "moody-s",
+    "career_page_url": null,
+    "company": "Moody's",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "moody-s-f02415f7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "MSCI"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "msci",
+    "career_page_url": null,
+    "company": "MSCI",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "msci-a500a584"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "NERA Economic Consulting"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nera-economic-consulting",
+    "career_page_url": null,
+    "company": "NERA Economic Consulting",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nera-economic-consulting-dafb0d3b",
+      "nera-economic-consulting-f4650fac"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Nestl\u00e9"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nestl",
+    "career_page_url": null,
+    "company": "Nestl\u00e9",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nestl-ba00aa42",
+      "nestl-ef742069"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Netflix"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "netflix",
+    "career_page_url": null,
+    "company": "Netflix",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "netflix-eb048df6"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Nielsen / NielsenIQ"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nielsen-nielseniq",
+    "career_page_url": null,
+    "company": "Nielsen / NielsenIQ",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nielsen-nielseniq-96e87607",
+      "nielsen-nielseniq-0da2d784"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Nike"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nike",
+    "career_page_url": null,
+    "company": "Nike",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nike-e305ef61",
+      "nike-81d959a3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Novartis"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "novartis",
+    "career_page_url": null,
+    "company": "Novartis",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "novartis-186625f7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Nutanix"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nutanix",
+    "career_page_url": null,
+    "company": "Nutanix",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nutanix-9fa26a57"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "NVIDIA"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "nvidia",
+    "career_page_url": null,
+    "company": "NVIDIA",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "nvidia-5efdf42d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Oliver Wyman"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "oliver-wyman",
+    "career_page_url": null,
+    "company": "Oliver Wyman",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "oliver-wyman-d71a023e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "OpenAI"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "openai",
+    "career_page_url": null,
+    "company": "OpenAI",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "openai-ff9f3f7d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Oracle"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "oracle",
+    "career_page_url": null,
+    "company": "Oracle",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "oracle-5dc1654d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Palantir"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "palantir",
+    "career_page_url": null,
+    "company": "Palantir",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "palantir-6f4ab047"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "PayPal"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "paypal",
+    "career_page_url": null,
+    "company": "PayPal",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "paypal-5d4e2c1a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "PepsiCo"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "pepsico",
+    "career_page_url": null,
+    "company": "PepsiCo",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "pepsico-01a99db0",
+      "pepsico-9c614228"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Pfizer"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "pfizer",
+    "career_page_url": null,
+    "company": "Pfizer",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "pfizer-b07d2f91",
+      "pfizer-f823e9f2"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Pinterest"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "pinterest",
+    "career_page_url": null,
+    "company": "Pinterest",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "pinterest-07deb1ac",
+      "pinterest-e02ede06"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Procter & Gamble"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "procter-and-gamble",
+    "career_page_url": null,
+    "company": "Procter & Gamble",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "procter-and-gamble-e62982c7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "PwC"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "pwc",
+    "career_page_url": null,
+    "company": "PwC",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "pwc-c0cfcaff"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Qualcomm"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "qualcomm",
+    "career_page_url": null,
+    "company": "Qualcomm",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "qualcomm-43d831bf"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "RA + Sigma Tau Gamma"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "ra-sigma-tau-gamma",
+    "career_page_url": null,
+    "company": "RA + Sigma Tau Gamma",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "ra-sigma-tau-gamma-eb9205cb"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Reddit"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "reddit",
+    "career_page_url": null,
+    "company": "Reddit",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "reddit-79e657d1"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Referral script"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "referral-script",
+    "career_page_url": null,
+    "company": "Referral script",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "referral-script-0c9c3e9a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Regeneron"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "regeneron",
+    "career_page_url": null,
+    "company": "Regeneron",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "regeneron-915235b9"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Robinhood"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "robinhood",
+    "career_page_url": null,
+    "company": "Robinhood",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "robinhood-cb3557e7"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Roblox"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "roblox",
+    "career_page_url": null,
+    "company": "Roblox",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "roblox-390a3c34"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "S&P Global"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "s-and-p-global",
+    "career_page_url": null,
+    "company": "S&P Global",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "s-and-p-global-ad3d39c5"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Salesforce"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "salesforce",
+    "career_page_url": null,
+    "company": "Salesforce",
+    "current_status": "No verified live posting yet; monitor target program",
+    "discovery_state": "CHECKED_MATCH_FOUND",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": "2026-07-11T17:28:23+00:00",
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "salesforce-ffa203fd"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Samsung Research America"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "samsung-research-america",
+    "career_page_url": null,
+    "company": "Samsung Research America",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "samsung-research-america-b849c00b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Scale AI"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "scale-ai",
+    "career_page_url": null,
+    "company": "Scale AI",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "scale-ai-b4e6a3d5"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "ServiceNow"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "servicenow",
+    "career_page_url": null,
+    "company": "ServiceNow",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "servicenow-fc411dc3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Shopify"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "shopify",
+    "career_page_url": null,
+    "company": "Shopify",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "shopify-8baa23d0"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Snap"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "snap",
+    "career_page_url": null,
+    "company": "Snap",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "snap-df4dc97e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Snowflake"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "snowflake",
+    "career_page_url": null,
+    "company": "Snowflake",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "snowflake-a434b86b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "So what do you actually do?"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "so-what-do-you-actually-do",
+    "career_page_url": null,
+    "company": "So what do you actually do?",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "so-what-do-you-actually-do-1be6043f"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Sony Interactive (PlayStation)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "sony-interactive-playstation",
+    "career_page_url": null,
+    "company": "Sony Interactive (PlayStation)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "sony-interactive-playstation-36ba3399"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Splunk (Cisco)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "splunk-cisco",
+    "career_page_url": null,
+    "company": "Splunk (Cisco)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "splunk-cisco-d0e73d47"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Spotify"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "spotify",
+    "career_page_url": null,
+    "company": "Spotify",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "spotify-b9bd29e1",
+      "spotify-1778487c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Stripe"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "stripe",
+    "career_page_url": null,
+    "company": "Stripe",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "stripe-38bd7fbb"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Target"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "target",
+    "career_page_url": null,
+    "company": "Target",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "target-50a9c41b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Tesla"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "tesla",
+    "career_page_url": null,
+    "company": "Tesla",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "tesla-4abc1997"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "The one question that matters"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "the-one-question-that-matters",
+    "career_page_url": null,
+    "company": "The one question that matters",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "the-one-question-that-matters-d5bfbd61"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "TikTok"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "tiktok",
+    "career_page_url": null,
+    "company": "TikTok",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "tiktok-c8c8ad0e"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Timeline (it starts NOW)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "timeline-it-starts-now",
+    "career_page_url": null,
+    "company": "Timeline (it starts NOW)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "timeline-it-starts-now-0f3690ee"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "TransUnion"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "transunion",
+    "career_page_url": null,
+    "company": "TransUnion",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "transunion-3e044fd4"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Twilio"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "twilio",
+    "career_page_url": null,
+    "company": "Twilio",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "twilio-c9573e17"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Uber"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "uber",
+    "career_page_url": null,
+    "company": "Uber",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "uber-6ba742b9"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Unilever"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "unilever",
+    "career_page_url": null,
+    "company": "Unilever",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "unilever-d781cbbc",
+      "unilever-716fc3eb"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "UnitedHealth Group / Optum"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "unitedhealth-group-optum",
+    "career_page_url": null,
+    "company": "UnitedHealth Group / Optum",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "unitedhealth-group-optum-e60e519f"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "v3.1 - INTERVIEW-FIRST + SORTED"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "v3-1-interview-first-sorted",
+    "career_page_url": null,
+    "company": "v3.1 - INTERVIEW-FIRST + SORTED",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "v3-1-interview-first-sorted-acf35d04"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Vanguard"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "vanguard",
+    "career_page_url": null,
+    "company": "Vanguard",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "vanguard-beed45e6"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Visa"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "visa",
+    "career_page_url": null,
+    "company": "Visa",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "visa-f01a325d"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "VMware (Broadcom)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "vmware-broadcom",
+    "career_page_url": null,
+    "company": "VMware (Broadcom)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "vmware-broadcom-23dd85a3"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "VT PIPELINE (verified)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "vt-pipeline-verified",
+    "career_page_url": null,
+    "company": "VT PIPELINE (verified)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "vt-pipeline-verified-fe926b5c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Walmart Global Tech"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "walmart-global-tech",
+    "career_page_url": null,
+    "company": "Walmart Global Tech",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "walmart-global-tech-935e89ac",
+      "walmart-global-tech-3117ccd2"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Wayfair"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "wayfair",
+    "career_page_url": null,
+    "company": "Wayfair",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "wayfair-cbd66d24",
+      "wayfair-a99b153b"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Where to apply"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "where-to-apply",
+    "career_page_url": null,
+    "company": "Where to apply",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "where-to-apply-053a6609"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Workday"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "workday",
+    "career_page_url": null,
+    "company": "Workday",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "workday-747bae9a"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Your 3 priority lanes (revised)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "your-3-priority-lanes-revised",
+    "career_page_url": null,
+    "company": "Your 3 priority lanes (revised)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "your-3-priority-lanes-revised-5455af07"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Your personal story (use it)"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "your-personal-story-use-it",
+    "career_page_url": null,
+    "company": "Your personal story (use it)",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "your-personal-story-use-it-9b1a3a5c"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "YOUR PORTFOLIO NUMBERS"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "your-portfolio-numbers",
+    "career_page_url": null,
+    "company": "YOUR PORTFOLIO NUMBERS",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "your-portfolio-numbers-0f59f859"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "Zillow"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "zillow",
+    "career_page_url": null,
+    "company": "Zillow",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "zillow-92cf6384",
+      "zillow-b89535ca"
+    ],
+    "window_confidence": "INFERRED"
+  },
+  {
+    "aliases": [
+      "ZS Associates"
+    ],
+    "ats_provider": "UNKNOWN",
+    "canonical_company_id": "zs-associates",
+    "career_page_url": null,
+    "company": "ZS Associates",
+    "current_status": "Target retained; no live fixture posting verified yet.",
+    "discovery_state": "EXPECTED_LATER",
+    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
+    "last_checked": null,
+    "next_check_date": "2026-07-18",
+    "notes": "",
+    "status": "ACTIVE",
+    "target_program_ids": [
+      "zs-associates-1700d163"
+    ],
+    "window_confidence": "INFERRED"
+  }
+]

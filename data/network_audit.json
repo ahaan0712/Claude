@@ -1,0 +1,10 @@
+{
+  "privacy_action": "Only company-level counts generated; names, emails, profile URLs, messages, and education are not emitted. No alumni inference is performed.",
+  "raw_files_detected": [
+    "PhoneNumbers.csv",
+    "Email Addresses.csv",
+    "messages.csv",
+    "Connections.csv",
+    "Invitations.csv"
+  ]
+}

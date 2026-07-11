@@ -1,0 +1,10 @@
+{
+  "branches_reviewed": {"work":"current upload branch with raw XLSX/LinkedIn files and Phase 1 scorer lineage", "campaign27-xlsx-first-final":"rebuild branch created for XLSX-first reconciliation"},
+  "commits_reviewed": ["10f52bd original Campaign 27 V7 posting-level matcher", "f73dde3 DOL/LCA evidence", "1022d68 Phase 1 recommendation engine", "a301e96 latest upload with XLSX and LinkedIn exports"],
+  "useful_pieces": ["V7 principle: posting-level eligibility gate before fit", "V7/calibrate principle: no probabilities before 20 real outcomes", "Phase 1 frontend localStorage tracking idea", "DOL workflow concept, but not broken matching/deploy-root implementation"],
+  "conflicts": ["score.py and portfolio.py used incompatible keys", "workflows referenced obsolete branches and app.html", "old matches.json was tracker-centered", "raw LinkedIn/profile files were present at repository root", "DOL normalization stripped meaningful words and allowed unsafe substring behavior"],
+  "stale_generated_files": ["data/matches.json", "data/portfolio.json", "data/dol_lookup.json", "old data/postings.json as primary feed"],
+  "v7_principles_preserved": ["eligibility gate", "evidence snippets", "honest retrieval failures", "no fabricated probability"],
+  "later_codex_work_preserved": ["static app", "local browser tracking", "DOL evidence as supporting context only"],
+  "final_canonical_architecture": "XLSX import -> company watchlist -> target discovery -> supplemental tracker ingest -> enrichment/eligibility -> transparent fit tiers -> calibration readiness -> privacy-safe network aggregates -> sanitized static site"
+}

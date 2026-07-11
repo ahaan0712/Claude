@@ -1,3 +1,23 @@
 __pycache__/
 *.pyc
 .DS_Store
+# Raw private exports and local source workbooks/resumes
+Connections.csv
+Invitations.csv
+messages.csv
+learning_*messages.csv
+guide_messages.csv
+Email Addresses.csv
+PhoneNumbers.csv
+Profile.csv
+Profile Summary.csv
+Logins.csv
+Security Challenges.csv
+*.zip
+*.docx
+Ahaan 2027 Internship Target List*.xlsx
+Ahaan_2027_Evidence_Driven_Model_V6.xlsx
+site/
+__pycache__/
+.pytest_cache/
+/*.csv

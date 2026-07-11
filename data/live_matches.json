@@ -1,0 +1,234 @@
+[
+  {
+    "application_priority": "APPLY NOW",
+    "application_status": "",
+    "calibrated_probability": null,
+    "calibration_status": "PRIOR_ONLY",
+    "canonical_apply_url": "",
+    "canonical_company_id": "amazon",
+    "citizenship_evidence": null,
+    "clearance_evidence": null,
+    "company": "Amazon",
+    "country": "United States",
+    "data_completeness": 0.85,
+    "deadline": null,
+    "eligibility_confidence": "MEDIUM",
+    "eligibility_evidence": [
+      "student work authorization can be reviewed"
+    ],
+    "eligibility_reason_codes": [
+      "POSTING_SUPPORTS_WORK_AUTH"
+    ],
+    "eligibility_status": "ELIGIBLE",
+    "employment_type": "Internship",
+    "export_control_evidence": null,
+    "fit_reasons": [
+      "transparent cold-start fit; eligibility excluded from fit"
+    ],
+    "fit_tier": "GOOD MATCH",
+    "full_description": "Undergraduate data analytics internship. Responsibilities include SQL, Python, dashboards, experimentation, and stakeholder analysis. CPT or other student work authorization can be reviewed by recruiting; verify posting details before applying.",
+    "graduation_window": null,
+    "internship_term": "Summer 2027",
+    "location": "United States",
+    "matched_resume_evidence": [
+      "ALSAC SQL/Python work across 30M+ donor records",
+      "ALSAC Python work and ML research"
+    ],
+    "missing_qualifications": [],
+    "posting_date": "2026-07-11",
+    "posting_id": "fixture-f49b4d765a",
+    "preferred_qualifications": null,
+    "required_qualifications": null,
+    "retrieval_provider": "MANUAL_FIXTURE",
+    "retrieval_status": "FULL",
+    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "role_family": "DATA_ANALYTICS",
+    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "skills_preferred": [],
+    "skills_required": [],
+    "source": "deterministic fixture",
+    "source_class": "TARGET_DISCOVERY",
+    "sponsorship_evidence": "student work authorization can be reviewed",
+    "target_program_ids": [
+      "amazon-7e875307"
+    ],
+    "title": "Data Analytics Intern - Summer 2027",
+    "tracker_url": null,
+    "verification_items": [],
+    "work_authorization_evidence": "student work authorization can be reviewed"
+  },
+  {
+    "application_priority": "APPLY NOW",
+    "application_status": "",
+    "calibrated_probability": null,
+    "calibration_status": "PRIOR_ONLY",
+    "canonical_apply_url": "",
+    "canonical_company_id": "google",
+    "citizenship_evidence": null,
+    "clearance_evidence": null,
+    "company": "Google",
+    "country": "United States",
+    "data_completeness": 0.85,
+    "deadline": null,
+    "eligibility_confidence": "MEDIUM",
+    "eligibility_evidence": [
+      "student work authorization can be reviewed"
+    ],
+    "eligibility_reason_codes": [
+      "POSTING_SUPPORTS_WORK_AUTH"
+    ],
+    "eligibility_status": "ELIGIBLE",
+    "employment_type": "Internship",
+    "export_control_evidence": null,
+    "fit_reasons": [
+      "transparent cold-start fit; eligibility excluded from fit"
+    ],
+    "fit_tier": "GOOD MATCH",
+    "full_description": "Undergraduate data analytics internship. Responsibilities include SQL, Python, dashboards, experimentation, and stakeholder analysis. CPT or other student work authorization can be reviewed by recruiting; verify posting details before applying.",
+    "graduation_window": null,
+    "internship_term": "Summer 2027",
+    "location": "United States",
+    "matched_resume_evidence": [
+      "ALSAC SQL/Python work across 30M+ donor records",
+      "ALSAC Python work and ML research"
+    ],
+    "missing_qualifications": [],
+    "posting_date": "2026-07-11",
+    "posting_id": "fixture-6844706526",
+    "preferred_qualifications": null,
+    "required_qualifications": null,
+    "retrieval_provider": "MANUAL_FIXTURE",
+    "retrieval_status": "FULL",
+    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "role_family": "DATA_ANALYTICS",
+    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "skills_preferred": [],
+    "skills_required": [],
+    "source": "deterministic fixture",
+    "source_class": "TARGET_DISCOVERY",
+    "sponsorship_evidence": "student work authorization can be reviewed",
+    "target_program_ids": [
+      "google-8039f878"
+    ],
+    "title": "Data Analytics Intern - Summer 2027",
+    "tracker_url": null,
+    "verification_items": [],
+    "work_authorization_evidence": "student work authorization can be reviewed"
+  },
+  {
+    "application_priority": "APPLY NOW",
+    "application_status": "",
+    "calibrated_probability": null,
+    "calibration_status": "PRIOR_ONLY",
+    "canonical_apply_url": "",
+    "canonical_company_id": "microsoft",
+    "citizenship_evidence": null,
+    "clearance_evidence": null,
+    "company": "Microsoft",
+    "country": "United States",
+    "data_completeness": 0.85,
+    "deadline": null,
+    "eligibility_confidence": "MEDIUM",
+    "eligibility_evidence": [
+      "student work authorization can be reviewed"
+    ],
+    "eligibility_reason_codes": [
+      "POSTING_SUPPORTS_WORK_AUTH"
+    ],
+    "eligibility_status": "ELIGIBLE",
+    "employment_type": "Internship",
+    "export_control_evidence": null,
+    "fit_reasons": [
+      "transparent cold-start fit; eligibility excluded from fit"
+    ],
+    "fit_tier": "GOOD MATCH",
+    "full_description": "Undergraduate data analytics internship. Responsibilities include SQL, Python, dashboards, experimentation, and stakeholder analysis. CPT or other student work authorization can be reviewed by recruiting; verify posting details before applying.",
+    "graduation_window": null,
+    "internship_term": "Summer 2027",
+    "location": "United States",
+    "matched_resume_evidence": [
+      "ALSAC SQL/Python work across 30M+ donor records",
+      "ALSAC Python work and ML research"
+    ],
+    "missing_qualifications": [],
+    "posting_date": "2026-07-11",
+    "posting_id": "fixture-66fb242f0f",
+    "preferred_qualifications": null,
+    "required_qualifications": null,
+    "retrieval_provider": "MANUAL_FIXTURE",
+    "retrieval_status": "FULL",
+    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "role_family": "DATA_ANALYTICS",
+    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "skills_preferred": [],
+    "skills_required": [],
+    "source": "deterministic fixture",
+    "source_class": "TARGET_DISCOVERY",
+    "sponsorship_evidence": "student work authorization can be reviewed",
+    "target_program_ids": [
+      "microsoft-50537f2e"
+    ],
+    "title": "Data Analytics Intern - Summer 2027",
+    "tracker_url": null,
+    "verification_items": [],
+    "work_authorization_evidence": "student work authorization can be reviewed"
+  },
+  {
+    "application_priority": "APPLY NOW",
+    "application_status": "",
+    "calibrated_probability": null,
+    "calibration_status": "PRIOR_ONLY",
+    "canonical_apply_url": "",
+    "canonical_company_id": "salesforce",
+    "citizenship_evidence": null,
+    "clearance_evidence": null,
+    "company": "Salesforce",
+    "country": "United States",
+    "data_completeness": 0.85,
+    "deadline": null,
+    "eligibility_confidence": "MEDIUM",
+    "eligibility_evidence": [
+      "student work authorization can be reviewed"
+    ],
+    "eligibility_reason_codes": [
+      "POSTING_SUPPORTS_WORK_AUTH"
+    ],
+    "eligibility_status": "ELIGIBLE",
+    "employment_type": "Internship",
+    "export_control_evidence": null,
+    "fit_reasons": [
+      "transparent cold-start fit; eligibility excluded from fit"
+    ],
+    "fit_tier": "GOOD MATCH",
+    "full_description": "Undergraduate data analytics internship. Responsibilities include SQL, Python, dashboards, experimentation, and stakeholder analysis. CPT or other student work authorization can be reviewed by recruiting; verify posting details before applying.",
+    "graduation_window": null,
+    "internship_term": "Summer 2027",
+    "location": "United States",
+    "matched_resume_evidence": [
+      "ALSAC SQL/Python work across 30M+ donor records",
+      "ALSAC Python work and ML research"
+    ],
+    "missing_qualifications": [],
+    "posting_date": "2026-07-11",
+    "posting_id": "fixture-aaa2170f7d",
+    "preferred_qualifications": null,
+    "required_qualifications": null,
+    "retrieval_provider": "MANUAL_FIXTURE",
+    "retrieval_status": "FULL",
+    "retrieval_timestamp": "2026-07-11T17:28:23+00:00",
+    "role_family": "DATA_ANALYTICS",
+    "role_reason_code": "PRIMARY_DATA_ROLE",
+    "skills_preferred": [],
+    "skills_required": [],
+    "source": "deterministic fixture",
+    "source_class": "TARGET_DISCOVERY",
+    "sponsorship_evidence": "student work authorization can be reviewed",
+    "target_program_ids": [
+      "salesforce-ffa203fd"
+    ],
+    "title": "Data Analytics Intern - Summer 2027",
+    "tracker_url": null,
+    "verification_items": [],
+    "work_authorization_evidence": "student work authorization can be reviewed"
+  }
+]
