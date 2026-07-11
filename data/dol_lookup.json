@@ -1,2733 +1,1331 @@
 {
-  "fetched_at": "2026-07-11T06:51:21.756448Z",
-  "as_of_date": "2026-07-11",
-  "target_fiscal_years": [
-    2024,
-    2025,
-    2026
-  ],
-  "dol_bulk_reachable": true,
-  "h1bdata_fallback_reachable": true,
-  "company_count": 109,
-  "note": "sponsorship_evidence is REAL or NONE only when a source was actually reached for that company (checked=true). UNKNOWN means neither DOL's bulk disclosure files nor h1bdata.info could be reached for this company - never treated as NONE.",
-  "companies": {
-    "ABC Fitness": {
-      "company": "ABC Fitness",
-      "fiscal_year_filings": {
-        "2024": 28,
-        "2025": 21,
-        "2026": 4
-      },
-      "total_filings_3yr": 53,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ABC Company",
-        "ABC Fitness Solutions LLC",
-        "ABC Fitness Solutions, LLC ",
-        "FI Group Inc",
-        "FIT LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "ITN Holdings LLC",
-        "International Services",
-        "International Services, Inc. ",
-        "TN Americas LLC",
-        "Worldwide, Inc.",
-        "abc",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+  "companies": [
+    {
+      "canonical_company_id": "accenture",
+      "company": "Accenture",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "ABC News": {
-      "company": "ABC News",
-      "fiscal_year_filings": {
-        "2024": 4,
-        "2025": 4,
-        "2026": 1
-      },
-      "total_filings_3yr": 9,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ABC Company",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "W LLC",
-        "Worldwide, Inc.",
-        "abc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "adobe",
+      "company": "Adobe",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "ASM": {
-      "company": "ASM",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "airbnb",
+      "company": "Airbnb",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Abundant": {
-      "company": "Abundant",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "alsac-st-jude",
+      "company": "ALSAC / St. Jude",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Affinius Capital": {
-      "company": "Affinius Capital",
-      "fiscal_year_filings": {
-        "2024": 30,
-        "2025": 20,
-        "2026": 0
-      },
-      "total_filings_3yr": 50,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Affinius Capital LLC",
-        "Affinius Capital, LLC",
-        "FI Group Inc",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
-    },
-    "Al Warren Oil Company": {
-      "company": "Al Warren Oil Company",
-      "fiscal_year_filings": {
-        "2024": 24,
-        "2025": 19,
-        "2026": 1
-      },
-      "total_filings_3yr": 44,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "Arre LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "W LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
-    },
-    "Amazon": {
+    {
+      "canonical_company_id": "amazon",
       "company": "Amazon",
-      "fiscal_year_filings": {
-        "2024": 21660,
-        "2025": 23243,
-        "2026": 3377
-      },
-      "total_filings_3yr": 48280,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        " AMAZON WEB SERVICES, INC",
-        "AMAZON ADVERTISING LLC",
-        "AMAZON ADVERTISING LLC ",
-        "AMAZON DATA SERVICES, INC.",
-        "AMAZON DEVELOPMENT CENTER U.S., INC.",
-        "AMAZON DEVELOPMENT CENTER U.S., INC. ",
-        "AMAZON LOGISTICS, INC.",
-        "AMAZON PAYMENTS, INC",
-        "AMAZON PAYMENTS, INC.",
-        "AMAZON PRODUCE NETWORK L.L.C",
-        "AMAZON RETAIL LLC",
-        "AMAZON STUDIOS LLC",
-        "AMAZON STUDIOS, LLC",
-        "AMAZON WEB SERVICES INC",
-        "AMAZON WEB SERVICES, INC",
-        "AMAZON WEB SERVICES, INC.",
-        "AMAZON.COM SERVICES LLC",
-        "AZO, Inc.",
-        "Amazon Advertising LLC",
-        "Amazon Capital Services, Inc.",
-        "Amazon Data Services Inc.",
-        "Amazon Data Services, Inc",
-        "Amazon Data Services, Inc.",
-        "Amazon Development Center U.S. Inc.",
-        "Amazon Development Center U.S., Inc",
-        "Amazon Development Center U.S., Inc.",
-        "Amazon Development Center US Inc.",
-        "Amazon Development Center US, Inc.",
-        "Amazon Fresh LLC",
-        "Amazon Fulfillment Center (BF14)",
-        "Amazon Kuiper Manufacturing Enterprises LLC",
-        "Amazon LLC",
-        "Amazon Media Venture LLC",
-        "Amazon Payments, Inc.",
-        "Amazon Retail LLC",
-        "Amazon Studios LLC",
-        "Amazon Studios, LLC",
-        "Amazon Web Services Inc",
-        "Amazon Web Services Inc.",
-        "Amazon Web Services LLC",
-        "Amazon Web Services, Inc",
-        "Amazon Web Services, Inc.",
-        "Amazon Web Services, Inc. ",
-        "Amazon.com Services LLC",
-        "Amazon.com.ca, Inc.",
-        "Amazonic Ventures LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Anduril": {
-      "company": "Anduril",
-      "fiscal_year_filings": {
-        "2024": 28,
-        "2025": 19,
-        "2026": 1
-      },
-      "total_filings_3yr": 48,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Anduril Industries, Inc. ",
-        "DU Company",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "UR International, Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "amd",
+      "company": "AMD",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Apex Technology, Inc.": {
-      "company": "Apex Technology, Inc.",
-      "fiscal_year_filings": {
-        "2024": 108,
-        "2025": 128,
-        "2026": 14
-      },
-      "total_filings_3yr": 250,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Apex Technology Group Inc.",
-        "Apex Technology Group, Inc.",
-        "Apex Technology Systems Inc",
-        "Apex Technology Systems, Inc",
-        "H COMPANY INC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "JAX APEX TECHNOLOGY, INC.",
-        "Olo Inc.",
-        "Olo, Inc.",
-        "PE SERVICES",
-        "PE Services",
-        "PE Services, Inc.",
-        "TEC Group, Inc.",
-        "TEC International, LLP",
-        "TECHNOLOGY HOLDINGS INTERNATIONAL INCORPORATED",
-        "Technology Services Group Inc.",
-        "Technology Services Group, Inc.",
-        "Worldwide, Inc.",
-        "X Corp.",
-        "X LLC",
-        "X llc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "american-express",
+      "company": "American Express",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Apple": {
+    {
+      "canonical_company_id": "analysis-group",
+      "company": "Analysis Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "anthropic",
+      "company": "Anthropic",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "appian",
+      "company": "Appian",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "apple",
       "company": "Apple",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Apptronik": {
-      "company": "Apptronik",
-      "fiscal_year_filings": {
-        "2024": 33,
-        "2025": 41,
-        "2026": 3
-      },
-      "total_filings_3yr": 77,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "APPTRONIK, INC.",
-        "Apptronik, Inc.",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "astrazeneca",
+      "company": "AstraZeneca",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Aquatic": {
-      "company": "Aquatic",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "atlassian",
+      "company": "Atlassian",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Arrowstreet Capital": {
-      "company": "Arrowstreet Capital",
-      "fiscal_year_filings": {
-        "2024": 43,
-        "2025": 41,
-        "2026": 2
-      },
-      "total_filings_3yr": 86,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Arrow International LLC",
-        "Arrow International, Inc.",
-        "Arrow International, LLC",
-        "Arrowstreet Capital, Limited Partnership",
-        "Arrowstreet Capital, Limited Partnership ",
-        "Arrowstreet, Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "TRE Group Inc",
-        "W LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "autozone",
+      "company": "AutoZone",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "AssetMark": {
-      "company": "AssetMark",
-      "fiscal_year_filings": {
-        "2024": 12,
-        "2025": 9,
-        "2026": 3
-      },
-      "total_filings_3yr": 24,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ASSE International, Inc.",
-        "ASSE International, Inc. ",
-        "AssetMark Financial Holdings, Inc.",
-        "AssetMark Financial, Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "RK INTERNATIONAL LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "bain-and-company",
+      "company": "Bain & Company",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Avanade": {
-      "company": "Avanade",
-      "fiscal_year_filings": {
-        "2024": 66,
-        "2025": 69,
-        "2026": 7
-      },
-      "total_filings_3yr": 142,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "AVA Inc.",
-        "AVA, Inc.",
-        "Avanade Inc.",
-        "Avanade Inc. ",
-        "Avanade, Inc.",
-        "DE Corp.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "V Group Inc.",
-        "VA GROUP LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
-    },
-    "BNP Paribas": {
-      "company": "BNP Paribas",
-      "fiscal_year_filings": {
-        "2024": 261,
-        "2025": 276,
-        "2026": 26
-      },
-      "total_filings_3yr": 563,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ARi Holdings LLC",
-        "Ariba, Inc.",
-        "BA, Inc.",
-        "BNP PARIBAS RCC INC.",
-        "BNP PARIBAS SECURITIES CORP.",
-        "BNP Paribas",
-        "BNP Paribas Financial Services LLC",
-        "BNP Paribas Financial Services, LLC",
-        "BNP Paribas RCC Inc.",
-        "BNP Paribas Securities Corp.",
-        "BNP Paribas.",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "IB Services Inc",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "PAR, Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
-    },
-    "Baird": {
-      "company": "Baird",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
-    },
-    "Bank of America": {
+    {
+      "canonical_company_id": "bank-of-america",
       "company": "Bank of America",
-      "fiscal_year_filings": {
-        "2024": 633,
-        "2025": 905,
-        "2026": 76
-      },
-      "total_filings_3yr": 1614,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "AME, Inc.",
-        "BA, Inc.",
-        "BANK OF AMERICA CORPORATION",
-        "BANK OF AMERICA N.A.",
-        "Bank of America Corporation",
-        "Bank of America N.A.",
-        "Bank of America N.A. ",
-        "CA GROUP, INC.",
-        "CA Group, Inc.",
-        "CA, Inc.",
-        "First National Bank of America",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "BlackRock": {
+    {
+      "canonical_company_id": "barclays",
+      "company": "Barclays",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "bates-white",
+      "company": "Bates White",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "best-buy",
+      "company": "Best Buy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "big-4-truth-for-you-specifically",
+      "company": "Big 4 truth for YOU specifically",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "blackrock",
       "company": "BlackRock",
-      "fiscal_year_filings": {
-        "2024": 559,
-        "2025": 630,
-        "2026": 41
-      },
-      "total_filings_3yr": 1230,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "BLA, Inc.",
-        "BLACKROCK CONSTRUCTION SERVICES LLC",
-        "BLACKROCK FINANCIAL MANAGEMENT, INC.",
-        "BlackRock Advisors, LLC",
-        "BlackRock Construction Services, LLC",
-        "BlackRock Corporation US, Inc",
-        "BlackRock Corporation US, Inc.",
-        "BlackRock Corporation US, Inc. ",
-        "BlackRock Financial Management, Inc.",
-        "BlackRock Financial Management, Inc. ",
-        "BlackRock IT Solutions, LLC",
-        "BlackRock Index Services, LLC",
-        "BlackRock Institutional Services",
-        "BlackRock Institutional Services, Inc.",
-        "BlackRock Institutional Services, Inc. ",
-        "BlackRock Institutional Trust Company, N.A",
-        "BlackRock Institutional Trust Company, N.A.",
-        "BlackRock Institutional Trust Company, N.A. ",
-        "BlackRock Investment Management, LLC",
-        "BlackRock Investment Management, LLC ",
-        "BlackRock Resources, LLC",
-        "Blackrock Automation Inc.",
-        "Blackrock Microsystems, Inc",
-        "Blackrock Microsystems, LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "ROC CAPITAL HOLDINGS LLC",
-        "Roc Capital Holdings LLC",
-        "Worldwide, Inc.",
-        "eFront Financial Solutions Inc. (BlackRock) "
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Blue Origin": {
-      "company": "Blue Origin",
-      "fiscal_year_filings": {
-        "2024": 24,
-        "2025": 18,
-        "2026": 0
-      },
-      "total_filings_3yr": 42,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Blue Origin, LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "IG SERVICES, LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "block-square-cash-app",
+      "company": "Block (Square/Cash App)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "ByteDance": {
-      "company": "ByteDance",
-      "fiscal_year_filings": {
-        "2024": 1154,
-        "2025": 1391,
-        "2026": 85
-      },
-      "total_filings_3yr": 2630,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "BYTEDANCE INC.",
-        "ByteDance Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "bloomberg",
+      "company": "Bloomberg",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "CTGT": {
-      "company": "CTGT",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "booking-holdings-priceline",
+      "company": "Booking Holdings / Priceline",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Cadence": {
-      "company": "Cadence",
-      "fiscal_year_filings": {
-        "2024": 281,
-        "2025": 410,
-        "2026": 42
-      },
-      "total_filings_3yr": 733,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "CA GROUP, INC.",
-        "CA Group, Inc.",
-        "CA, Inc.",
-        "Cadence Design Systems, Inc.",
-        "Cadence Group, Inc.",
-        "Cadence McShane Construction Company LLC",
-        "Cadence Solutions, Inc.",
-        "Cadence Translate, Inc.",
-        "Cadence, Inc.",
-        "DE Corp.",
-        "ENC, INC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "booz-allen-hamilton",
+      "company": "Booz Allen Hamilton",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Capital One": {
+    {
+      "canonical_company_id": "boston-consulting-group",
+      "company": "Boston Consulting Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "brattle-group",
+      "company": "Brattle Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "brinker-international-chili-s",
+      "company": "Brinker International (Chili's)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "bristol-myers-squibb",
+      "company": "Bristol Myers Squibb",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "capital-one",
       "company": "Capital One",
-      "fiscal_year_filings": {
-        "2024": 793,
-        "2025": 1236,
-        "2026": 210
-      },
-      "total_filings_3yr": 2239,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "APi, Inc.",
-        "Al International, LLC",
-        "CA GROUP, INC.",
-        "CA Group, Inc.",
-        "CA, Inc.",
-        "Capital One Services, LLC",
-        "Capital One, National Association",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "ITA Group, Inc.",
-        "ITA, Inc.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Cargill": {
-      "company": "Cargill",
-      "fiscal_year_filings": {
-        "2024": 95,
-        "2025": 130,
-        "2026": 9
-      },
-      "total_filings_3yr": 234,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "CA GROUP, INC.",
-        "CA Group, Inc.",
-        "CA, Inc.",
-        "Cargill Incorporated",
-        "Cargill, Incorporated",
-        "Cargill, Incorporated (US)",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Margaret A Cargill Philanthropic Services LLC",
-        "Margaret A. Cargill Philanthropic Services LLC",
-        "RG GROUP INC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "capital-one-vt-pipeline-note",
+      "company": "Capital One (VT pipeline note)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Circleback": {
-      "company": "Circleback",
-      "fiscal_year_filings": {
-        "2024": 26,
-        "2025": 17,
-        "2026": 0
-      },
-      "total_filings_3yr": 43,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "BA, Inc.",
-        "Circleback AI, Inc.",
-        "Circleback AI, Inc. ",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "carilion-clinic",
+      "company": "Carilion Clinic",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Citadel": {
-      "company": "Citadel",
-      "fiscal_year_filings": {
-        "2024": 330,
-        "2025": 330,
-        "2026": 61
-      },
-      "total_filings_3yr": 721,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "CITADEL AMERICAS SERVICES LLC",
-        "CITADEL ENTERPRISE AMERICAS SERVICES LLC",
-        "CITADEL ENTP SERVICES GROUP LLC",
-        "CITADEL HFP SERVICES GROUP LLC",
-        "CITADEL INFORMATION SERVICES, INC",
-        "CITADEL SECURITIES AMERICAS SERVICES LLC",
-        "Citadel Americas LLC",
-        "Citadel Americas Services LLC",
-        "Citadel Enterprise Americas Services LLC",
-        "Citadel ID Inc.",
-        "Citadel Management Services, LP",
-        "Citadel Securities Americas LLC",
-        "Citadel Securities Americas Services LLC",
-        "JAJ Roofing Inc dba Citadel Roofing & Solar",
-        "The Citadel"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "carmax",
+      "company": "CarMax",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Citi": {
+    {
+      "canonical_company_id": "cgi",
+      "company": "CGI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "charles-river-associates",
+      "company": "Charles River Associates",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "chewy",
+      "company": "Chewy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "cisco",
+      "company": "Cisco",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "citi",
       "company": "Citi",
-      "fiscal_year_filings": {
-        "2024": 859,
-        "2025": 1400,
-        "2026": 278
-      },
-      "total_filings_3yr": 2537,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Citibank, N.A."
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "CloudFit Software": {
-      "company": "CloudFit Software",
-      "fiscal_year_filings": {
-        "2024": 25,
-        "2025": 19,
-        "2026": 1
-      },
-      "total_filings_3yr": 45,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Cloudfit, Inc.",
-        "FI Group Inc",
-        "FIT LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "W LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "coca-cola",
+      "company": "Coca-Cola",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Cubist Systematic Strategies": {
-      "company": "Cubist Systematic Strategies",
-      "fiscal_year_filings": {
-        "2024": 36,
-        "2025": 64,
-        "2026": 5
-      },
-      "total_filings_3yr": 105,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "CUBIST SYSTEMATIC STRATEGIES, LLC",
-        "Cubist Systematic Strategies, LLC"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "coinbase",
+      "company": "Coinbase",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "D. E. Shaw": {
-      "company": "D. E. Shaw",
-      "fiscal_year_filings": {
-        "2024": 47,
-        "2025": 66,
-        "2026": 7
-      },
-      "total_filings_3yr": 120,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "D. E. Shaw & Co., L.P.",
-        "D. E. Shaw Research, LLC"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "colgate-palmolive",
+      "company": "Colgate-Palmolive",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "DE Shaw": {
-      "company": "DE Shaw",
-      "fiscal_year_filings": {
-        "2024": 47,
-        "2025": 66,
-        "2026": 7
-      },
-      "total_filings_3yr": 120,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "D. E. Shaw & Co., L.P.",
-        "D. E. Shaw Research, LLC"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "compass-lexecon",
+      "company": "Compass Lexecon",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "DTCC": {
-      "company": "DTCC",
-      "fiscal_year_filings": {
-        "2024": 60,
-        "2025": 120,
-        "2026": 20
-      },
-      "total_filings_3yr": 200,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Depository Trust Company of Delaware, LLC",
-        "Depository Trust Company of Delaware, LLC.",
-        "The Depository Trust & Clearing Corporation",
-        "The Depository Trust and Clearing Corporation"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "cornerstone-research",
+      "company": "Cornerstone Research",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Databricks": {
+    {
+      "canonical_company_id": "costco",
+      "company": "Costco",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "cvent",
+      "company": "Cvent",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "cvs-health",
+      "company": "CVS Health",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "databricks",
       "company": "Databricks",
-      "fiscal_year_filings": {
-        "2024": 359,
-        "2025": 408,
-        "2026": 74
-      },
-      "total_filings_3yr": 841,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Data Capital, Inc.",
-        "Databricks, Inc.",
-        "Databricks, Inc. ",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Dedalus Labs": {
-      "company": "Dedalus Labs",
-      "fiscal_year_filings": {
-        "2024": 4,
-        "2025": 4,
-        "2026": 0
-      },
-      "total_filings_3yr": 8,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "DE Corp.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "dell-technologies",
+      "company": "Dell Technologies",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Delta Air Lines": {
-      "company": "Delta Air Lines",
-      "fiscal_year_filings": {
-        "2024": 213,
-        "2025": 228,
-        "2026": 41
-      },
-      "total_filings_3yr": 482,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "AIR COMPANY HOLDINGS, INC.",
-        "AIR Worldwide Corporation",
-        "DE Corp.",
-        "Delta Air Lines, Inc.",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Line Services, Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "deloitte",
+      "company": "Deloitte",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Dexcom": {
-      "company": "Dexcom",
-      "fiscal_year_filings": {
-        "2024": 85,
-        "2025": 111,
-        "2026": 9
-      },
-      "total_filings_3yr": 205,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "DE Corp.",
-        "Dexcom, Inc",
-        "Dexcom, Inc.",
-        "EXCO International, LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "OM Group, Inc.",
-        "Worldwide, Inc.",
-        "X Corp.",
-        "X LLC",
-        "X llc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "deloitte-alternative-fti-consulting",
+      "company": "Deloitte-alternative: FTI Consulting",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "DimeHealth AI": {
-      "company": "DimeHealth AI",
-      "fiscal_year_filings": {
-        "2024": 25,
-        "2025": 20,
-        "2026": 1
-      },
-      "total_filings_3yr": 46,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "EH GROUP INC",
-        "H COMPANY INC",
-        "Health Services, Inc.",
-        "Health Services, LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "deutsche-bank",
+      "company": "Deutsche Bank",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Ellipsis Labs": {
-      "company": "Ellipsis Labs",
-      "fiscal_year_filings": {
-        "2024": 33,
-        "2025": 31,
-        "2026": 2
-      },
-      "total_filings_3yr": 66,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "IPS GROUP INC.",
-        "IPS Group, Inc. ",
-        "IS INTERNATIONAL SERVICES, LLC",
-        "International Services",
-        "International Services, Inc. ",
-        "PSI INTERNATIONAL INC",
-        "PSI International, Inc.",
-        "PSI Services LLC",
-        "SI Group, Inc.",
-        "SIS LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "discover",
+      "company": "Discover",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Epic": {
-      "company": "Epic",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "disney",
+      "company": "Disney",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Etched": {
-      "company": "Etched",
-      "fiscal_year_filings": {
-        "2024": 13,
-        "2025": 30,
-        "2026": 3
-      },
-      "total_filings_3yr": 46,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ETCH, INC.",
-        "ETCHEDAI INC",
-        "ETCHEDAI INC.",
-        "Etched.ai, Inc.",
-        "EtchedAI Inc",
-        "EtchedAI, Inc.",
-        "H COMPANY INC",
-        "HED Inc",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "domino-s",
+      "company": "Domino's",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Ether.fi": {
-      "company": "Ether.fi",
-      "fiscal_year_filings": {
-        "2024": 24,
-        "2025": 18,
-        "2026": 0
-      },
-      "total_filings_3yr": 42,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "FI Group Inc",
-        "H COMPANY INC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "doordash",
+      "company": "DoorDash",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Fiserv": {
-      "company": "Fiserv",
-      "fiscal_year_filings": {
-        "2024": 512,
-        "2025": 439,
-        "2026": 64
-      },
-      "total_filings_3yr": 1015,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "FI Group Inc",
-        "Fiserv Solutions, LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "IS INTERNATIONAL SERVICES, LLC",
-        "International Services",
-        "International Services, Inc. ",
-        "V Group Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "duolingo",
+      "company": "Duolingo",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Flow Traders": {
-      "company": "Flow Traders",
-      "fiscal_year_filings": {
-        "2024": 11,
-        "2025": 7,
-        "2026": 1
-      },
-      "total_filings_3yr": 19,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "DE Corp.",
-        "Flow Traders U.S. LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "RS Americas Inc.",
-        "RS, LLC",
-        "Trade Capital Corporation",
-        "W LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "ebay",
+      "company": "eBay",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "GE Aerospace": {
-      "company": "GE Aerospace",
-      "fiscal_year_filings": {
-        "2024": 2,
-        "2025": 5,
-        "2026": 1
-      },
-      "total_filings_3yr": 8,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ACE CAPITAL LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "PAC Worldwide Corporation",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "edgeworth-economics",
+      "company": "Edgeworth Economics",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "GE Appliances": {
-      "company": "GE Appliances",
-      "fiscal_year_filings": {
-        "2024": 35,
-        "2025": 31,
-        "2026": 1
-      },
-      "total_filings_3yr": 67,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "IAN Corporation",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "Ian Corporation",
-        "International Services",
-        "International Services, Inc. ",
-        "PPL Services Corporation",
-        "PPL Services Corporation ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "electronic-arts",
+      "company": "Electronic Arts",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "General Astronautics": {
-      "company": "General Astronautics",
-      "fiscal_year_filings": {
-        "2024": 27,
-        "2025": 22,
-        "2026": 0
-      },
-      "total_filings_3yr": 49,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "Gen, LLC",
-        "Gen., LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "eli-lilly",
+      "company": "Eli Lilly",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "General Dynamics Mission Systems, Inc.": {
-      "company": "General Dynamics Mission Systems, Inc.",
-      "fiscal_year_filings": {
-        "2024": 46,
-        "2025": 46,
-        "2026": 1
-      },
-      "total_filings_3yr": 93,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "Gen, LLC",
-        "Gen., LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "IS INTERNATIONAL SERVICES, LLC",
-        "International Services",
-        "International Services, Inc. ",
-        "MS INTERNATIONAL, INC.",
-        "Mission Capital LLC",
-        "N.S. International, Ltd.",
-        "N/S Corporation",
-        "On Inc.",
-        "SI Group, Inc.",
-        "SSI CAPITAL, LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "eligibility-kill-phrase-memorize",
+      "company": "ELIGIBILITY KILL-PHRASE (memorize)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Granite Construction": {
-      "company": "Granite Construction",
-      "fiscal_year_filings": {
-        "2024": 37,
-        "2025": 33,
-        "2026": 3
-      },
-      "total_filings_3yr": 73,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "GRA, Incorporated",
-        "Granite Construction Company",
-        "Granite Construction Company Guam",
-        "Granite Construction Inc. & Subsidiaries",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "TE Construction Group, LLC",
-        "UCT, LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "epic-games",
+      "company": "Epic Games",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "H&CO": {
-      "company": "H&CO",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "epsilon",
+      "company": "Epsilon",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Homebase": {
-      "company": "Homebase",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "equifax",
+      "company": "Equifax",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Horace Mann": {
-      "company": "Horace Mann",
-      "fiscal_year_filings": {
-        "2024": 6,
-        "2025": 8,
-        "2026": 2
-      },
-      "total_filings_3yr": 16,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ACE CAPITAL LLC",
-        "H COMPANY INC",
-        "Horace Mann Service Corporation",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Ora, Inc.",
-        "Ora, Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "est-e-lauder",
+      "company": "Est\u00e9e Lauder",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "ICF": {
-      "company": "ICF",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "etsy",
+      "company": "Etsy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "IMC": {
-      "company": "IMC",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "expedia-group",
+      "company": "Expedia Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "IMC Trading": {
-      "company": "IMC Trading",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "experian",
+      "company": "Experian",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Intercontinental Exchange, Inc.": {
-      "company": "Intercontinental Exchange, Inc.",
-      "fiscal_year_filings": {
-        "2024": 281,
-        "2025": 367,
-        "2026": 34
-      },
-      "total_filings_3yr": 682,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "Change Inc",
-        "Change Worldwide, Inc.",
-        "Conti LLC",
-        "H COMPANY INC",
-        "Han Group LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "Inent Inc",
-        "Intercontinental Exchange Holdings, Inc.",
-        "International Services",
-        "International Services, Inc. ",
-        "NG, Inc.",
-        "On Inc.",
-        "Worldwide, Inc.",
-        "X Corp.",
-        "X LLC",
-        "X llc",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "ey",
+      "company": "EY",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "JPMorganChase": {
-      "company": "JPMorganChase",
-      "fiscal_year_filings": {
-        "2024": 3540,
-        "2025": 3534,
-        "2026": 527
-      },
-      "total_filings_3yr": 7601,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "JPMORGAN  CHASE & CO.",
-        "JPMORGAN CHASE & CO",
-        "JPMORGAN CHASE & CO.",
-        "JPMORGAN CHASE & CO. ",
-        "JPMorgan Chase & Co.",
-        "JPMorgan Chase & Co. "
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "fannie-mae",
+      "company": "Fannie Mae",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Jump Trading Group": {
-      "company": "Jump Trading Group",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "fedex",
+      "company": "FedEx",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "KBR": {
-      "company": "KBR",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "fico",
+      "company": "FICO",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Kudu Dynamics": {
-      "company": "Kudu Dynamics",
-      "fiscal_year_filings": {
-        "2024": 23,
-        "2025": 17,
-        "2026": 1
-      },
-      "total_filings_3yr": 41,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "DU Company",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "fidelity",
+      "company": "Fidelity",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "LA-Tech.org": {
-      "company": "LA-Tech.org",
-      "fiscal_year_filings": {
-        "2024": 16,
-        "2025": 9,
-        "2026": 0
-      },
-      "total_filings_3yr": 25,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "H COMPANY INC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "RG GROUP INC",
-        "TEC Group, Inc.",
-        "TEC International, LLP",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "gartner",
+      "company": "Gartner",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "LiveRamp": {
-      "company": "LiveRamp",
-      "fiscal_year_filings": {
-        "2024": 80,
-        "2025": 69,
-        "2026": 6
-      },
-      "total_filings_3yr": 155,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "IV, Inc.",
-        "International Services",
-        "International Services, Inc. ",
-        "LIVEr Inc",
-        "LiveRamp Inc.",
-        "LiveRamp, Inc.",
-        "V Group Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "genentech",
+      "company": "Genentech",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Los Alamos National Laboratory": {
-      "company": "Los Alamos National Laboratory",
-      "fiscal_year_filings": {
-        "2024": 55,
-        "2025": 63,
-        "2026": 13
-      },
-      "total_filings_3yr": 131,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ATI HOLDINGS, LLC",
-        "ATI Holdings LLC",
-        "ATI Holdings, LLC",
-        "ATI, Inc.",
-        "Al International, LLC",
-        "BORA Capital, LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "National, LLC",
-        "On Inc.",
-        "Ora, Inc.",
-        "Ora, Inc. ",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "goldman-sachs",
+      "company": "Goldman Sachs",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "LufCo": {
-      "company": "LufCo",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "google",
+      "company": "Google",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "MLH": {
-      "company": "MLH",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "gpa-strategy",
+      "company": "GPA strategy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Medpace": {
-      "company": "Medpace",
-      "fiscal_year_filings": {
-        "2024": 23,
-        "2025": 34,
-        "2026": 3
-      },
-      "total_filings_3yr": 60,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ACE CAPITAL LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Medpace, Inc.",
-        "PAC Worldwide Corporation",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "grammarly",
+      "company": "Grammarly",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Member Solutions": {
-      "company": "Member Solutions",
-      "fiscal_year_filings": {
-        "2024": 25,
-        "2025": 23,
-        "2026": 0
-      },
-      "total_filings_3yr": 48,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "SOLUTIONS INC",
-        "Solution Services Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "home-depot",
+      "company": "Home Depot",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Microsoft": {
+    {
+      "canonical_company_id": "hp",
+      "company": "HP",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "hsbc",
+      "company": "HSBC",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "humana",
+      "company": "Humana",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "ibm",
+      "company": "IBM",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "instacart",
+      "company": "Instacart",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "intel",
+      "company": "Intel",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "intuit",
+      "company": "Intuit",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "johnson-and-johnson",
+      "company": "Johnson & Johnson",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "kearney",
+      "company": "Kearney",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "kpmg",
+      "company": "KPMG",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "kroger-84-51",
+      "company": "Kroger / 84.51\u00b0",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "l-or-al",
+      "company": "L'Or\u00e9al",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "linkedin",
+      "company": "LinkedIn",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "lowe-s",
+      "company": "Lowe's",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "lyft",
+      "company": "Lyft",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "mars",
+      "company": "Mars",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "mastercard",
+      "company": "Mastercard",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "merck",
+      "company": "Merck",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "meta",
+      "company": "Meta",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "microsoft",
       "company": "Microsoft",
-      "fiscal_year_filings": {
-        "2024": 9517,
-        "2025": 9379,
-        "2026": 1338
-      },
-      "total_filings_3yr": 20234,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Cro",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "ICR, LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Microsoft Corporation",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Midmark": {
-      "company": "Midmark",
-      "fiscal_year_filings": {
-        "2024": 28,
-        "2025": 22,
-        "2026": 2
-      },
-      "total_filings_3yr": 52,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "MIDMARK CORPORATION",
-        "RK INTERNATIONAL LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "moody-s",
+      "company": "Moody's",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Naive": {
-      "company": "Naive",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "msci",
+      "company": "MSCI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Nash": {
-      "company": "Nash",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "nera-economic-consulting",
+      "company": "NERA Economic Consulting",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Na\u00efve": {
-      "company": "Na\u00efve",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "nestl",
+      "company": "Nestl\u00e9",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Neo": {
-      "company": "Neo",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "netflix",
+      "company": "Netflix",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Northspyre": {
-      "company": "Northspyre",
-      "fiscal_year_filings": {
-        "2024": 10,
-        "2025": 12,
-        "2026": 0
-      },
-      "total_filings_3yr": 22,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "H COMPANY INC",
-        "HS Holdings LLC",
-        "HSP Group, Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "North",
-        "North, Inc.",
-        "THS Group, LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "nielsen-nielseniq",
+      "company": "Nielsen / NielsenIQ",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Optiver": {
-      "company": "Optiver",
-      "fiscal_year_filings": {
-        "2024": 25,
-        "2025": 47,
-        "2026": 9
-      },
-      "total_filings_3yr": 81,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Optiver Execution Operations LLC",
-        "Optiver Services US LLC",
-        "Optiver Services US, LLC"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "nike",
+      "company": "Nike",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Paragon": {
-      "company": "Paragon",
-      "fiscal_year_filings": {
-        "2024": 33,
-        "2025": 28,
-        "2026": 2
-      },
-      "total_filings_3yr": 63,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "PAR, Inc.",
-        "PARAGON CORPORATION",
-        "PARAGON HOME HEALTH CARE, INC.",
-        "PCE PARAGON SOLUTIONS USA, INC.",
-        "PCE Paragon Solutions USA Inc",
-        "PCE Paragon Solutions USA, Inc.",
-        "Para Group LLC",
-        "Paragon Brokerage Inc",
-        "Paragon Corporation",
-        "Paragon Genomics, Inc.",
-        "Paragon Geochemical Laboratories Inc",
-        "Paragon Geochemical Laboratories, Inc.",
-        "Paragon Global Markets LLC",
-        "Paragon Home Healthcare, Inc",
-        "Paragon Management Inc.",
-        "Paragon Medical Managemebt Group, LLC",
-        "Paragon Medical Management Group, LLC",
-        "Paragon Medical, Inc.",
-        "Paragon Print Systems, Inc.",
-        "Paragon SCI, LP",
-        "Paragon Structural Engineering, Ltd.",
-        "Paragon Tax And Accounting, Inc.",
-        "Paragonix Technologies, Inc.",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "novartis",
+      "company": "Novartis",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Podium": {
-      "company": "Podium",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "nutanix",
+      "company": "Nutanix",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Point72": {
-      "company": "Point72",
-      "fiscal_year_filings": {
-        "2024": 85,
-        "2025": 118,
-        "2026": 30
-      },
-      "total_filings_3yr": 233,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Point72 Asset Management, L.P.",
-        "Point72 Private Investments, LLC",
-        "Point72 Private Investments, LLC f/k/a Point72 Ventures, LLC",
-        "Point72, L.P."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "nvidia",
+      "company": "NVIDIA",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Poshmark": {
-      "company": "Poshmark",
-      "fiscal_year_filings": {
-        "2024": 10,
-        "2025": 32,
-        "2026": 1
-      },
-      "total_filings_3yr": 43,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "H COMPANY INC",
-        "HM Holdings, Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Posh Group Inc",
-        "Posh Group Inc.",
-        "Poshmark Inc.",
-        "RK INTERNATIONAL LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "oliver-wyman",
+      "company": "Oliver Wyman",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Rakuten International": {
-      "company": "Rakuten International",
-      "fiscal_year_filings": {
-        "2024": 16,
-        "2025": 18,
-        "2026": 4
-      },
-      "total_filings_3yr": 38,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Cartera Commerce Inc., a Rakuten company",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Rakuten Marketing LLC",
-        "Rakuten Mobile USA, LLC",
-        "Rakuten Symphony USA LLC",
-        "Rakuten USA, Inc.",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "openai",
+      "company": "OpenAI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Rippling": {
-      "company": "Rippling",
-      "fiscal_year_filings": {
-        "2024": 54,
-        "2025": 117,
-        "2026": 10
-      },
-      "total_filings_3yr": 181,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NG, Inc.",
-        "PPL Services Corporation",
-        "PPL Services Corporation ",
-        "People Center, Inc. d/b/a Rippling",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "oracle",
+      "company": "Oracle",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "SK Hynix Memory Solution": {
-      "company": "SK Hynix Memory Solution",
-      "fiscal_year_filings": {
-        "2024": 100,
-        "2025": 83,
-        "2026": 8
-      },
-      "total_filings_3yr": 191,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "SK Hynix NAND Product Solutions Corp",
-        "SK hynix America Inc.",
-        "SK hynix America Investment Corporation",
-        "SK hynix America inc.",
-        "SK hynix NAND Product Solutions Corp",
-        "SK hynix memory solutions America inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "palantir",
+      "company": "Palantir",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Salesforce": {
+    {
+      "canonical_company_id": "paypal",
+      "company": "PayPal",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "pepsico",
+      "company": "PepsiCo",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "pfizer",
+      "company": "Pfizer",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "pinterest",
+      "company": "Pinterest",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "procter-and-gamble",
+      "company": "Procter & Gamble",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "pwc",
+      "company": "PwC",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "qualcomm",
+      "company": "Qualcomm",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "ra-sigma-tau-gamma",
+      "company": "RA + Sigma Tau Gamma",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "reddit",
+      "company": "Reddit",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "referral-script",
+      "company": "Referral script",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "regeneron",
+      "company": "Regeneron",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "robinhood",
+      "company": "Robinhood",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "roblox",
+      "company": "Roblox",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "s-and-p-global",
+      "company": "S&P Global",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "salesforce",
       "company": "Salesforce",
-      "fiscal_year_filings": {
-        "2024": 2340,
-        "2025": 1923,
-        "2026": 330
-      },
-      "total_filings_3yr": 4593,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "SForce Corp",
-        "Salesforce Developer",
-        "Salesforce, Inc.",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Schonfeld": {
-      "company": "Schonfeld",
-      "fiscal_year_filings": {
-        "2024": 34,
-        "2025": 32,
-        "2026": 7
-      },
-      "total_filings_3yr": 73,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "H COMPANY INC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "SCH Services, Inc.",
-        "Schonfeld Strategic Advisors LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "samsung-research-america",
+      "company": "Samsung Research America",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Skyworks": {
-      "company": "Skyworks",
-      "fiscal_year_filings": {
-        "2024": 151,
-        "2025": 153,
-        "2026": 5
-      },
-      "total_filings_3yr": 309,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "RK INTERNATIONAL LLC",
-        "SK International Corporation",
-        "Skyworks Solutions, Inc.",
-        "W LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "scale-ai",
+      "company": "Scale AI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Solar Turbines (Caterpillar)": {
-      "company": "Solar Turbines (Caterpillar)",
-      "fiscal_year_filings": {
-        "2024": 379,
-        "2025": 485,
-        "2026": 42
-      },
-      "total_filings_3yr": 906,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "CA GROUP, INC.",
-        "CA Group, Inc.",
-        "CA, Inc.",
-        "CATERPILLAR INC.",
-        "Caterpillar Inc",
-        "Caterpillar Inc.",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Pillar Group LLC",
-        "Solar Group, Inc.",
-        "Solar Turbines Inc.",
-        "Solar Turbines Incorporated",
-        "UR International, Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "servicenow",
+      "company": "ServiceNow",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "StarSling": {
-      "company": "StarSling",
-      "fiscal_year_filings": {
-        "2024": 24,
-        "2025": 22,
-        "2026": 0
-      },
-      "total_filings_3yr": 46,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NG, Inc.",
-        "RS Americas Inc.",
-        "RS, LLC",
-        "SLI, Inc.",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "shopify",
+      "company": "Shopify",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "StepStone Group": {
-      "company": "StepStone Group",
-      "fiscal_year_filings": {
-        "2024": 17,
-        "2025": 20,
-        "2026": 1
-      },
-      "total_filings_3yr": 38,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "EPS Group Inc",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "On Inc.",
-        "StepStone Group LP",
-        "StepStone Group Real Assets LP",
-        "StepStone Group Real Estate LP",
-        "Stepstone Art Resources, LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "snap",
+      "company": "Snap",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Stoke Space": {
-      "company": "Stoke Space",
-      "fiscal_year_filings": {
-        "2024": 7,
-        "2025": 8,
-        "2026": 1
-      },
-      "total_filings_3yr": 16,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ACE CAPITAL LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "OK International, Inc.",
-        "PAC Worldwide Corporation",
-        "Stok, LLC",
-        "Stoke, LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "snowflake",
+      "company": "Snowflake",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Susquehanna": {
-      "company": "Susquehanna",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "so-what-do-you-actually-do",
+      "company": "So what do you actually do?",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Susquehanna Investment Group": {
-      "company": "Susquehanna Investment Group",
-      "fiscal_year_filings": {
-        "2024": 106,
-        "2025": 119,
-        "2026": 13
-      },
-      "total_filings_3yr": 238,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "EH GROUP INC",
-        "H COMPANY INC",
-        "Han Group LLC",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NVE Corporation",
-        "Nvest, Inc.",
-        "Q Services, LLC",
-        "Que LLC",
-        "Susquehanna International Group, LLP",
-        "V Group Inc.",
-        "VEST INC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "sony-interactive-playstation",
+      "company": "Sony Interactive (PlayStation)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "TETRAMEM": {
-      "company": "TETRAMEM",
-      "fiscal_year_filings": {
-        "2024": 15,
-        "2025": 21,
-        "2026": 3
-      },
-      "total_filings_3yr": 39,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "AME, Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "TetraMem INC.",
-        "TetraMem Inc",
-        "TetraMem Inc.",
-        "TetraMem Inc. ",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "splunk-cisco",
+      "company": "Splunk (Cisco)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "TSMC Arizona": {
-      "company": "TSMC Arizona",
-      "fiscal_year_filings": {
-        "2024": 99,
-        "2025": 163,
-        "2026": 0
-      },
-      "total_filings_3yr": 262,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "ARi Holdings LLC",
-        "C. A. Group, Inc",
-        "C.A. GROUP, INC.",
-        "C.A. Group, Inc.",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "MC Capital Group LTD.",
-        "On Inc.",
-        "SMC Ltd.",
-        "TSMC Arizona Corporation",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "spotify",
+      "company": "Spotify",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Terranox AI": {
-      "company": "Terranox AI",
-      "fiscal_year_filings": {
-        "2024": 72,
-        "2025": 110,
-        "2026": 22
-      },
-      "total_filings_3yr": 204,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NOX Group, LLC",
-        "Nox Group",
-        "RRA LLC",
-        "Worldwide, Inc.",
-        "X Corp.",
-        "X LLC",
-        "X llc",
-        "X. AI LLC",
-        "X.AI",
-        "X.AI Corp",
-        "X.AI Corp.",
-        "X.AI LLC",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "stripe",
+      "company": "Stripe",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Thales": {
-      "company": "Thales",
-      "fiscal_year_filings": {
-        "2024": 53,
-        "2025": 65,
-        "2026": 6
-      },
-      "total_filings_3yr": 124,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "H COMPANY INC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Thales Avionics, Inc (IFE)",
-        "Thales Avionics, Inc.",
-        "Thales DIS CPL USA, Inc",
-        "Thales DIS CPL USA, Inc.",
-        "Thales DIS USA, Inc",
-        "Thales DIS USA, Inc.",
-        "Thales USA, Inc.",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "target",
+      "company": "Target",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "TikTok": {
+    {
+      "canonical_company_id": "tesla",
+      "company": "Tesla",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "the-one-question-that-matters",
+      "company": "The one question that matters",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "tiktok",
       "company": "TikTok",
-      "fiscal_year_filings": {
-        "2024": 776,
-        "2025": 1304,
-        "2026": 146
-      },
-      "total_filings_3yr": 2226,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "OK International, Inc.",
-        "TikTok Inc.",
-        "TikTok U.S. Data Security Inc.",
-        "TikTok USDS Joint Venture LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Tower Research": {
-      "company": "Tower Research",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "timeline-it-starts-now",
+      "company": "Timeline (it starts NOW)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Trata": {
-      "company": "Trata",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "transunion",
+      "company": "TransUnion",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Trimble": {
-      "company": "Trimble",
-      "fiscal_year_filings": {
-        "2024": 94,
-        "2025": 83,
-        "2026": 5
-      },
-      "total_filings_3yr": 182,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "PTx Trimble LLC",
-        "Rimble Inc",
-        "SAM TRIMBLE DESIGN INC",
-        "SAM TRIMBLE DESIGN INC ",
-        "Trimble Inc.",
-        "Trimble Inc. ",
-        "Trimble MAPS, Inc.",
-        "Trimble Solutions",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
-    },
-    "Twilio": {
+    {
+      "canonical_company_id": "twilio",
       "company": "Twilio",
-      "fiscal_year_filings": {
-        "2024": 196,
-        "2025": 234,
-        "2026": 14
-      },
-      "total_filings_3yr": 444,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "Twilio, Inc.",
-        "W LLC",
-        "WiL, LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Two Sigma": {
-      "company": "Two Sigma",
-      "fiscal_year_filings": {
-        "2024": 102,
-        "2025": 143,
-        "2026": 18
-      },
-      "total_filings_3yr": 263,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "TWO SIGMA INSURANCE QUANTIFIED, LP",
-        "TWO SIGMA INVESTMENTS, LP",
-        "TWO SIGMA LEARNING, INC.",
-        "TWO SIGMA SOLUTIONS, LLC",
-        "Two Sigma Investments, LP",
-        "Two Sigma Solutions, LLC"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "uber",
+      "company": "Uber",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Veeam Software": {
-      "company": "Veeam Software",
-      "fiscal_year_filings": {
-        "2024": 5,
-        "2025": 6,
-        "2026": 1
-      },
-      "total_filings_3yr": 12,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "V Group Inc.",
-        "Veeam Software Corporation",
-        "W LLC",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "unilever",
+      "company": "Unilever",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Virtu Financial": {
-      "company": "Virtu Financial",
-      "fiscal_year_filings": {
-        "2024": 96,
-        "2025": 90,
-        "2026": 14
-      },
-      "total_filings_3yr": 200,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "FI Group Inc",
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NAN INC",
-        "NAN INC.",
-        "Nan Inc",
-        "Nan Inc.",
-        "Nan, Inc.",
-        "V Group Inc.",
-        "Virtu Financial Operating LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "unitedhealth-group-optum",
+      "company": "UnitedHealth Group / Optum",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Voloridge Investment Management": {
-      "company": "Voloridge Investment Management",
-      "fiscal_year_filings": {
-        "2024": 30,
-        "2025": 23,
-        "2026": 2
-      },
-      "total_filings_3yr": 55,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "NVE Corporation",
-        "Nvest, Inc.",
-        "Olo Inc.",
-        "Olo, Inc.",
-        "T.M. Incorporated",
-        "V Group Inc.",
-        "VEST INC",
-        "Voloridge, LLC",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "v3-1-interview-first-sorted",
+      "company": "v3.1 - INTERVIEW-FIRST + SORTED",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "WSP": {
-      "company": "WSP",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "vanguard",
+      "company": "Vanguard",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Walleye Capital": {
-      "company": "Walleye Capital",
-      "fiscal_year_filings": {
-        "2024": 19,
-        "2025": 26,
-        "2026": 6
-      },
-      "total_filings_3yr": 51,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "Al International, LLC",
-        "EY International Services LLC",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "W LLC",
-        "Walleye Capital LLC",
-        "Walleye Capital LLP",
-        "Worldwide, Inc."
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "visa",
+      "company": "Visa",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Wipfli": {
-      "company": "Wipfli",
-      "fiscal_year_filings": {
-        "2024": 27,
-        "2025": 22,
-        "2026": 2
-      },
-      "total_filings_3yr": 51,
-      "trend": "falling",
-      "sponsorship_evidence": "REAL",
-      "source": "DOL_BULK",
-      "matched_employer_names": [
-        "I-SERVICES INC",
-        "I-Services Inc.",
-        "INC Inc.",
-        "INTERNATIONAL SERVICES INC.",
-        "International Services",
-        "International Services, Inc. ",
-        "W LLC",
-        "Wipfli Advisory, LLC.",
-        "Wipfli LLP",
-        "Worldwide, Inc.",
-        "i-Services Inc",
-        "i-Services Inc.",
-        "i-Services inc"
-      ],
-      "checked": true
+    {
+      "canonical_company_id": "vmware-broadcom",
+      "company": "VMware (Broadcom)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "Zoox": {
-      "company": "Zoox",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "vt-pipeline-verified",
+      "company": "VT PIPELINE (verified)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     },
-    "org": {
-      "company": "org",
-      "fiscal_year_filings": {
-        "2024": 0,
-        "2025": 0,
-        "2026": 0
-      },
-      "total_filings_3yr": 0,
-      "trend": "insufficient_data",
-      "sponsorship_evidence": "NONE",
-      "source": null,
-      "matched_employer_names": [],
-      "checked": true
+    {
+      "canonical_company_id": "walmart-global-tech",
+      "company": "Walmart Global Tech",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "wayfair",
+      "company": "Wayfair",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "where-to-apply",
+      "company": "Where to apply",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "workday",
+      "company": "Workday",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "your-3-priority-lanes-revised",
+      "company": "Your 3 priority lanes (revised)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "your-personal-story-use-it",
+      "company": "Your personal story (use it)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "your-portfolio-numbers",
+      "company": "YOUR PORTFOLIO NUMBERS",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "zillow",
+      "company": "Zillow",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
+    },
+    {
+      "canonical_company_id": "zs-associates",
+      "company": "ZS Associates",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "NO_MATCH"
     }
+  ],
+  "generated_at": "2026-07-11T17:28:23+00:00",
+  "note": "Existing broken-match evidence invalidated; external refresh in Actions should regenerate. Network failures produce UNKNOWN, never NONE.",
+  "previous_real_values_invalidated": true,
+  "sample_false_positives_corrected": [
+    "empty normalized name cannot match",
+    "Worldwide Inc generic token no longer contaminates unrelated companies"
+  ],
+  "summary": {
+    "NONE": 0,
+    "PARTIAL": 0,
+    "REAL": 0,
+    "STALE": 0,
+    "UNKNOWN": 164,
+    "UNVERIFIED": 0
   }
 }

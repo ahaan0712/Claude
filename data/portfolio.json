@@ -1,39 +1,56 @@
 {
-  "generated_at": "2026-07-11T05:12:20.206960Z",
-  "basis": "NO_CALIBRATED_LANES",
-  "headline": "0 of 10 role-family lanes are DATA-BACKED yet (0 outcomes logged so far; each lane needs 20+). No calibrated expected-interviews estimate can be published. The curve below is PRIOR-ONLY - built from V4's unvalidated role priors - and must not be read as a probability.",
-  "eligible_posting_count": 105,
-  "postings_excluded_no_role_family": 99,
-  "data_backed_lanes": [],
-  "prior_only_lanes": [
-    "Analytics Consulting",
-    "Applied Data Science",
-    "Business Intelligence",
-    "Data Analytics",
-    "Decision Science",
-    "Economic Consulting",
-    "Growth / Marketing Analytics",
-    "Product Analytics",
-    "Risk / Financial Analytics",
-    "Strategy / Business Analytics"
-  ],
   "calibrated_curve": [],
-  "calibrated_curve_note": "Expected interviews from applying to the top N eligible, DATA-BACKED-lane postings ranked by fit_score. Empty until a lane crosses 20 logged outcomes.",
-  "prior_only_curve": [
-    {
-      "n_postings": 5,
-      "expected_interviews_mean": 0.255,
-      "p10": 0.0,
-      "median": 0.0,
-      "p90": 1.0
-    },
-    {
-      "n_postings": 6,
-      "expected_interviews_mean": 0.294,
-      "p10": 0.0,
-      "median": 0.0,
-      "p90": 1.0
-    }
-  ],
-  "prior_only_curve_note": "ILLUSTRATIVE ONLY. Built from V4's unvalidated role-family priors for lanes with fewer than 20 logged outcomes. Not a probability - do not present as one."
+  "calibration": {
+    "lanes": [
+      {
+        "applications": 0,
+        "calibrated_probability": null,
+        "calibration_status": "PRIOR_ONLY",
+        "interviews": 0,
+        "outcomes": 0,
+        "outcomes_needed_for_calibration": 20,
+        "role_family": "DATA_ANALYTICS"
+      },
+      {
+        "applications": 0,
+        "calibrated_probability": null,
+        "calibration_status": "PRIOR_ONLY",
+        "interviews": 0,
+        "outcomes": 0,
+        "outcomes_needed_for_calibration": 20,
+        "role_family": "DATA_SCIENCE"
+      },
+      {
+        "applications": 0,
+        "calibrated_probability": null,
+        "calibration_status": "PRIOR_ONLY",
+        "interviews": 0,
+        "outcomes": 0,
+        "outcomes_needed_for_calibration": 20,
+        "role_family": "BUSINESS_INTELLIGENCE"
+      },
+      {
+        "applications": 0,
+        "calibrated_probability": null,
+        "calibration_status": "PRIOR_ONLY",
+        "interviews": 0,
+        "outcomes": 0,
+        "outcomes_needed_for_calibration": 20,
+        "role_family": "BUSINESS_ANALYTICS"
+      },
+      {
+        "applications": 0,
+        "calibrated_probability": null,
+        "calibration_status": "PRIOR_ONLY",
+        "interviews": 0,
+        "outcomes": 0,
+        "outcomes_needed_for_calibration": 20,
+        "role_family": "ADJACENT_ANALYTICS"
+      }
+    ],
+    "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
+    "threshold": 20
+  },
+  "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
+  "schema_version": "campaign27.canonical.v1"
 }

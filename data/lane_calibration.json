@@ -1,137 +1,51 @@
 {
-  "calibrated_at": "2026-07-11T05:12:20.141267Z",
-  "data_backed_threshold": 20,
-  "total_applications_logged": 0,
-  "lanes": {
-    "Analytics Consulting": {
-      "n_applications_logged": 0,
+  "lanes": [
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
       "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0114,
-        "median": 0.035,
-        "p90": 0.1021
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "role_family": "DATA_ANALYTICS"
     },
-    "Applied Data Science": {
-      "n_applications_logged": 0,
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
       "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0092,
-        "median": 0.03,
-        "p90": 0.0936
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "role_family": "DATA_SCIENCE"
     },
-    "Business Intelligence": {
-      "n_applications_logged": 0,
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
       "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0187,
-        "median": 0.05,
-        "p90": 0.1269
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "role_family": "BUSINESS_INTELLIGENCE"
     },
-    "Data Analytics": {
-      "n_applications_logged": 0,
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
       "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0167,
-        "median": 0.045,
-        "p90": 0.1151
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "role_family": "BUSINESS_ANALYTICS"
     },
-    "Decision Science": {
-      "n_applications_logged": 0,
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
       "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0097,
-        "median": 0.03,
-        "p90": 0.0884
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
-    },
-    "Economic Consulting": {
-      "n_applications_logged": 0,
-      "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0092,
-        "median": 0.03,
-        "p90": 0.0936
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
-    },
-    "Growth / Marketing Analytics": {
-      "n_applications_logged": 0,
-      "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0139,
-        "median": 0.04,
-        "p90": 0.1092
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
-    },
-    "Product Analytics": {
-      "n_applications_logged": 0,
-      "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0122,
-        "median": 0.035,
-        "p90": 0.0964
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
-    },
-    "Risk / Financial Analytics": {
-      "n_applications_logged": 0,
-      "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0114,
-        "median": 0.035,
-        "p90": 0.1021
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
-    },
-    "Strategy / Business Analytics": {
-      "n_applications_logged": 0,
-      "interviews": 0,
-      "raw_interview_rate": null,
-      "credibility": "PRIOR-ONLY",
-      "published_probability": null,
-      "reference_prior": {
-        "p10": 0.0167,
-        "median": 0.045,
-        "p90": 0.1151
-      },
-      "reference_prior_note": "V4's unvalidated role-family prior, shown for transparency only. Not a probability - do not display as one. Needs 20 more logged outcomes in this lane to publish one."
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "role_family": "ADJACENT_ANALYTICS"
     }
-  }
+  ],
+  "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
+  "threshold": 20
 }
