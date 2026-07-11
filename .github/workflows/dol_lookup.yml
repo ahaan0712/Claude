@@ -4,6 +4,10 @@ on:
   workflow_dispatch: {}
   schedule:
     - cron: "0 13 1 * *"  # monthly, 1st of month 13:00 UTC
+  push:
+    branches: ["claude/campaign-27-v7-matcher-ailg6c"]
+    paths:
+      - ".github/workflows/dol_lookup.yml"
 
 permissions:
   contents: write
