@@ -1,8 +1,0 @@
-{
-  "claim": "Deterministic fixture/rule evaluation only; no interview-prediction accuracy claimed.",
-  "company_name_matching": "empty names and generic tokens rejected",
-  "eligibility_rule_accuracy": "covered_by_tests",
-  "generic_analyst_false_positive_rate": "guarded_by_tests",
-  "role_classification_accuracy_on_fixtures": "covered_by_tests",
-  "unsupported_hidden_tiebreakers": "none; no point ranks or probabilities below 20 outcomes"
-}

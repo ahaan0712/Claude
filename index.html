@@ -1,15 +1,361 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Campaign 27 — Summer 2027</title><style>
-:root{color-scheme:light dark;--bg:#f6f3ee;--card:#fffdfa;--text:#161513;--muted:#6b6760;--line:#ded8ce;--accent:#285c7a;--good:#0b6b3a;--warn:#966200;--bad:#a93124;--shadow:0 10px 30px #0001}@media(prefers-color-scheme:dark){:root{--bg:#101214;--card:#181b1e;--text:#f5f2ed;--muted:#aaa39a;--line:#30343a;--accent:#8dc7e8;--shadow:none}}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;overflow-x:hidden}a{color:var(--accent)}.wrap{max-width:1180px;margin:auto;padding:18px}header{padding:28px 0 16px}h1{font-size:clamp(2rem,7vw,4.5rem);line-height:.95;letter-spacing:-.06em;margin:0 0 12px}.lede{color:var(--muted);max-width:72ch}.tabs{display:flex;gap:8px;overflow:auto;position:sticky;top:0;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(14px);padding:12px 0;z-index:3}.tabs button,.btn,select,input,textarea{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:10px 13px;font:inherit}.tabs button{white-space:nowrap}.tabs button.active,.btn.primary{background:var(--accent);color:white;border-color:var(--accent)}.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.stat,.card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:18px;box-shadow:var(--shadow)}.stat b{display:block;font-size:1.8rem;letter-spacing:-.04em}.section{display:none}.section.active{display:block}.list{display:grid;gap:12px;margin-top:14px}.item h3{margin:.1rem 0;font-size:1.1rem}.meta,.small{color:var(--muted);font-size:.9rem}.badges{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0}.badge{border:1px solid var(--line);border-radius:999px;padding:4px 8px;font-weight:700;font-size:.72rem}.ELIGIBLE{color:var(--good)}.VERIFY{color:var(--warn)}.SKIP{color:var(--bad)}.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}.skeleton{min-height:80px;animation:pulse 1.2s infinite alternate}@keyframes pulse{from{opacity:.45}to{opacity:.9}}:focus-visible{outline:3px solid var(--accent);outline-offset:2px}@media(max-width:800px){.grid,.two{grid-template-columns:1fr}.wrap{padding:14px}.tabs{margin-inline:-14px;padding-left:14px}.card{border-radius:18px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
-</style></head><body><div class="wrap"><header><h1>Campaign 27</h1><p class="lede">XLSX-first Summer 2027 internship assistant for Ahaan Anand. Target programs and company monitoring remain useful even before live openings appear. Posting-level eligibility is gated before transparent fit tiers; no ranks or interview probabilities are displayed.</p><p class="small" id="generated">Loading public campaign data…</p></header><nav class="tabs" id="tabs"></nav><main id="app"><div class="card skeleton">Loading…</div></main></div><script>
-const views=['Dashboard','Target Programs','Company Watchlist','Live Matches','Review Queue','Extra Discoveries','Saved','Applications','Network','Coverage'];let DATA={},view='Dashboard';const key='campaign27.tracking.v1';const stages=['saved','dismissed','preparing','applied','online assessment','recruiter screen','interview','final round','rejected','offer','withdrawn'];
-const $=s=>document.querySelector(s), esc=s=>(s??'').toString().replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));const track=()=>JSON.parse(localStorage.getItem(key)||'{}');const saveTrack=o=>localStorage.setItem(key,JSON.stringify(o));
-function setStage(id,stage){let t=track();t[id]={...(t[id]||{}),posting_id:id,stage,last_updated:new Date().toISOString()};saveTrack(t);render()}
-function exportJSON(){let a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(track(),null,2)],{type:'application/json'}));a.download='campaign27-outcomes.json';a.click()}
-function exportCSV(){let rows=Object.values(track());let head=['posting_id','application_date','posting_age','source','resume_version','referral_used','networking_outreach','stage','result','notes','last_updated'];let csv=[head.join(','),...rows.map(r=>head.map(h=>'"'+esc(r[h]||'').replaceAll('"','""')+'"').join(','))].join('\n');let a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv'}));a.download='campaign27-outcomes.csv';a.click()}
-async function load(){for(const [k,u] of Object.entries({programs:'data/target_programs.json',companies:'data/company_watchlist.json',live:'data/live_matches.json',review:'data/review_queue.json',extra:'data/supplemental_discoveries.json',network:'data/network_aggregates.json',coverage:'data/coverage_report.json',cal:'data/lane_calibration.json'})){try{DATA[k]=await fetch(u).then(r=>r.json())}catch(e){DATA[k]=Array.isArray(DATA[k])?[]:{}}}renderTabs();render()}
-function renderTabs(){ $('#tabs').innerHTML=views.map(v=>`<button class="${v==view?'active':''}" onclick="view='${v}';renderTabs();render()">${v}</button>`).join('') }
-function stat(n,l){return `<div class=stat><b>${n}</b><span class=small>${l}</span></div>`}
-function card(x){return `<article class="card item"><h3>${esc(x.title||x.intended_program_or_role||x.company)}</h3><p class=meta>${esc(x.company)} · ${esc(x.location||x.recruiting_window||x.discovery_state||'')}</p><div class=badges><span class="badge ${x.eligibility_status||''}">${esc(x.eligibility_status||x.status||'TARGET')}</span><span class=badge>${esc(x.fit_tier||x.application_priority||x.window_confidence||'')}</span></div><p>${esc((x.eligibility_evidence||x.matched_resume_evidence||x.source_notes||[]).slice?.(0,3).join?.('; ')||x.current_status||'')}</p>${x.posting_id?`<div class=row><a class="btn primary" href="${esc(x.canonical_apply_url||'#')}">Apply/check</a><select onchange="setStage('${x.posting_id}',this.value)"><option>track stage</option>${stages.map(s=>`<option ${track()[x.posting_id]?.stage==s?'selected':''}>${s}</option>`).join('')}</select></div>`:''}</article>`}
-function render(){let cov=DATA.coverage||{}, t=track();$('#generated').textContent='Generated from sanitized public JSON. Application data is stored only in this browser.';let html='';if(view=='Dashboard')html=`<div class=grid>${stat(cov.active_xlsx_target_companies||0,'active XLSX target companies')}${stat(cov.active_target_programs||0,'active target programs')}${stat(cov.companies_to_check_this_week||0,'companies to check this week')}${stat(cov.companies_expected_later||0,'companies expected later')}${stat(cov.live_matches||0,'Live Matches')}${stat(cov.review_queue||0,'Review Queue')}${stat(Object.keys(t).length,'local application records')}${stat((DATA.cal?.lanes||[]).filter(l=>l.calibration_status=='CALIBRATED').length+'/5','calibrated lanes')}</div><div class=card><b>Calibration readiness</b><p>${esc(DATA.cal?.message||'Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.')}</p></div>`;
-if(view=='Target Programs')html='<div class=list>'+DATA.programs.map(card).join('')+'</div>';if(view=='Company Watchlist')html='<div class=list>'+DATA.companies.map(card).join('')+'</div>';if(view=='Live Matches')html='<div class=list>'+DATA.live.map(card).join('')+'</div>';if(view=='Review Queue')html='<div class=list>'+DATA.review.map(card).join('')+'</div>';if(view=='Extra Discoveries')html='<div class=list>'+DATA.extra.slice(0,80).map(card).join('')+'</div>';if(view=='Saved')html='<div class=list>'+Object.values(t).filter(x=>x.stage=='saved').map(x=>card({title:x.posting_id,company:'Saved locally',posting_id:x.posting_id})).join('')+'</div>';if(view=='Applications')html=`<div class=card><div class=row><button class=btn onclick="exportJSON()">Export JSON</button><button class=btn onclick="exportCSV()">Export CSV</button><button class=btn onclick="saveTrack({});render()">Reset/delete local tracking</button></div><pre>${esc(JSON.stringify(t,null,2))}</pre></div>`;if(view=='Network')html='<div class=list>'+DATA.network.map(n=>`<div class=card><b>${esc(n.canonical_company_id)}</b><p>${n.direct_connection_count} direct, ${n.relevant_analytics_connection_count} analytics, ${n.recruiter_or_talent_connection_count} recruiter/talent. ${esc(n.recommended_networking_action)}</p></div>`).join('')+'</div>';if(view=='Coverage')html='<div class=card><pre>'+esc(JSON.stringify(cov,null,2))+'</pre></div>';$('#app').innerHTML=html||'<div class=card>No public data available.</div>'}
-load();</script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Campaign 27 — Summer 2027</title>
+<style>
+:root{
+  --bg:#f7f6f3; --surface:#ffffff; --ink:#14151a; --muted:#6c6f78;
+  --line:#e7e4dd; --accent:#5b53e0; --accent-soft:#efeefc;
+  --good:#137a4b; --warn:#8a6100; --bad:#a5342a;
+  --band:rgba(91,83,224,.14); --shadow:0 1px 2px #0000000a,0 12px 34px #0000000f;
+  --r:20px; --sp:clamp(20px,5vw,44px); --maxw:1120px;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#0d0e11; --surface:#16181d; --ink:#f3f2ee; --muted:#a2a5ad;
+  --line:#282b31; --accent:#9a93ff; --accent-soft:#1c1b2e;
+  --good:#4bd18a; --warn:#e0b558; --bad:#f0847a; --band:rgba(154,147,255,.16);
+  --shadow:none;
+}}
+:root[data-theme="dark"]{--bg:#0d0e11;--surface:#16181d;--ink:#f3f2ee;--muted:#a2a5ad;--line:#282b31;--accent:#9a93ff;--accent-soft:#1c1b2e;--good:#4bd18a;--warn:#e0b558;--bad:#f0847a;--band:rgba(154,147,255,.16);--shadow:none}
+:root[data-theme="light"]{--bg:#f7f6f3;--surface:#fff;--ink:#14151a;--muted:#6c6f78;--line:#e7e4dd;--accent:#5b53e0;--accent-soft:#efeefc;--good:#137a4b;--warn:#8a6100;--bad:#a5342a;--band:rgba(91,83,224,.14);--shadow:0 1px 2px #0000000a,0 12px 34px #0000000f}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);overflow-x:hidden;
+  font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,system-ui,sans-serif;
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 var(--sp)}
+h1,h2,h3{margin:0;letter-spacing:-.03em;line-height:1.02}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+
+/* nav */
+nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 86%,transparent);
+  backdrop-filter:saturate(1.4) blur(16px);border-bottom:1px solid var(--line)}
+.nav-in{display:flex;align-items:center;gap:6px;height:58px;overflow-x:auto;scrollbar-width:none}
+.nav-in::-webkit-scrollbar{display:none}
+.brand{font-weight:680;letter-spacing:-.04em;margin-right:auto;font-size:1.05rem;white-space:nowrap}
+.brand b{color:var(--accent)}
+nav a{padding:8px 14px;border-radius:999px;color:var(--muted);font-size:.92rem;font-weight:560;white-space:nowrap;transition:color .2s,background .2s}
+nav a:hover{color:var(--ink)}
+nav a.on{color:var(--accent);background:var(--accent-soft)}
+.themebtn{border:1px solid var(--line);background:var(--surface);color:var(--muted);width:38px;height:38px;border-radius:999px;cursor:pointer;flex:0 0 auto;font-size:1rem}
+
+/* hero */
+.hero{padding:calc(var(--sp)*1.6) 0 var(--sp)}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;color:var(--accent);font-weight:640;font-size:.8rem;letter-spacing:.02em;text-transform:uppercase;margin-bottom:18px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+.hero h1{font-size:clamp(2.7rem,9vw,6rem);font-weight:720}
+.hero .sub{color:var(--muted);font-size:clamp(1.05rem,2.6vw,1.4rem);max-width:40ch;margin-top:18px;line-height:1.4}
+.who{margin-top:22px;color:var(--muted);font-size:.95rem}
+.who b{color:var(--ink);font-weight:620}
+
+/* sections */
+section{padding:calc(var(--sp)*1.5) 0;border-top:1px solid var(--line)}
+.sec-head{max-width:56ch;margin-bottom:calc(var(--sp)*.9)}
+.sec-head h2{font-size:clamp(1.7rem,4.5vw,2.7rem);font-weight:680}
+.sec-head p{color:var(--muted);margin:14px 0 0;font-size:1.05rem}
+.kicker{color:var(--accent);font-weight:640;font-size:.82rem;text-transform:uppercase;letter-spacing:.04em;margin-bottom:10px}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(22px);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+
+/* cards + grid */
+.grid{display:grid;gap:14px}
+.g4{grid-template-columns:repeat(4,1fr)}.g3{grid-template-columns:repeat(3,1fr)}.g2{grid-template-columns:repeat(2,1fr)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:22px;box-shadow:var(--shadow)}
+.stat .n{font-size:2.3rem;font-weight:700;letter-spacing:-.04em;line-height:1}
+.stat .l{color:var(--muted);font-size:.86rem;margin-top:8px}
+.pill{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:4px 11px;font-size:.74rem;font-weight:640;letter-spacing:.01em}
+.pill.prior{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 35%,var(--line));background:color-mix(in srgb,var(--warn) 8%,transparent)}
+.pill.ELIGIBLE{color:var(--good)}.pill.VERIFY{color:var(--warn)}.pill.SKIP{color:var(--bad)}
+.pill.tier{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 30%,var(--line));background:var(--accent-soft)}
+.pill.net{color:var(--muted)}
+
+/* portfolio chart */
+.chart-card{padding:26px;overflow:hidden}
+.chart-top{display:flex;flex-wrap:wrap;gap:16px;align-items:baseline;justify-content:space-between;margin-bottom:6px}
+.chart-top .big{font-size:2.6rem;font-weight:720;letter-spacing:-.04em}
+svg.curve{width:100%;height:auto;display:block;margin-top:8px;overflow:visible}
+.axis{fill:var(--muted);font-size:11px}
+
+/* match groups */
+.egroup{margin-top:26px}
+.egroup>h3{font-size:1.15rem;font-weight:660;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.tiergroup{margin-top:16px}
+.tierlabel{color:var(--muted);font-size:.8rem;font-weight:640;text-transform:uppercase;letter-spacing:.05em;margin:14px 0 10px;display:flex;align-items:center;gap:10px}
+.tierlabel::after{content:"";flex:1;height:1px;background:var(--line)}
+.mcard{display:flex;flex-direction:column;gap:10px}
+.mcard h4{font-size:1.05rem;font-weight:620;margin:0}
+.mcard .co{color:var(--muted);font-size:.9rem}
+.badges{display:flex;flex-wrap:wrap;gap:7px}
+.reasons{color:var(--muted);font-size:.85rem;margin:0;padding-left:1.1em}
+.reasons li{margin:2px 0}
+.applyb{align-self:flex-start;margin-top:2px;border:1px solid var(--accent);color:var(--accent);background:transparent;border-radius:999px;padding:8px 16px;font-weight:600;font-size:.85rem;cursor:pointer;transition:background .2s,color .2s}
+.applyb:hover{background:var(--accent);color:#fff}
+details.excluded{margin-top:24px;border:1px dashed var(--line);border-radius:var(--r);padding:14px 18px;background:transparent}
+details.excluded summary{cursor:pointer;font-weight:600;color:var(--muted)}
+
+/* model bars */
+.bar{display:flex;align-items:center;gap:12px;margin:9px 0}
+.bar .name{width:210px;flex:0 0 auto;font-size:.86rem;color:var(--muted)}
+.bar .track{flex:1;height:9px;border-radius:6px;background:var(--line);overflow:hidden}
+.bar .fill{height:100%;border-radius:6px;background:var(--accent)}
+.bar.win .fill{background:var(--good)}.bar .val{width:52px;text-align:right;font-size:.8rem;color:var(--muted);flex:0 0 auto}
+.note{color:var(--muted);font-size:.9rem}
+.tbl{width:100%;border-collapse:collapse;font-size:.9rem}
+.tbl th,.tbl td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line)}
+.tbl th{color:var(--muted);font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.03em}
+.search{width:100%;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:12px 18px;font:inherit;margin-bottom:16px}
+.skl{background:linear-gradient(90deg,var(--line),color-mix(in srgb,var(--line) 40%,transparent),var(--line));background-size:200% 100%;animation:sh 1.3s infinite;border-radius:12px;height:78px}
+@keyframes sh{to{background-position:-200% 0}}
+footer{padding:calc(var(--sp)) 0 calc(var(--sp)*2);color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
+:focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:6px}
+@media(max-width:860px){.g4{grid-template-columns:repeat(2,1fr)}.g3,.g2{grid-template-columns:1fr}.bar .name{width:130px}}
+</style>
+</head>
+<body>
+<nav><div class="wrap nav-in">
+  <span class="brand">Campaign&nbsp;<b>27</b></span>
+  <a href="#portfolio" class="on">Portfolio</a>
+  <a href="#matches">Matches</a>
+  <a href="#model">Model</a>
+  <a href="#companies">Companies</a>
+  <a href="#network">Network</a>
+  <a href="#method">Method</a>
+  <button class="themebtn" id="themebtn" aria-label="Toggle theme">◑</button>
+</div></nav>
+
+<header class="hero wrap">
+  <div class="eyebrow rv"><span class="dot"></span> Summer 2027 · Posting-level matcher</div>
+  <h1 class="rv">Apply where you're<br>eligible &amp; strong.</h1>
+  <p class="sub rv">A posting-by-posting internship matcher — a hard eligibility gate first, honest fit tiers second, and a portfolio view of expected interviews. No leaderboards. No invented probabilities.</p>
+  <p class="who rv" id="who"></p>
+</header>
+
+<main class="wrap" id="app">
+  <div class="grid g2"><div class="skl"></div><div class="skl"></div></div>
+</main>
+
+<footer class="wrap">
+  <div id="foot"></div>
+  <p style="margin-top:14px">Campaign 27 V7.1 — static viewer over pipeline JSON. All computation runs offline in scripts; this page recomputes nothing. Application tracking (if used) stays in your browser only.</p>
+</footer>
+
+<script>
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const esc=s=>(s??'').toString().replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const D={};
+const FILES={cov:'coverage.json',port:'portfolio.json',matches:'matches.json',model:'model_report.json',
+  companies:'companies.json',net:'network_aggregates.json',dol:'dol_lookup.json',diff:'company_diff.json',
+  cal:'lane_calibration.json',prof:'profile_public.json'};
+
+// theme
+const root=document.documentElement;
+function applyTheme(t){root.setAttribute('data-theme',t);localStorage.setItem('c27theme',t)}
+$('#themebtn').onclick=()=>{const cur=root.getAttribute('data-theme')|| (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');applyTheme(cur==='dark'?'light':'dark')};
+(()=>{const s=localStorage.getItem('c27theme');if(s)applyTheme(s)})();
+
+async function load(){
+  await Promise.all(Object.entries(FILES).map(async([k,f])=>{
+    try{D[k]=await fetch('data/'+f,{cache:'no-store'}).then(r=>r.json())}catch(e){D[k]=null}
+  }));
+  render();
+}
+
+function tierPill(t){return t?`<span class="pill tier">${esc(t)}</span>`:''}
+function eligPill(e){return `<span class="pill ${esc(e)}">${e==='ELIGIBLE'?'✓ Eligible':e==='VERIFY'?'⦿ Verify work-auth':'✕ Blocked'}</span>`}
+
+function render(){
+  const who=D.prof; if(who)$('#who').innerHTML=`<b>${esc(who.name)}</b> · ${esc(who.school)} · ${esc(who.majors.join(' + '))} · Grad ${esc(who.grad_month)} · ${esc(who.visa_status)} (Summer 2027 = ${esc(who.work_auth_summer_2027)})`;
+  const cov=D.cov||{}, mc=(D.matches&&D.matches.counts)||{};
+  let h='';
+
+  /* ---- PORTFOLIO ---- */
+  h+=`<section id="portfolio"><div class="sec-head rv"><div class="kicker">The headline</div>
+    <h2>Top N applications → expected interviews</h2>
+    <p>The one number that matters isn't a rank — it's what a realistic application portfolio yields. Bands are wide on purpose.</p></div>
+    <div class="card chart-card rv">${chart(D.port)}</div>
+    <div class="grid g4 rv" style="margin-top:16px">
+      ${stat(cov.target_companies??'—','target companies')}
+      ${stat(cov.postings_deduped??'—','live postings ingested')}
+      ${stat((mc.eligible+mc.verify)||0,'in-scope for you')}
+      ${stat((D.cal&&D.cal.lanes?D.cal.lanes.filter(l=>l.calibration_status==='CALIBRATED').length:0)+'/5','calibrated lanes')}
+    </div></section>`;
+
+  /* ---- MATCHES ---- */
+  h+=`<section id="matches"><div class="sec-head rv"><div class="kicker">Grouped, never ranked</div>
+    <h2>Your matches</h2>
+    <p>Grouped by eligibility state, then fit tier. Within a tier, postings are listed alphabetically — there is deliberately no point rank. Every lane is <span class="pill prior">PRIOR&nbsp;ONLY</span> until you log 20 outcomes.</p></div>
+    ${matchesBlock(D.matches)}</section>`;
+
+  /* ---- MODEL ---- */
+  h+=`<section id="model"><div class="sec-head rv"><div class="kicker">Chosen for robustness, not accuracy</div>
+    <h2>How the fit model was picked</h2>
+    <p>Nine candidates (3 fit scorers × 3 combiners) were tested. With zero logged outcomes, accuracy is unmeasurable — so selection minimises tier instability, Pareto violations, and any single <em>auxiliary</em> feature silently controlling the order (the V6 failure mode).</p></div>
+    ${modelBlock(D.model)}</section>`;
+
+  /* ---- COMPANIES ---- */
+  h+=`<section id="companies"><div class="sec-head rv"><div class="kicker">The 162-company universe</div>
+    <h2>Target companies</h2>
+    <p>Sourced from your authoritative list. ${diffLine(D.diff)}</p></div>
+    ${companiesBlock(D.companies)}</section>`;
+
+  /* ---- NETWORK ---- */
+  h+=`<section id="network"><div class="sec-head rv"><div class="kicker">LinkedIn layer</div>
+    <h2>Where you have a warm path</h2>
+    <p>Company-level connection counts from your LinkedIn export — aggregate only, no names published.</p></div>
+    ${networkBlock(D.net)}</section>`;
+
+  /* ---- METHOD ---- */
+  h+=`<section id="method"><div class="sec-head rv"><div class="kicker">Ground rules</div>
+    <h2>What this does &amp; doesn't do</h2></div>${methodBlock()}</section>`;
+
+  $('#app').innerHTML=h;
+  $('#foot').innerHTML=`Generated ${esc((D.cov&&D.cov.generated_at)||'')} · postings from ${Object.keys((cov.postings_sources)||{}).map(esc).join(', ')||'trackers'} · DOL source reachable: ${D.dol?D.dol.source_reachable:'—'}`;
+  setupReveal(); setupNav();
+}
+
+function stat(n,l){return `<div class="card stat"><div class="n">${esc(n)}</div><div class="l">${esc(l)}</div></div>`}
+
+function chart(p){
+  if(!p||!p.curve||!p.curve.length) return '<p class="note">No portfolio data.</p>';
+  const c=p.curve, W=920,H=340,pl=46,pr=18,pt=24,pb=34;
+  const maxN=c[c.length-1].n_applications, maxY=Math.max(...c.map(d=>d.p90))*1.08||1;
+  const X=n=>pl+(n-1)/(Math.max(maxN-1,1))*(W-pl-pr);
+  const Y=v=>H-pb-(v/maxY)*(H-pt-pb);
+  const line=c.map((d,i)=>`${i?'L':'M'}${X(d.n_applications).toFixed(1)} ${Y(d.expected_interviews).toFixed(1)}`).join(' ');
+  const band=[...c.map(d=>`${X(d.n_applications).toFixed(1)} ${Y(d.p90).toFixed(1)}`),
+    ...c.slice().reverse().map(d=>`${X(d.n_applications).toFixed(1)} ${Y(d.p10).toFixed(1)}`)].join(' L ');
+  const last=c[c.length-1];
+  let ticks='';
+  for(let i=0;i<=maxN;i+=Math.max(1,Math.round(maxN/6)))ticks+=`<text class="axis" x="${X(i||1)}" y="${H-10}" text-anchor="middle">${i||1}</text>`;
+  const yt=[0,maxY/2,maxY].map(v=>`<text class="axis" x="${pl-8}" y="${Y(v)+4}" text-anchor="end">${v.toFixed(1)}</text><line x1="${pl}" x2="${W-pr}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--line)" stroke-width="1"/>`).join('');
+  return `<div class="chart-top">
+     <div><div class="big">${last.expected_interviews.toFixed(1)}</div>
+     <div class="note">expected interviews if you apply to all ${maxN} in-scope postings · 80% band ${last.p10.toFixed(1)}–${last.p90.toFixed(1)}</div></div>
+     <span class="pill prior">PRIOR ONLY — generic role priors, not your outcomes</span></div>
+   <svg class="curve" viewBox="0 0 ${W} ${H}" role="img" aria-label="Expected interviews vs number of applications">
+     ${yt}
+     <path d="M ${band} Z" fill="var(--band)"/>
+     <path d="${line}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/>
+     <circle cx="${X(last.n_applications)}" cy="${Y(last.expected_interviews)}" r="4.5" fill="var(--accent)"/>
+     ${ticks}
+     <text class="axis" x="${(W)/2}" y="${H}" text-anchor="middle" dy="-0">applications (ordered by fit tier)</text>
+   </svg>
+   <p class="note" style="margin:12px 0 0">${esc(p.disclaimer||'')}</p>`;
+}
+
+function mcard(it){
+  return `<div class="card mcard">
+    <div class="badges">${eligPill(it.eligibility_status)}${tierPill(it.fit_tier)}${it.on_target_list?'<span class="pill">on target list</span>':''}${it.network_level&&it.network_level!=='NONE'?`<span class="pill net">◕ ${esc(it.network_level.toLowerCase())} network</span>`:''}<span class="pill prior">PRIOR ONLY</span></div>
+    <h4>${esc(it.title)}</h4>
+    <div class="co">${esc(it.company)} · ${esc(it.location||'—')}${it.posting_date?' · posted '+esc(it.posting_date):''}</div>
+    ${it.fit_reasons&&it.fit_reasons.length?`<ul class="reasons">${it.fit_reasons.map(r=>`<li>${esc(r)}</li>`).join('')}</ul>`:''}
+    ${it.apply_url?`<a class="applyb" href="${esc(it.apply_url)}" target="_blank" rel="noopener">View posting ↗</a>`:''}
+  </div>`;
+}
+const TIER_SORT=['STRONG MATCH','GOOD MATCH','ADJACENT','WEAK MATCH'];
+function matchesBlock(m){
+  if(!m) return '<p class="note">No match data.</p>';
+  let h='';
+  const groups=[['verify','Needs work-auth verification','These fit your profile; no posting confirmed work-auth language, so verify CPT/sponsorship before applying.'],
+                ['eligible','Eligible','Posting language supports your work authorization.']];
+  for(const [key,label,desc] of groups){
+    const g=m[key]; if(!g) continue;
+    const total=Object.values(g).reduce((a,t)=>a+Object.values(t).reduce((b,arr)=>b+arr.length,0),0);
+    if(!total) continue;
+    h+=`<div class="egroup rv"><h3>${esc(label)} <span class="pill">${total}</span></h3><p class="note" style="margin:8px 0 0">${esc(desc)}</p>`;
+    // merge across eligibility sub-keys, regroup by tier
+    const byTier={};
+    Object.values(g).forEach(tiers=>Object.entries(tiers).forEach(([t,arr])=>{(byTier[t]=byTier[t]||[]).push(...arr)}));
+    for(const t of TIER_SORT){ if(!byTier[t]) continue;
+      h+=`<div class="tiergroup"><div class="tierlabel">${esc(t)} <span class="pill tier">${byTier[t].length}</span></div><div class="grid g3">${byTier[t].map(mcard).join('')}</div></div>`;
+    }
+    h+='</div>';
+  }
+  if(m.excluded&&m.excluded.length){
+    h+=`<details class="excluded rv"><summary>${m.excluded.length} postings hard-blocked by the eligibility gate (citizenship / clearance / no-sponsorship language)</summary>
+      <div class="grid g3" style="margin-top:14px">${m.excluded.slice(0,60).map(it=>`<div class="card mcard"><div class="badges">${eligPill('SKIP')}</div><h4>${esc(it.title)}</h4><div class="co">${esc(it.company)}</div>${it.eligibility_evidence&&it.eligibility_evidence.length?`<ul class="reasons">${it.eligibility_evidence.map(e=>`<li>${esc(e)}</li>`).join('')}</ul>`:''}</div>`).join('')}</div></details>`;
+  }
+  return h;
+}
+
+function modelBlock(m){
+  if(!m) return '<p class="note">No model report.</p>';
+  const w=m.winner, cands=Object.entries(m.all_candidates).sort((a,b)=>a[1].robustness_cost-b[1].robustness_cost);
+  const maxCost=Math.max(...cands.map(c=>c[1].robustness_cost))||1;
+  const winKey=w.fit+'+'+w.combiner;
+  let bars=cands.map(([k,v])=>`<div class="bar ${k===winKey?'win':''}"><div class="name">${esc(k)}${k===winKey?' ★':''}</div><div class="track"><div class="fill" style="width:${100*(1-v.robustness_cost/maxCost*.9)}%"></div></div><div class="val">${v.robustness_cost.toFixed(2)}</div></div>`).join('');
+  const met=w.metrics;
+  let losers=(m.why_others_lost||[]).slice(0,4).map(l=>`<tr><td class="mono">${esc(l.candidate)}</td><td>${esc((l.why_it_lost||[]).join('; '))}</td></tr>`).join('');
+  return `<div class="grid g2">
+    <div class="card rv"><div class="kicker">Winner</div>
+      <h3 style="font-size:1.4rem;margin:2px 0 10px">${esc(w.fit)} × ${esc(w.combiner)}</h3>
+      <p class="note">${esc(m.selection_basis)}</p>
+      <div style="margin-top:14px" class="badges">
+        <span class="pill">tier flips ${(met.flip_rate*100).toFixed(0)}%</span>
+        <span class="pill">Pareto violations ${(met.pareto_violation_rate*100).toFixed(0)}%</span>
+        <span class="pill">aux dominance ${met.aux_feature_dominance}</span>
+        <span class="pill">discrimination ${met.discrimination}</span>
+      </div></div>
+    <div class="card rv"><div class="kicker">Robustness cost — lower is better</div>${bars}</div>
+  </div>
+  <div class="card rv" style="margin-top:14px"><div class="kicker">Why the others lost</div>
+    <table class="tbl"><thead><tr><th>Candidate</th><th>Reason</th></tr></thead><tbody>${losers}</tbody></table>
+    <p class="note" style="margin-top:12px">Feature weights — fit ${m.feature_weights.fit}, timing ${m.feature_weights.timing}, network ${m.feature_weights.network}, access ${m.feature_weights.access}. Auxiliary features act only as bounded tie-breakers and can never outweigh fit.</p></div>`;
+}
+
+function companiesBlock(c){
+  if(!c||!c.companies) return '<p class="note">No company data.</p>';
+  const rows=c.companies;
+  return `<input class="search rv" id="cq" placeholder="Search ${rows.length} companies…" oninput="filterCo()">
+   <div class="card rv" style="padding:6px 6px"><div style="overflow-x:auto"><table class="tbl" id="cotbl">
+     <thead><tr><th>Company</th><th>Category</th><th>Intl-friendly</th><th>Window</th><th>Deadline</th></tr></thead>
+     <tbody>${rows.map(r=>`<tr data-n="${esc((r.company+' '+r.category).toLowerCase())}"><td>${r.career_page_url?`<a href="${esc(r.career_page_url)}" target="_blank" rel="noopener" style="color:var(--accent)">${esc(r.company)} ↗</a>`:esc(r.company)}</td><td>${esc(r.category)}</td><td><span class="pill ${r.intl_friendly_level==='STRONG'?'ELIGIBLE':r.intl_friendly_level==='LOW'||r.intl_friendly_level==='CLOSED'?'SKIP':'VERIFY'}">${esc(r.intl_friendly_level)}</span></td><td>${esc(r.typical_opening||'—')}</td><td>${esc(r.deadline_behavior||'—')}</td></tr>`).join('')}</tbody>
+   </table></div></div>`;
+}
+function filterCo(){const q=$('#cq').value.toLowerCase();$$('#cotbl tbody tr').forEach(tr=>tr.style.display=tr.dataset.n.includes(q)?'':'none')}
+
+function networkBlock(n){
+  if(!n) return '<p class="note">No network data.</p>';
+  const nz=n.filter(x=>x.direct_connection_count>0).sort((a,b)=>b.direct_connection_count-a.direct_connection_count);
+  if(!nz.length) return '<p class="note">No target companies matched your connections.</p>';
+  return `<div class="grid g3">${nz.map(x=>`<div class="card"><div class="badges"><span class="pill ${x.networking_opportunity_level==='STRONG'?'ELIGIBLE':x.networking_opportunity_level==='NONE'?'net':'VERIFY'}">${esc(x.networking_opportunity_level)}</span></div>
+    <h4 style="margin:10px 0 4px;font-size:1.05rem">${esc(x.company)}</h4>
+    <div class="note">${x.direct_connection_count} connection${x.direct_connection_count>1?'s':''}${x.relevant_analytics_connection_count?` · ${x.relevant_analytics_connection_count} in analytics/consulting`:''}${x.recruiter_or_talent_connection_count?` · ${x.recruiter_or_talent_connection_count} recruiter`:''}</div>
+    <p class="note" style="margin:10px 0 0;color:var(--ink)">${esc(x.recommended_networking_action)}</p></div>`).join('')}</div>`;
+}
+
+function diffLine(d){ if(!d||!d.summary) return '';
+  return `${d.summary.added} companies are new vs the previous list (mostly finance) and ${d.summary.dropped} non-company note rows from the old parse were dropped; ${d.summary.retained} retained.`; }
+
+function methodBlock(){
+  const dol=D.dol?D.dol.summary:{};
+  const items=[
+    ['Unit of prediction','One exact posting — never a company. A company is never excluded because one posting doesn\'t fit.'],
+    ['Eligibility is a hard gate','Explicit posting language (citizenship, clearance, no-sponsorship) hard-stops a posting regardless of any DOL history. It is never a weighted score.'],
+    ['No unvalidated probabilities','Nothing is published as a calibrated interview probability until 20 real outcomes exist in a lane. Everything today is PRIOR ONLY and labelled as such.'],
+    ['No point ranks','Postings are grouped by eligibility state and fit tier only. There is no #1, no score leaderboard.'],
+    ['DOL is supporting evidence only',`Sponsorship history never overrides posting language. Current breakdown — REAL ${dol.REAL||0} · NONE ${dol.NONE||0} · UNKNOWN ${dol.UNKNOWN||0} (external DOL source unreachable from the build environment, so honestly UNKNOWN, never a fabricated NONE).`],
+    ['Thin viewer','This page recomputes nothing — all modelling runs offline in scripts that write JSON. What you see is what was computed.'],
+  ];
+  return `<div class="grid g2">${items.map(([t,d])=>`<div class="card rv"><h3 style="font-size:1.1rem;margin-bottom:8px">${esc(t)}</h3><p class="note">${esc(d)}</p></div>`).join('')}</div>`;
+}
+
+function setupReveal(){
+  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12,rootMargin:'0px 0px -8% 0px'});
+  $$('.rv').forEach(el=>io.observe(el));
+}
+function setupNav(){
+  const links=$$('nav a'), secs=links.map(a=>$(a.getAttribute('href')));
+  const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){const id='#'+e.target.id;links.forEach(a=>a.classList.toggle('on',a.getAttribute('href')===id))}}),{rootMargin:'-45% 0px -50% 0px'});
+  secs.forEach(s=>s&&io.observe(s));
+}
+load();
+</script>
+</body>
+</html>

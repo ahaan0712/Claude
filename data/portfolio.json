@@ -1,56 +1,184 @@
 {
-  "calibrated_curve": [],
-  "calibration": {
-    "lanes": [
-      {
-        "applications": 0,
-        "calibrated_probability": null,
-        "calibration_status": "PRIOR_ONLY",
-        "interviews": 0,
-        "outcomes": 0,
-        "outcomes_needed_for_calibration": 20,
-        "role_family": "DATA_ANALYTICS"
-      },
-      {
-        "applications": 0,
-        "calibrated_probability": null,
-        "calibration_status": "PRIOR_ONLY",
-        "interviews": 0,
-        "outcomes": 0,
-        "outcomes_needed_for_calibration": 20,
-        "role_family": "DATA_SCIENCE"
-      },
-      {
-        "applications": 0,
-        "calibrated_probability": null,
-        "calibration_status": "PRIOR_ONLY",
-        "interviews": 0,
-        "outcomes": 0,
-        "outcomes_needed_for_calibration": 20,
-        "role_family": "BUSINESS_INTELLIGENCE"
-      },
-      {
-        "applications": 0,
-        "calibrated_probability": null,
-        "calibration_status": "PRIOR_ONLY",
-        "interviews": 0,
-        "outcomes": 0,
-        "outcomes_needed_for_calibration": 20,
-        "role_family": "BUSINESS_ANALYTICS"
-      },
-      {
-        "applications": 0,
-        "calibrated_probability": null,
-        "calibration_status": "PRIOR_ONLY",
-        "interviews": 0,
-        "outcomes": 0,
-        "outcomes_needed_for_calibration": 20,
-        "role_family": "ADJACENT_ANALYTICS"
-      }
-    ],
-    "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
-    "threshold": 20
-  },
-  "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
-  "schema_version": "campaign27.canonical.v1"
+  "calibration_state": "PRIOR_ONLY",
+  "curve": [
+    {
+      "expected_interviews": 0.042,
+      "n_applications": 1,
+      "p10": 0.009,
+      "p90": 0.088
+    },
+    {
+      "expected_interviews": 0.106,
+      "n_applications": 2,
+      "p10": 0.042,
+      "p90": 0.192
+    },
+    {
+      "expected_interviews": 0.151,
+      "n_applications": 3,
+      "p10": 0.068,
+      "p90": 0.253
+    },
+    {
+      "expected_interviews": 0.209,
+      "n_applications": 4,
+      "p10": 0.108,
+      "p90": 0.329
+    },
+    {
+      "expected_interviews": 0.269,
+      "n_applications": 5,
+      "p10": 0.152,
+      "p90": 0.407
+    },
+    {
+      "expected_interviews": 0.312,
+      "n_applications": 6,
+      "p10": 0.186,
+      "p90": 0.464
+    },
+    {
+      "expected_interviews": 0.356,
+      "n_applications": 7,
+      "p10": 0.214,
+      "p90": 0.517
+    },
+    {
+      "expected_interviews": 0.4,
+      "n_applications": 8,
+      "p10": 0.249,
+      "p90": 0.576
+    },
+    {
+      "expected_interviews": 0.445,
+      "n_applications": 9,
+      "p10": 0.282,
+      "p90": 0.631
+    },
+    {
+      "expected_interviews": 0.503,
+      "n_applications": 10,
+      "p10": 0.33,
+      "p90": 0.703
+    },
+    {
+      "expected_interviews": 0.552,
+      "n_applications": 11,
+      "p10": 0.37,
+      "p90": 0.761
+    },
+    {
+      "expected_interviews": 0.601,
+      "n_applications": 12,
+      "p10": 0.411,
+      "p90": 0.821
+    },
+    {
+      "expected_interviews": 0.65,
+      "n_applications": 13,
+      "p10": 0.446,
+      "p90": 0.871
+    },
+    {
+      "expected_interviews": 0.691,
+      "n_applications": 14,
+      "p10": 0.485,
+      "p90": 0.918
+    },
+    {
+      "expected_interviews": 0.739,
+      "n_applications": 15,
+      "p10": 0.53,
+      "p90": 0.967
+    },
+    {
+      "expected_interviews": 0.784,
+      "n_applications": 16,
+      "p10": 0.571,
+      "p90": 1.023
+    },
+    {
+      "expected_interviews": 0.827,
+      "n_applications": 17,
+      "p10": 0.608,
+      "p90": 1.071
+    }
+  ],
+  "disclaimer": "PRIOR_ONLY: this curve uses generic role-family priors, NOT your logged outcomes (you have zero). Bands are wide on purpose. Treat it as illustrative planning, not a calibrated forecast. It becomes real once you log 20 outcomes in a lane.",
+  "generated_at": "2026-07-11T22:55:15+00:00",
+  "headline": "Apply to top N postings -> expected interviews",
+  "lane_calibration": [
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
+      "interviews": 0,
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.045,
+      "prior_logit_sd": 0.8,
+      "role_family": "DATA_ANALYTICS",
+      "v4_prior_lane": "Data Analytics"
+    },
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
+      "interviews": 0,
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.03,
+      "prior_logit_sd": 0.95,
+      "role_family": "DATA_SCIENCE",
+      "v4_prior_lane": "Applied Data Science"
+    },
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
+      "interviews": 0,
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.05,
+      "prior_logit_sd": 0.8,
+      "role_family": "BUSINESS_INTELLIGENCE",
+      "v4_prior_lane": "Business Intelligence"
+    },
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
+      "interviews": 0,
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.045,
+      "prior_logit_sd": 0.8,
+      "role_family": "BUSINESS_ANALYTICS",
+      "v4_prior_lane": "Strategy / Business Analytics"
+    },
+    {
+      "applications": 0,
+      "calibrated_probability": null,
+      "calibration_status": "PRIOR_ONLY",
+      "interviews": 0,
+      "outcomes": 0,
+      "outcomes_needed_for_calibration": 20,
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.035,
+      "prior_logit_sd": 0.9,
+      "role_family": "ADJACENT_ANALYTICS",
+      "v4_prior_lane": "Analytics Consulting"
+    }
+  ],
+  "n_postings": 17,
+  "schema_version": "campaign27.v7.1"
 }

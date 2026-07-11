@@ -1,0 +1,22 @@
+{
+  "company_diff": {
+    "added": 12,
+    "dropped": 14,
+    "retained": 150
+  },
+  "connections_parsed": 518,
+  "generated_at": "2026-07-11T22:59:12+00:00",
+  "match_counts": {
+    "eligible": 0,
+    "excluded_skip": 14,
+    "verify": 17
+  },
+  "network_targets_with_connections": 10,
+  "postings_deduped": 202,
+  "postings_in_scope": 17,
+  "postings_sources": {
+    "sndsh404/summer-2027-internships": 69,
+    "vanshb03/Summer2027-Internships": 148
+  },
+  "target_companies": 162
+}

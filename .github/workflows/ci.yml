@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
+      - run: pip install pytest
       - run: python run_pipeline.py
       - run: python -m pytest -q
-      - run: python build_site.py

@@ -1,1641 +1,1459 @@
 [
   {
-    "canonical_company_id": "accenture",
+    "canonical_company_id": "alsac_st_jude",
+    "company": "ALSAC / St. Jude",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "adobe",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "airbnb",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "alsac-st-jude",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "amazon",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "amd",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "american-express",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "analysis-group",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "anthropic",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
     "canonical_company_id": "appian",
+    "company": "Appian",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "apple",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "astrazeneca",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "atlassian",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "autozone",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "bain-and-company",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "bank-of-america",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "barclays",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "bates-white",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "best-buy",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "big-4-truth-for-you-specifically",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "blackrock",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "block-square-cash-app",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "bloomberg",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "booking-holdings-priceline",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "booz-allen-hamilton",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "boston-consulting-group",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "brattle-group",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "brinker-international-chili-s",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "bristol-myers-squibb",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "capital-one",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "capital-one-vt-pipeline-note",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "carilion-clinic",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "carmax",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "cgi",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "charles-river-associates",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "chewy",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "cisco",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "citi",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "coca-cola",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "coinbase",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "colgate-palmolive",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "compass-lexecon",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "cornerstone-research",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "costco",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
     "canonical_company_id": "cvent",
+    "company": "Cvent",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "cvs-health",
+    "canonical_company_id": "analysis_group",
+    "company": "Analysis Group",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "databricks",
+    "canonical_company_id": "cornerstone_research",
+    "company": "Cornerstone Research",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "dell-technologies",
+    "canonical_company_id": "charles_river_associates",
+    "company": "Charles River Associates",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "deloitte",
+    "canonical_company_id": "nera_economic_consulting",
+    "company": "NERA Economic Consulting",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "deloitte-alternative-fti-consulting",
+    "canonical_company_id": "brattle_group",
+    "company": "Brattle Group",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "deutsche-bank",
+    "canonical_company_id": "compass_lexecon",
+    "company": "Compass Lexecon",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "discover",
+    "canonical_company_id": "bates_white",
+    "company": "Bates White",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "disney",
+    "canonical_company_id": "domino_s",
+    "company": "Domino's",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "domino-s",
+    "canonical_company_id": "brinker_international_chili_s",
+    "company": "Brinker International (Chili's)",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "doordash",
+    "canonical_company_id": "autozone",
+    "company": "AutoZone",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "duolingo",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "ebay",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "edgeworth-economics",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "electronic-arts",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "eli-lilly",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "eligibility-kill-phrase-memorize",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "epic-games",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "epsilon",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "equifax",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "est-e-lauder",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "etsy",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "expedia-group",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "experian",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "ey",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "fannie-mae",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
     "canonical_company_id": "fedex",
+    "company": "FedEx",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "fico",
+    "canonical_company_id": "carmax",
+    "company": "CarMax",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "fidelity",
+    "canonical_company_id": "walmart_global_tech",
+    "company": "Walmart Global Tech",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "gartner",
+    "canonical_company_id": "nielsen_nielseniq",
+    "company": "Nielsen / NielsenIQ",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "genentech",
+    "canonical_company_id": "carilion_clinic",
+    "company": "Carilion Clinic",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "goldman-sachs",
+    "canonical_company_id": "edgeworth_economics",
+    "company": "Edgeworth Economics",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "google",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "gpa-strategy",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "grammarly",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "home-depot",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "hp",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "hsbc",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "humana",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "ibm",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "instacart",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "intel",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "intuit",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "johnson-and-johnson",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "kearney",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "kpmg",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "kroger-84-51",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "l-or-al",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "linkedin",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "lowe-s",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "lyft",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "mars",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "mastercard",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "merck",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "meta",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "microsoft",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "moody-s",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "msci",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nera-economic-consulting",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nestl",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "netflix",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nielsen-nielseniq",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nike",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "novartis",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nutanix",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "nvidia",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "oliver-wyman",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "openai",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "oracle",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "palantir",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "paypal",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "pepsico",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
     "canonical_company_id": "pfizer",
+    "company": "Pfizer",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "pinterest",
+    "canonical_company_id": "kroger_84_51",
+    "company": "Kroger / 84.51\u00b0",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "procter-and-gamble",
+    "canonical_company_id": "accenture",
+    "company": "Accenture",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "pwc",
+    "canonical_company_id": "cgi",
+    "company": "CGI",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "qualcomm",
+    "canonical_company_id": "ibm",
+    "company": "IBM",
+    "direct_connection_count": 2,
+    "networking_opportunity_level": "MODERATE",
+    "recommended_networking_action": "Reach out to your connections here before applying.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 1
+  },
+  {
+    "canonical_company_id": "cisco",
+    "company": "Cisco",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "ra-sigma-tau-gamma",
+    "canonical_company_id": "doordash",
+    "company": "DoorDash",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "reddit",
+    "canonical_company_id": "instacart",
+    "company": "Instacart",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "referral-script",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "regeneron",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "robinhood",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "roblox",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "s-and-p-global",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "salesforce",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "samsung-research-america",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "scale-ai",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "servicenow",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "shopify",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "snap",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "snowflake",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "so-what-do-you-actually-do",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "sony-interactive-playstation",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "splunk-cisco",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "spotify",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "stripe",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "target",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "tesla",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "the-one-question-that-matters",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "tiktok",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "timeline-it-starts-now",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "transunion",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "twilio",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "uber",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "unilever",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "unitedhealth-group-optum",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "v3-1-interview-first-sorted",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "vanguard",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "visa",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "vmware-broadcom",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "vt-pipeline-verified",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "walmart-global-tech",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "wayfair",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "where-to-apply",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "workday",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "your-3-priority-lanes-revised",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "your-personal-story-use-it",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
-    "recruiter_or_talent_connection_count": 0,
-    "relevant_analytics_connection_count": 0
-  },
-  {
-    "canonical_company_id": "your-portfolio-numbers",
-    "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
-    "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
     "canonical_company_id": "zillow",
+    "company": "Zillow",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   },
   {
-    "canonical_company_id": "zs-associates",
+    "canonical_company_id": "spotify",
+    "company": "Spotify",
     "direct_connection_count": 0,
-    "followed_company": false,
-    "most_recent_connection_date": null,
     "networking_opportunity_level": "NONE",
-    "recommended_networking_action": "NO DIRECT NETWORK SIGNAL",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "pinterest",
+    "company": "Pinterest",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "wayfair",
+    "company": "Wayfair",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "nike",
+    "company": "Nike",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "pepsico",
+    "company": "PepsiCo",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "coca_cola",
+    "company": "Coca-Cola",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "nestl",
+    "company": "Nestl\u00e9",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "unilever",
+    "company": "Unilever",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "est_e_lauder",
+    "company": "Est\u00e9e Lauder",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "l_or_al",
+    "company": "L'Or\u00e9al",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "mars",
+    "company": "Mars",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "colgate_palmolive",
+    "company": "Colgate-Palmolive",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "epsilon",
+    "company": "Epsilon",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "amazon",
+    "company": "Amazon",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "johnson_and_johnson",
+    "company": "Johnson & Johnson",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "merck",
+    "company": "Merck",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "eli_lilly",
+    "company": "Eli Lilly",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "genentech",
+    "company": "Genentech",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "bristol_myers_squibb",
+    "company": "Bristol Myers Squibb",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "astrazeneca",
+    "company": "AstraZeneca",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "novartis",
+    "company": "Novartis",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "cvs_health",
+    "company": "CVS Health",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "lyft",
+    "company": "Lyft",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "airbnb",
+    "company": "Airbnb",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "zs_associates",
+    "company": "ZS Associates",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "adobe",
+    "company": "Adobe",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "intel",
+    "company": "Intel",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "oracle",
+    "company": "Oracle",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "salesforce",
+    "company": "Salesforce",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "linkedin",
+    "company": "LinkedIn",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "snap",
+    "company": "Snap",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "snowflake",
+    "company": "Snowflake",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "intuit",
+    "company": "Intuit",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "servicenow",
+    "company": "ServiceNow",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "workday",
+    "company": "Workday",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "qualcomm",
+    "company": "Qualcomm",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "amd",
+    "company": "AMD",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "ebay",
+    "company": "eBay",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "expedia_group",
+    "company": "Expedia Group",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "atlassian",
+    "company": "Atlassian",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "reddit",
+    "company": "Reddit",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "duolingo",
+    "company": "Duolingo",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "samsung_research_america",
+    "company": "Samsung Research America",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "nutanix",
+    "company": "Nutanix",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "splunk_cisco",
+    "company": "Splunk (Cisco)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "tesla",
+    "company": "Tesla",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "visa",
+    "company": "Visa",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "mastercard",
+    "company": "Mastercard",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "american_express",
+    "company": "American Express",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 1
+  },
+  {
+    "canonical_company_id": "home_depot",
+    "company": "Home Depot",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "lowe_s",
+    "company": "Lowe's",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "gartner",
+    "company": "Gartner",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "experian",
+    "company": "Experian",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "equifax",
+    "company": "Equifax",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "transunion",
+    "company": "TransUnion",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "fico",
+    "company": "FICO",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "etsy",
+    "company": "Etsy",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "chewy",
+    "company": "Chewy",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "disney",
+    "company": "Disney",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "booking_holdings_priceline",
+    "company": "Booking Holdings / Priceline",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "regeneron",
+    "company": "Regeneron",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "unitedhealth_group_optum",
+    "company": "UnitedHealth Group / Optum",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "humana",
+    "company": "Humana",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "oliver_wyman",
+    "company": "Oliver Wyman",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "costco",
+    "company": "Costco",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "best_buy",
+    "company": "Best Buy",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "microsoft",
+    "company": "Microsoft",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "bloomberg",
+    "company": "Bloomberg",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "deloitte_alternative_fti_consulting",
+    "company": "Deloitte-alternative: FTI Consulting",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "dell_technologies",
+    "company": "Dell Technologies",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "hp",
+    "company": "HP",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "shopify",
+    "company": "Shopify",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "sony_interactive_playstation",
+    "company": "Sony Interactive (PlayStation)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "electronic_arts",
+    "company": "Electronic Arts",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "epic_games",
+    "company": "Epic Games",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "vmware_broadcom",
+    "company": "VMware (Broadcom)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "twilio",
+    "company": "Twilio",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "grammarly",
+    "company": "Grammarly",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "scale_ai",
+    "company": "Scale AI",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "block_square_cash_app",
+    "company": "Block (Square/Cash App)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "paypal",
+    "company": "PayPal",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "robinhood",
+    "company": "Robinhood",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "coinbase",
+    "company": "Coinbase",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "freddie_mac",
+    "company": "Freddie Mac",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "uber",
+    "company": "Uber",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "kearney",
+    "company": "Kearney",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "capital_one",
+    "company": "Capital One",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "nvidia",
+    "company": "NVIDIA",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "tiktok",
+    "company": "TikTok",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "databricks",
+    "company": "Databricks",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "stripe",
+    "company": "Stripe",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "roblox",
+    "company": "Roblox",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "blackrock",
+    "company": "BlackRock",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "deloitte",
+    "company": "Deloitte",
+    "direct_connection_count": 6,
+    "networking_opportunity_level": "STRONG",
+    "recommended_networking_action": "Warm intro likely \u2014 ask an analytics contact to refer you.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 2
+  },
+  {
+    "canonical_company_id": "ey",
+    "company": "EY",
+    "direct_connection_count": 4,
+    "networking_opportunity_level": "MODERATE",
+    "recommended_networking_action": "Reach out to your connections here before applying.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "kpmg",
+    "company": "KPMG",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "discover",
+    "company": "Discover",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "target",
+    "company": "Target",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "procter_and_gamble",
+    "company": "Procter & Gamble",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "moody_s",
+    "company": "Moody's",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "fannie_mae",
+    "company": "Fannie Mae",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "pwc",
+    "company": "PwC",
+    "direct_connection_count": 2,
+    "networking_opportunity_level": "MODERATE",
+    "recommended_networking_action": "Reach out to your connections here before applying.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 1
+  },
+  {
+    "canonical_company_id": "booz_allen_hamilton",
+    "company": "Booz Allen Hamilton",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "bank_of_america",
+    "company": "Bank of America",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "citi",
+    "company": "Citi",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "barclays",
+    "company": "Barclays",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "ubs",
+    "company": "UBS",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "deutsche_bank",
+    "company": "Deutsche Bank",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "wells_fargo",
+    "company": "Wells Fargo",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "nomura",
+    "company": "Nomura",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "s_and_p_global",
+    "company": "S&P Global",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "msci",
+    "company": "MSCI",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "state_street",
+    "company": "State Street",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "bnp_paribas",
+    "company": "BNP Paribas",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "hsbc",
+    "company": "HSBC",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "rbc_capital_markets",
+    "company": "RBC Capital Markets",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "mckinsey_and_company",
+    "company": "McKinsey & Company",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "boston_consulting_group",
+    "company": "Boston Consulting Group",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "bain_and_company",
+    "company": "Bain & Company",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "capital_one_vt_pipeline_note",
+    "company": "Capital One (VT pipeline note)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "goldman_sachs",
+    "company": "Goldman Sachs",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "j_p_morgan",
+    "company": "J.P. Morgan",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "morgan_stanley",
+    "company": "Morgan Stanley",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "fidelity",
+    "company": "Fidelity",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "vanguard",
+    "company": "Vanguard",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "google",
+    "company": "Google",
+    "direct_connection_count": 1,
+    "networking_opportunity_level": "WEAK",
+    "recommended_networking_action": "One connection \u2014 send a personalized note.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "meta",
+    "company": "Meta",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "apple",
+    "company": "Apple",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "netflix",
+    "company": "Netflix",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "palantir",
+    "company": "Palantir",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "openai",
+    "company": "OpenAI",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "anthropic",
+    "company": "Anthropic",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "two_sigma",
+    "company": "Two Sigma",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
+    "recruiter_or_talent_connection_count": 0,
+    "relevant_analytics_connection_count": 0
+  },
+  {
+    "canonical_company_id": "sig_susquehanna",
+    "company": "SIG (Susquehanna)",
+    "direct_connection_count": 0,
+    "networking_opportunity_level": "NONE",
+    "recommended_networking_action": "No direct network signal \u2014 cold apply or find a VT alum.",
     "recruiter_or_talent_connection_count": 0,
     "relevant_analytics_connection_count": 0
   }

@@ -1,0 +1,272 @@
+{
+  "all_candidates": {
+    "role_family+additive": {
+      "aux_feature_dominance": 0.6423,
+      "discrimination": 0.2941,
+      "fit_dominance": 0.9341,
+      "flip_rate": 0.1169,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.3561,
+      "single_feature_dominance": {
+        "access": 0.219,
+        "fit": 0.934,
+        "network": 0.125,
+        "timing": 0.642
+      },
+      "tier_distribution": {
+        "GOOD MATCH": 5,
+        "STRONG MATCH": 12
+      }
+    },
+    "role_family+lexicographic": {
+      "aux_feature_dominance": 0.6585,
+      "discrimination": 0.2353,
+      "fit_dominance": 0.978,
+      "flip_rate": 0.0375,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.3099,
+      "single_feature_dominance": {
+        "access": 0.25,
+        "fit": 0.978,
+        "network": 0.375,
+        "timing": 0.659
+      },
+      "tier_distribution": {
+        "GOOD MATCH": 4,
+        "STRONG MATCH": 13
+      }
+    },
+    "role_family+multiplicative": {
+      "aux_feature_dominance": 0.5772,
+      "discrimination": 0.4118,
+      "fit_dominance": 0.8681,
+      "flip_rate": 0.1206,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.1235,
+      "single_feature_dominance": {
+        "access": 0.062,
+        "fit": 0.868,
+        "network": 0.125,
+        "timing": 0.577
+      },
+      "tier_distribution": {
+        "GOOD MATCH": 7,
+        "STRONG MATCH": 10
+      }
+    },
+    "skill_overlap+additive": {
+      "aux_feature_dominance": 0.375,
+      "discrimination": 0.3529,
+      "fit_dominance": 0.8,
+      "flip_rate": 0.136,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.2427,
+      "single_feature_dominance": {
+        "access": 0.188,
+        "fit": 0.8,
+        "network": 0.375,
+        "timing": 0.333
+      },
+      "tier_distribution": {
+        "ADJACENT": 3,
+        "GOOD MATCH": 11,
+        "WEAK MATCH": 3
+      }
+    },
+    "skill_overlap+lexicographic": {
+      "aux_feature_dominance": 0.5,
+      "discrimination": 0.2941,
+      "fit_dominance": 0.9111,
+      "flip_rate": 0.154,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.3669,
+      "single_feature_dominance": {
+        "access": 0.25,
+        "fit": 0.911,
+        "network": 0.5,
+        "timing": 0.285
+      },
+      "tier_distribution": {
+        "ADJACENT": 2,
+        "GOOD MATCH": 12,
+        "WEAK MATCH": 3
+      }
+    },
+    "skill_overlap+multiplicative": {
+      "aux_feature_dominance": 0.375,
+      "discrimination": 0.4118,
+      "fit_dominance": 0.7333,
+      "flip_rate": 0.1746,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.2316,
+      "single_feature_dominance": {
+        "access": 0.156,
+        "fit": 0.733,
+        "network": 0.375,
+        "timing": 0.366
+      },
+      "tier_distribution": {
+        "ADJACENT": 4,
+        "GOOD MATCH": 10,
+        "WEAK MATCH": 3
+      }
+    },
+    "tfidf_resume+additive": {
+      "aux_feature_dominance": 0.6748,
+      "discrimination": 0.2353,
+      "fit_dominance": 0.7231,
+      "flip_rate": 0.0996,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.4585,
+      "single_feature_dominance": {
+        "access": 0.219,
+        "fit": 0.723,
+        "network": 0.25,
+        "timing": 0.675
+      },
+      "tier_distribution": {
+        "ADJACENT": 4,
+        "WEAK MATCH": 13
+      }
+    },
+    "tfidf_resume+lexicographic": {
+      "aux_feature_dominance": 0.75,
+      "discrimination": 0.0,
+      "fit_dominance": 0.8308,
+      "flip_rate": 0.0581,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.8412,
+      "single_feature_dominance": {
+        "access": 0.469,
+        "fit": 0.831,
+        "network": 0.75,
+        "timing": 0.724
+      },
+      "tier_distribution": {
+        "WEAK MATCH": 17
+      }
+    },
+    "tfidf_resume+multiplicative": {
+      "aux_feature_dominance": 0.75,
+      "discrimination": 0.0,
+      "fit_dominance": 0.8923,
+      "flip_rate": 0.0952,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.9154,
+      "single_feature_dominance": {
+        "access": 0.469,
+        "fit": 0.892,
+        "network": 0.75,
+        "timing": 0.675
+      },
+      "tier_distribution": {
+        "WEAK MATCH": 17
+      }
+    }
+  },
+  "combiners": [
+    "additive",
+    "multiplicative",
+    "lexicographic"
+  ],
+  "feature_weights": {
+    "access": 0.12,
+    "fit": 0.55,
+    "network": 0.15,
+    "timing": 0.18
+  },
+  "fit_candidates": [
+    "tfidf_resume",
+    "skill_overlap",
+    "role_family"
+  ],
+  "generated_at": "2026-07-11T22:55:15+00:00",
+  "postings_in_scope": 17,
+  "selection_basis": "MOST ROBUST, NOT MOST ACCURATE. Zero outcomes are logged, so real-world accuracy is unmeasurable. Winner minimises a cost of tier-flip instability, Pareto violations, and single-feature dominance (the V6 'Claude prior' failure mode).",
+  "why_others_lost": [
+    {
+      "candidate": "skill_overlap+multiplicative",
+      "robustness_cost": 1.2316,
+      "why_it_lost": [
+        "less stable (tier flips 17% vs 12%)"
+      ]
+    },
+    {
+      "candidate": "skill_overlap+additive",
+      "robustness_cost": 1.2427,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.3529 vs 0.4118)"
+      ]
+    },
+    {
+      "candidate": "role_family+lexicographic",
+      "robustness_cost": 1.3099,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.2353 vs 0.4118)",
+        "auxiliary feature 'timing' over-controls the order (tau=0.659)"
+      ]
+    },
+    {
+      "candidate": "role_family+additive",
+      "robustness_cost": 1.3561,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.2941 vs 0.4118)",
+        "auxiliary feature 'timing' over-controls the order (tau=0.642)"
+      ]
+    },
+    {
+      "candidate": "skill_overlap+lexicographic",
+      "robustness_cost": 1.3669,
+      "why_it_lost": [
+        "less stable (tier flips 15% vs 12%)",
+        "weak discrimination (collapses postings; spread 0.2941 vs 0.4118)"
+      ]
+    },
+    {
+      "candidate": "tfidf_resume+additive",
+      "robustness_cost": 1.4585,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.2353 vs 0.4118)",
+        "auxiliary feature 'timing' over-controls the order (tau=0.675)"
+      ]
+    },
+    {
+      "candidate": "tfidf_resume+lexicographic",
+      "robustness_cost": 1.8412,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.0 vs 0.4118)",
+        "auxiliary feature 'network' over-controls the order (tau=0.75)"
+      ]
+    },
+    {
+      "candidate": "tfidf_resume+multiplicative",
+      "robustness_cost": 1.9154,
+      "why_it_lost": [
+        "weak discrimination (collapses postings; spread 0.0 vs 0.4118)",
+        "auxiliary feature 'network' over-controls the order (tau=0.75)"
+      ]
+    }
+  ],
+  "winner": {
+    "combiner": "multiplicative",
+    "fit": "role_family",
+    "metrics": {
+      "aux_feature_dominance": 0.5772,
+      "discrimination": 0.4118,
+      "fit_dominance": 0.8681,
+      "flip_rate": 0.1206,
+      "pareto_violation_rate": 0.0,
+      "robustness_cost": 1.1235,
+      "single_feature_dominance": {
+        "access": 0.062,
+        "fit": 0.868,
+        "network": 0.125,
+        "timing": 0.577
+      },
+      "tier_distribution": {
+        "GOOD MATCH": 7,
+        "STRONG MATCH": 10
+      }
+    }
+  }
+}

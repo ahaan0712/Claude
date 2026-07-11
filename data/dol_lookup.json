@@ -1,76 +1,12 @@
 {
   "companies": [
     {
-      "canonical_company_id": "accenture",
-      "company": "Accenture",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "adobe",
-      "company": "Adobe",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "airbnb",
-      "company": "Airbnb",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "alsac-st-jude",
+      "canonical_company_id": "alsac_st_jude",
       "company": "ALSAC / St. Jude",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "amazon",
-      "company": "Amazon",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "amd",
-      "company": "AMD",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "american-express",
-      "company": "American Express",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "analysis-group",
-      "company": "Analysis Group",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "anthropic",
-      "company": "Anthropic",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
       "canonical_company_id": "appian",
@@ -78,279 +14,7 @@
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "apple",
-      "company": "Apple",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "astrazeneca",
-      "company": "AstraZeneca",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "atlassian",
-      "company": "Atlassian",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "autozone",
-      "company": "AutoZone",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "bain-and-company",
-      "company": "Bain & Company",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "bank-of-america",
-      "company": "Bank of America",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "barclays",
-      "company": "Barclays",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "bates-white",
-      "company": "Bates White",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "best-buy",
-      "company": "Best Buy",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "big-4-truth-for-you-specifically",
-      "company": "Big 4 truth for YOU specifically",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "blackrock",
-      "company": "BlackRock",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "block-square-cash-app",
-      "company": "Block (Square/Cash App)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "bloomberg",
-      "company": "Bloomberg",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "booking-holdings-priceline",
-      "company": "Booking Holdings / Priceline",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "booz-allen-hamilton",
-      "company": "Booz Allen Hamilton",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "boston-consulting-group",
-      "company": "Boston Consulting Group",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "brattle-group",
-      "company": "Brattle Group",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "brinker-international-chili-s",
-      "company": "Brinker International (Chili's)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "bristol-myers-squibb",
-      "company": "Bristol Myers Squibb",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "capital-one",
-      "company": "Capital One",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "capital-one-vt-pipeline-note",
-      "company": "Capital One (VT pipeline note)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "carilion-clinic",
-      "company": "Carilion Clinic",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "carmax",
-      "company": "CarMax",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "cgi",
-      "company": "CGI",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "charles-river-associates",
-      "company": "Charles River Associates",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "chewy",
-      "company": "Chewy",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "cisco",
-      "company": "Cisco",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "citi",
-      "company": "Citi",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "coca-cola",
-      "company": "Coca-Cola",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "coinbase",
-      "company": "Coinbase",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "colgate-palmolive",
-      "company": "Colgate-Palmolive",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "compass-lexecon",
-      "company": "Compass Lexecon",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "cornerstone-research",
-      "company": "Cornerstone Research",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "costco",
-      "company": "Costco",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
       "canonical_company_id": "cvent",
@@ -358,207 +22,87 @@
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "cvs-health",
-      "company": "CVS Health",
+      "canonical_company_id": "analysis_group",
+      "company": "Analysis Group",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "databricks",
-      "company": "Databricks",
+      "canonical_company_id": "cornerstone_research",
+      "company": "Cornerstone Research",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "dell-technologies",
-      "company": "Dell Technologies",
+      "canonical_company_id": "charles_river_associates",
+      "company": "Charles River Associates",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "deloitte",
-      "company": "Deloitte",
+      "canonical_company_id": "nera_economic_consulting",
+      "company": "NERA Economic Consulting",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "deloitte-alternative-fti-consulting",
-      "company": "Deloitte-alternative: FTI Consulting",
+      "canonical_company_id": "brattle_group",
+      "company": "Brattle Group",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "deutsche-bank",
-      "company": "Deutsche Bank",
+      "canonical_company_id": "compass_lexecon",
+      "company": "Compass Lexecon",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "discover",
-      "company": "Discover",
+      "canonical_company_id": "bates_white",
+      "company": "Bates White",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "disney",
-      "company": "Disney",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "domino-s",
+      "canonical_company_id": "domino_s",
       "company": "Domino's",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "doordash",
-      "company": "DoorDash",
+      "canonical_company_id": "brinker_international_chili_s",
+      "company": "Brinker International (Chili's)",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "duolingo",
-      "company": "Duolingo",
+      "canonical_company_id": "autozone",
+      "company": "AutoZone",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "ebay",
-      "company": "eBay",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "edgeworth-economics",
-      "company": "Edgeworth Economics",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "electronic-arts",
-      "company": "Electronic Arts",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "eli-lilly",
-      "company": "Eli Lilly",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "eligibility-kill-phrase-memorize",
-      "company": "ELIGIBILITY KILL-PHRASE (memorize)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "epic-games",
-      "company": "Epic Games",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "epsilon",
-      "company": "Epsilon",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "equifax",
-      "company": "Equifax",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "est-e-lauder",
-      "company": "Est\u00e9e Lauder",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "etsy",
-      "company": "Etsy",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "expedia-group",
-      "company": "Expedia Group",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "experian",
-      "company": "Experian",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "ey",
-      "company": "EY",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "fannie-mae",
-      "company": "Fannie Mae",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
       "canonical_company_id": "fedex",
@@ -566,367 +110,47 @@
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "fico",
-      "company": "FICO",
+      "canonical_company_id": "carmax",
+      "company": "CarMax",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "fidelity",
-      "company": "Fidelity",
+      "canonical_company_id": "walmart_global_tech",
+      "company": "Walmart Global Tech",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "gartner",
-      "company": "Gartner",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "genentech",
-      "company": "Genentech",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "goldman-sachs",
-      "company": "Goldman Sachs",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "google",
-      "company": "Google",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "gpa-strategy",
-      "company": "GPA strategy",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "grammarly",
-      "company": "Grammarly",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "home-depot",
-      "company": "Home Depot",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "hp",
-      "company": "HP",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "hsbc",
-      "company": "HSBC",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "humana",
-      "company": "Humana",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "ibm",
-      "company": "IBM",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "instacart",
-      "company": "Instacart",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "intel",
-      "company": "Intel",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "intuit",
-      "company": "Intuit",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "johnson-and-johnson",
-      "company": "Johnson & Johnson",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "kearney",
-      "company": "Kearney",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "kpmg",
-      "company": "KPMG",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "kroger-84-51",
-      "company": "Kroger / 84.51\u00b0",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "l-or-al",
-      "company": "L'Or\u00e9al",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "linkedin",
-      "company": "LinkedIn",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "lowe-s",
-      "company": "Lowe's",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "lyft",
-      "company": "Lyft",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "mars",
-      "company": "Mars",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "mastercard",
-      "company": "Mastercard",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "merck",
-      "company": "Merck",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "meta",
-      "company": "Meta",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "microsoft",
-      "company": "Microsoft",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "moody-s",
-      "company": "Moody's",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "msci",
-      "company": "MSCI",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "nera-economic-consulting",
-      "company": "NERA Economic Consulting",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "nestl",
-      "company": "Nestl\u00e9",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "netflix",
-      "company": "Netflix",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "nielsen-nielseniq",
+      "canonical_company_id": "nielsen_nielseniq",
       "company": "Nielsen / NielsenIQ",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "nike",
-      "company": "Nike",
+      "canonical_company_id": "carilion_clinic",
+      "company": "Carilion Clinic",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "novartis",
-      "company": "Novartis",
+      "canonical_company_id": "edgeworth_economics",
+      "company": "Edgeworth Economics",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "nutanix",
-      "company": "Nutanix",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "nvidia",
-      "company": "NVIDIA",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "oliver-wyman",
-      "company": "Oliver Wyman",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "openai",
-      "company": "OpenAI",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "oracle",
-      "company": "Oracle",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "palantir",
-      "company": "Palantir",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "paypal",
-      "company": "PayPal",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "pepsico",
-      "company": "PepsiCo",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
       "canonical_company_id": "pfizer",
@@ -934,367 +158,63 @@
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "pinterest",
-      "company": "Pinterest",
+      "canonical_company_id": "kroger_84_51",
+      "company": "Kroger / 84.51\u00b0",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "procter-and-gamble",
-      "company": "Procter & Gamble",
+      "canonical_company_id": "accenture",
+      "company": "Accenture",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "pwc",
-      "company": "PwC",
+      "canonical_company_id": "cgi",
+      "company": "CGI",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "qualcomm",
-      "company": "Qualcomm",
+      "canonical_company_id": "ibm",
+      "company": "IBM",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "ra-sigma-tau-gamma",
-      "company": "RA + Sigma Tau Gamma",
+      "canonical_company_id": "cisco",
+      "company": "Cisco",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "reddit",
-      "company": "Reddit",
+      "canonical_company_id": "doordash",
+      "company": "DoorDash",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "referral-script",
-      "company": "Referral script",
+      "canonical_company_id": "instacart",
+      "company": "Instacart",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "regeneron",
-      "company": "Regeneron",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "robinhood",
-      "company": "Robinhood",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "roblox",
-      "company": "Roblox",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "s-and-p-global",
-      "company": "S&P Global",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "salesforce",
-      "company": "Salesforce",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "samsung-research-america",
-      "company": "Samsung Research America",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "scale-ai",
-      "company": "Scale AI",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "servicenow",
-      "company": "ServiceNow",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "shopify",
-      "company": "Shopify",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "snap",
-      "company": "Snap",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "snowflake",
-      "company": "Snowflake",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "so-what-do-you-actually-do",
-      "company": "So what do you actually do?",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "sony-interactive-playstation",
-      "company": "Sony Interactive (PlayStation)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "splunk-cisco",
-      "company": "Splunk (Cisco)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "spotify",
-      "company": "Spotify",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "stripe",
-      "company": "Stripe",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "target",
-      "company": "Target",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "tesla",
-      "company": "Tesla",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "the-one-question-that-matters",
-      "company": "The one question that matters",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "tiktok",
-      "company": "TikTok",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "timeline-it-starts-now",
-      "company": "Timeline (it starts NOW)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "transunion",
-      "company": "TransUnion",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "twilio",
-      "company": "Twilio",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "uber",
-      "company": "Uber",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "unilever",
-      "company": "Unilever",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "unitedhealth-group-optum",
-      "company": "UnitedHealth Group / Optum",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "v3-1-interview-first-sorted",
-      "company": "v3.1 - INTERVIEW-FIRST + SORTED",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "vanguard",
-      "company": "Vanguard",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "visa",
-      "company": "Visa",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "vmware-broadcom",
-      "company": "VMware (Broadcom)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "vt-pipeline-verified",
-      "company": "VT PIPELINE (verified)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "walmart-global-tech",
-      "company": "Walmart Global Tech",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "wayfair",
-      "company": "Wayfair",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "where-to-apply",
-      "company": "Where to apply",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "workday",
-      "company": "Workday",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "your-3-priority-lanes-revised",
-      "company": "Your 3 priority lanes (revised)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "your-personal-story-use-it",
-      "company": "Your personal story (use it)",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
-    },
-    {
-      "canonical_company_id": "your-portfolio-numbers",
-      "company": "YOUR PORTFOLIO NUMBERS",
-      "dol_evidence_state": "UNKNOWN",
-      "filing_count": null,
-      "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
       "canonical_company_id": "zillow",
@@ -1302,30 +222,1094 @@
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
     },
     {
-      "canonical_company_id": "zs-associates",
+      "canonical_company_id": "spotify",
+      "company": "Spotify",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "pinterest",
+      "company": "Pinterest",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "wayfair",
+      "company": "Wayfair",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "nike",
+      "company": "Nike",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "pepsico",
+      "company": "PepsiCo",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "coca_cola",
+      "company": "Coca-Cola",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "nestl",
+      "company": "Nestl\u00e9",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "unilever",
+      "company": "Unilever",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "est_e_lauder",
+      "company": "Est\u00e9e Lauder",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "l_or_al",
+      "company": "L'Or\u00e9al",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "mars",
+      "company": "Mars",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "colgate_palmolive",
+      "company": "Colgate-Palmolive",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "epsilon",
+      "company": "Epsilon",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "amazon",
+      "company": "Amazon",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "johnson_and_johnson",
+      "company": "Johnson & Johnson",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "merck",
+      "company": "Merck",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "eli_lilly",
+      "company": "Eli Lilly",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "genentech",
+      "company": "Genentech",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "bristol_myers_squibb",
+      "company": "Bristol Myers Squibb",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "astrazeneca",
+      "company": "AstraZeneca",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "novartis",
+      "company": "Novartis",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "cvs_health",
+      "company": "CVS Health",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "lyft",
+      "company": "Lyft",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "airbnb",
+      "company": "Airbnb",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "zs_associates",
       "company": "ZS Associates",
       "dol_evidence_state": "UNKNOWN",
       "filing_count": null,
       "match_confidence": 0.0,
-      "match_method": "NO_MATCH"
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "adobe",
+      "company": "Adobe",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "intel",
+      "company": "Intel",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "oracle",
+      "company": "Oracle",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "salesforce",
+      "company": "Salesforce",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "linkedin",
+      "company": "LinkedIn",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "snap",
+      "company": "Snap",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "snowflake",
+      "company": "Snowflake",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "intuit",
+      "company": "Intuit",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "servicenow",
+      "company": "ServiceNow",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "workday",
+      "company": "Workday",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "qualcomm",
+      "company": "Qualcomm",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "amd",
+      "company": "AMD",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "ebay",
+      "company": "eBay",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "expedia_group",
+      "company": "Expedia Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "atlassian",
+      "company": "Atlassian",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "reddit",
+      "company": "Reddit",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "duolingo",
+      "company": "Duolingo",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "samsung_research_america",
+      "company": "Samsung Research America",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "nutanix",
+      "company": "Nutanix",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "splunk_cisco",
+      "company": "Splunk (Cisco)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "tesla",
+      "company": "Tesla",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "visa",
+      "company": "Visa",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "mastercard",
+      "company": "Mastercard",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "american_express",
+      "company": "American Express",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "home_depot",
+      "company": "Home Depot",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "lowe_s",
+      "company": "Lowe's",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "gartner",
+      "company": "Gartner",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "experian",
+      "company": "Experian",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "equifax",
+      "company": "Equifax",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "transunion",
+      "company": "TransUnion",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "fico",
+      "company": "FICO",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "etsy",
+      "company": "Etsy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "chewy",
+      "company": "Chewy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "disney",
+      "company": "Disney",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "booking_holdings_priceline",
+      "company": "Booking Holdings / Priceline",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "regeneron",
+      "company": "Regeneron",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "unitedhealth_group_optum",
+      "company": "UnitedHealth Group / Optum",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "humana",
+      "company": "Humana",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "oliver_wyman",
+      "company": "Oliver Wyman",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "costco",
+      "company": "Costco",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "best_buy",
+      "company": "Best Buy",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "microsoft",
+      "company": "Microsoft",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "bloomberg",
+      "company": "Bloomberg",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "deloitte_alternative_fti_consulting",
+      "company": "Deloitte-alternative: FTI Consulting",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "dell_technologies",
+      "company": "Dell Technologies",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "hp",
+      "company": "HP",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "shopify",
+      "company": "Shopify",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "sony_interactive_playstation",
+      "company": "Sony Interactive (PlayStation)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "electronic_arts",
+      "company": "Electronic Arts",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "epic_games",
+      "company": "Epic Games",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "vmware_broadcom",
+      "company": "VMware (Broadcom)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "twilio",
+      "company": "Twilio",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "grammarly",
+      "company": "Grammarly",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "scale_ai",
+      "company": "Scale AI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "block_square_cash_app",
+      "company": "Block (Square/Cash App)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "paypal",
+      "company": "PayPal",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "robinhood",
+      "company": "Robinhood",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "coinbase",
+      "company": "Coinbase",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "freddie_mac",
+      "company": "Freddie Mac",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "uber",
+      "company": "Uber",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "kearney",
+      "company": "Kearney",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "capital_one",
+      "company": "Capital One",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "nvidia",
+      "company": "NVIDIA",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "tiktok",
+      "company": "TikTok",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "databricks",
+      "company": "Databricks",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "stripe",
+      "company": "Stripe",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "roblox",
+      "company": "Roblox",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "blackrock",
+      "company": "BlackRock",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "deloitte",
+      "company": "Deloitte",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "ey",
+      "company": "EY",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "kpmg",
+      "company": "KPMG",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "discover",
+      "company": "Discover",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "target",
+      "company": "Target",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "procter_and_gamble",
+      "company": "Procter & Gamble",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "moody_s",
+      "company": "Moody's",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "fannie_mae",
+      "company": "Fannie Mae",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "pwc",
+      "company": "PwC",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "booz_allen_hamilton",
+      "company": "Booz Allen Hamilton",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "bank_of_america",
+      "company": "Bank of America",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "citi",
+      "company": "Citi",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "barclays",
+      "company": "Barclays",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "ubs",
+      "company": "UBS",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "deutsche_bank",
+      "company": "Deutsche Bank",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "wells_fargo",
+      "company": "Wells Fargo",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "nomura",
+      "company": "Nomura",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "s_and_p_global",
+      "company": "S&P Global",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "msci",
+      "company": "MSCI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "state_street",
+      "company": "State Street",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "bnp_paribas",
+      "company": "BNP Paribas",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "hsbc",
+      "company": "HSBC",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "rbc_capital_markets",
+      "company": "RBC Capital Markets",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "mckinsey_and_company",
+      "company": "McKinsey & Company",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "boston_consulting_group",
+      "company": "Boston Consulting Group",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "bain_and_company",
+      "company": "Bain & Company",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "capital_one_vt_pipeline_note",
+      "company": "Capital One (VT pipeline note)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "goldman_sachs",
+      "company": "Goldman Sachs",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "j_p_morgan",
+      "company": "J.P. Morgan",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "morgan_stanley",
+      "company": "Morgan Stanley",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "fidelity",
+      "company": "Fidelity",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "vanguard",
+      "company": "Vanguard",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "google",
+      "company": "Google",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "meta",
+      "company": "Meta",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "apple",
+      "company": "Apple",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "netflix",
+      "company": "Netflix",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "palantir",
+      "company": "Palantir",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "openai",
+      "company": "OpenAI",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "anthropic",
+      "company": "Anthropic",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "two_sigma",
+      "company": "Two Sigma",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
+    },
+    {
+      "canonical_company_id": "sig_susquehanna",
+      "company": "SIG (Susquehanna)",
+      "dol_evidence_state": "UNKNOWN",
+      "filing_count": null,
+      "match_confidence": 0.0,
+      "match_method": "LOOKUP_FAILED"
     }
   ],
-  "generated_at": "2026-07-11T17:28:23+00:00",
-  "note": "Existing broken-match evidence invalidated; external refresh in Actions should regenerate. Network failures produce UNKNOWN, never NONE.",
-  "previous_real_values_invalidated": true,
-  "sample_false_positives_corrected": [
-    "empty normalized name cannot match",
-    "Worldwide Inc generic token no longer contaminates unrelated companies"
+  "generated_at": "2026-07-11T22:55:15+00:00",
+  "note": "DOL sponsorship history is supporting evidence only and never overrides the posting-language eligibility gate. A failed lookup is reported as UNKNOWN, never as a verified NONE. Posting-level sponsorship language (tracker 'sponsorship' field) drives the actual eligibility gate in score.py.",
+  "source_attempted": [
+    "https://flag.dol.gov/sites/default/files/disclosure_data/LCA_Disclosure_Data_FY2024_Q4.xlsx"
   ],
+  "source_error": "URLError(OSError('Tunnel connection failed: 403 Forbidden'))",
+  "source_reachable": false,
   "summary": {
     "NONE": 0,
     "PARTIAL": 0,
     "REAL": 0,
     "STALE": 0,
-    "UNKNOWN": 164,
+    "UNKNOWN": 162,
     "UNVERIFIED": 0
   }
 }

@@ -11,31 +11,27 @@ concurrency:
   cancel-in-progress: false
 jobs:
   build:
-    if: github.ref_name == github.event.repository.default_branch
+    # Deploy from the default branch or the active V7.1 audit branch so the
+    # live site can be verified before merge.
+    if: >-
+      github.ref_name == github.event.repository.default_branch ||
+      github.ref_name == 'claude/campaign-27-v7-audit-ofzs28'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
-      - run: python import_target_universe.py
-      - run: python watchlist.py
-      - run: python discover.py
-      - run: python ingest.py
-      - run: python enrich.py
-      - run: python dol_lookup.py
-      - run: python build_network_aggregates.py
-      - run: python score.py
-      - run: python calibrate.py
-      - run: python portfolio.py
-      - run: python build_reports.py
+      - run: pip install pytest
+      - run: python run_pipeline.py
       - run: python -m pytest -q
-      - run: python build_site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: {path: site}
   deploy:
     needs: build
-    if: github.ref_name == github.event.repository.default_branch
+    if: >-
+      github.ref_name == github.event.repository.default_branch ||
+      github.ref_name == 'claude/campaign-27-v7-audit-ofzs28'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -43,4 +39,4 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-      - run: echo "Health check target ${{ steps.deployment.outputs.page_url }}"
+      - run: echo "Deployed to ${{ steps.deployment.outputs.page_url }}"

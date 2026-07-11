@@ -1,3 +1,9 @@
 # Campaign 27 Design
 
-Mobile-first static HTML/CSS/JS with no framework. The layout uses large typographic hierarchy, generous card spacing, sticky horizontal tabs, accessible focus rings, high-contrast light/dark color tokens, reduced-motion support, and no horizontal overflow. The restrained accent color highlights primary actions without implying rankings. Skeleton loading prevents blank-screen perception while JSON loads.
+Single-file, framework-free static viewer. Confident large typography, generous
+whitespace, one restrained accent, scroll-triggered reveals (IntersectionObserver),
+custom easing, skeleton loading, theme-aware (light/dark, respects and overrides
+the system preference), reduced-motion support, mobile-first with a thumb-scrollable
+sticky nav and no horizontal overflow. The accent highlights actions and tiers but
+never implies a ranking — postings are grouped by eligibility state and fit tier,
+listed alphabetically within a tier, with no point rank anywhere.
