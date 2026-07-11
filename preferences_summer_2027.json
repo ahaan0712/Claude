@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.1",
+  "search_scope": {
+    "target_term": "Summer 2027",
+    "employment_type": "Internship",
+    "candidate_level": "Undergraduate",
+    "expected_graduation": "May 2028",
+    "country": "United States",
+    "exclude_full_time_roles": true,
+    "exclude_new_grad_roles": true,
+    "exclude_coops_unless_summer_only": true,
+    "exclude_part_time_academic_year_roles": true
+  },
+  "primary_objective": "Find and rank Summer 2027 internships where Ahaan is legally eligible as an F-1 student, is a strong match for the actual work, and has a realistic chance of receiving an interview.",
+  "target_roles": {
+    "primary": [
+      "Data Analyst Intern",
+      "Data Analytics Intern",
+      "Data Science Intern",
+      "Business Intelligence Intern",
+      "Business Analytics Intern"
+    ],
+    "acceptable_adjacent": [
+      "Analytics Intern",
+      "Customer Analytics Intern",
+      "Marketing Analytics Intern",
+      "Growth Analytics Intern",
+      "Sales Analytics Intern",
+      "Operations Analytics Intern",
+      "Research Analyst Intern",
+      "Economic Research Intern",
+      "Economics Intern",
+      "Decision Science Intern"
+    ],
+    "only_when_clearly_data_focused": [
+      "Product Analytics Intern",
+      "Strategy and Analytics Intern",
+      "Consulting Analytics Intern",
+      "Risk Analytics Intern"
+    ],
+    "exclude": [
+      "Quantitative Analyst Intern",
+      "Quantitative Research Intern",
+      "Quantitative Trading Intern",
+      "Quant Developer Intern",
+      "Trading Intern",
+      "Investment Banking Intern",
+      "Actuarial Intern",
+      "Software Engineering Intern",
+      "Software Developer Intern",
+      "Hardware Engineering Intern",
+      "IT Support Intern",
+      "Cybersecurity Intern",
+      "Graduate Research Intern",
+      "MBA Intern"
+    ],
+    "title_policy": "Do not broaden the feed merely because a title contains 'analyst'. The role must be materially centered on data analysis, data science, business intelligence, statistical analysis, dashboards, experimentation, forecasting, customer analytics, or closely related work."
+  },
+  "role_content_requirements": {
+    "strong_positive_signals": [
+      "Python",
+      "SQL",
+      "R",
+      "Tableau",
+      "Power BI",
+      "pandas",
+      "NumPy",
+      "Data visualization",
+      "Statistical analysis",
+      "Machine learning",
+      "Forecasting",
+      "Customer segmentation",
+      "Business intelligence",
+      "Dashboarding",
+      "Exploratory data analysis",
+      "Experimentation",
+      "Consumer or customer analytics"
+    ],
+    "negative_signals": [
+      "Primarily software engineering",
+      "Primarily financial modeling or securities trading",
+      "Primarily actuarial work",
+      "Primarily hardware or embedded systems",
+      "Primarily sales with little analytical work",
+      "Graduate-degree requirement",
+      "More than two years of full-time professional experience required"
+    ]
+  },
+  "work_authorization": {
+    "status": "F-1 international student",
+    "summer_internship_authorization": "CPT",
+    "future_sponsorship_needed": true,
+    "posting_level_evidence_controls": true,
+    "company_sponsorship_history_is_supporting_only": true,
+    "rules": [
+      {
+        "condition": "Posting explicitly accepts CPT or says candidates with current student work authorization may apply",
+        "result": "ELIGIBLE, subject to all other requirements"
+      },
+      {
+        "condition": "Posting is silent or ambiguous about CPT and future sponsorship",
+        "result": "VERIFY"
+      },
+      {
+        "condition": "Posting says no sponsorship now or in the future, no immigration support, or permanent unrestricted U.S. work authorization required",
+        "result": "SKIP"
+      },
+      {
+        "condition": "Posting requires U.S. citizenship, permanent residency, security clearance, ITAR status, or export-control status Ahaan does not hold",
+        "result": "SKIP"
+      },
+      {
+        "condition": "Company has H-1B/LCA history but posting language is restrictive",
+        "result": "SKIP; posting language overrides company history"
+      },
+      {
+        "condition": "Company lacks discovered H-1B/LCA history and posting is otherwise open",
+        "result": "VERIFY rather than automatic rejection"
+      }
+    ]
+  },
+  "industry_preferences": {
+    "preferred": [
+      "Technology",
+      "Fintech and payments",
+      "Banking and financial services",
+      "Consumer technology",
+      "Retail and e-commerce",
+      "Media and entertainment technology",
+      "Healthcare analytics",
+      "Education technology",
+      "Economic research and consulting",
+      "General analytics consulting",
+      "Nonprofit and mission-driven organizations"
+    ],
+    "hard_exclude": [
+      "Defense and weapons",
+      "Insurance",
+      "Industrial manufacturing",
+      "Energy",
+      "Oil and gas",
+      "Utilities",
+      "Airlines and aviation",
+      "Hospitality",
+      "Hotels",
+      "Travel operations"
+    ],
+    "classification_rule": "Classify the actual business unit and internship, not only the parent company. Still exclude a role when its work is directly tied to a hard-excluded industry."
+  },
+  "geography": {
+    "relocation": "Open to relocating anywhere in the United States for a strong internship",
+    "preferred_regions": [
+      "Virginia and Washington, DC metro",
+      "New York City",
+      "Boston",
+      "Chicago",
+      "Seattle",
+      "San Francisco Bay Area",
+      "Austin",
+      "Dallas-Fort Worth",
+      "Atlanta",
+      "Charlotte",
+      "Raleigh-Durham",
+      "Philadelphia",
+      "Baltimore",
+      "Pittsburgh",
+      "Columbus",
+      "Minneapolis-St. Paul",
+      "Denver",
+      "Los Angeles",
+      "San Diego",
+      "Nashville",
+      "Memphis",
+      "Remote within the United States"
+    ],
+    "ranking_weight": "Moderate tie-breaker only"
+  },
+  "ranking_order": [
+    "Posting-level legal and work-authorization eligibility",
+    "Summer 2027 and undergraduate eligibility",
+    "Realistic interview or recruiter-response outlook",
+    "Direct fit for data analyst, data analytics, data science, BI, or business analytics work",
+    "Future sponsorship viability",
+    "Posting freshness and application urgency",
+    "Return-offer potential and long-term analytics career value",
+    "Industry preference",
+    "Location"
+  ],
+  "output_policy": {
+    "eligibility_labels": [
+      "ELIGIBLE",
+      "VERIFY",
+      "SKIP"
+    ],
+    "fit_labels": [
+      "STRONG MATCH",
+      "GOOD MATCH",
+      "ADJACENT",
+      "WEAK MATCH"
+    ],
+    "response_labels": [
+      "HIGHER RESPONSE OUTLOOK",
+      "COMPETITIVE",
+      "LONG SHOT",
+      "INSUFFICIENT EVIDENCE"
+    ],
+    "no_fake_probabilities": true,
+    "required_explanations": [
+      "Why the role is or is not a Summer 2027 undergraduate internship",
+      "Why the work matches Ahaan's data background",
+      "Exact work-authorization evidence",
+      "Missing qualifications",
+      "Posting freshness",
+      "Why it ranks where it does",
+      "What must be verified before applying"
+    ]
+  }
+}

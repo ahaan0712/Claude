@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.1",
+  "last_verified_from_resume": "Ahaan Anand Resume 2027.docx",
+  "profile_owner": {
+    "name": "Ahaan Anand",
+    "phone": "+1 253-486-0794",
+    "email": "ahaan07@vt.edu",
+    "linkedin": "linkedin.com/in/ahaan-anand",
+    "location": "Blacksburg, VA",
+    "student_status": "F-1 international student"
+  },
+  "education": [
+    {
+      "institution": "Virginia Tech",
+      "degrees": [
+        "B.S. Computational Modeling & Data Analytics",
+        "B.S. Economics"
+      ],
+      "program_type": "Double major",
+      "expected_graduation": "May 2028",
+      "location": "Blacksburg, VA",
+      "gpa": 3.31,
+      "deans_list": [
+        "Fall 2025",
+        "Spring 2026"
+      ],
+      "coursework": [
+        "Probability & Statistics",
+        "Linear Algebra",
+        "Software Design & Data Structures",
+        "Intermediate Microeconomics"
+      ]
+    }
+  ],
+  "work_authorization": {
+    "current_status": "F-1",
+    "summer_2027_internship_authorization": "CPT required",
+    "company_must_accept_cpt": true,
+    "future_sponsorship_needed": true,
+    "future_path": [
+      "OPT",
+      "STEM OPT if degree eligibility and current regulations permit",
+      "Employer-sponsored work authorization such as H-1B"
+    ],
+    "decision_rules": {
+      "exact_posting_controls": true,
+      "company_h1b_history_is_supporting_evidence_only": true,
+      "unknown_work_authorization_language": "VERIFY",
+      "explicit_no_sponsorship_now_or_future": "SKIP",
+      "citizenship_clearance_or_permanent_work_authorization_requirement": "SKIP"
+    }
+  },
+  "experience": [
+    {
+      "organization": "ALSAC / St. Jude Children's Research Hospital",
+      "role": "Data Science & Insights Intern",
+      "dates": "May 2026 \u2013 Aug 2026",
+      "location": "Memphis, TN",
+      "evidence": [
+        "Conducted exploratory data analysis in SQL and Python on donor datasets covering 30M+ individuals",
+        "Combined first-party and third-party data to identify donor-behavior patterns",
+        "Built and presented Tableau dashboards for donor-engagement strategy",
+        "Worked with donor-propensity models on DataRobot AutoML across 20+ algorithm types",
+        "Selected as 1 of 58 interns nationwide"
+      ],
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "DataRobot",
+        "Exploratory data analysis",
+        "Propensity modeling",
+        "Stakeholder presentation"
+      ]
+    },
+    {
+      "organization": "Mankind Pharma (Manforce)",
+      "role": "Data Analytics Intern \u2014 E-commerce & Growth Division",
+      "dates": "Jul 2025 \u2013 Aug 2025",
+      "location": "New Delhi, India",
+      "evidence": [
+        "Analyzed consumer datasets, competitor benchmarks, and social-sentiment data in Python and R",
+        "Identified expansion opportunities for a premium product line",
+        "Recommendations were approved by the Vice President and advanced to R&D"
+      ],
+      "skills": [
+        "Python",
+        "R",
+        "Consumer analytics",
+        "Competitive analysis",
+        "Social sentiment analysis",
+        "Growth analytics"
+      ]
+    },
+    {
+      "organization": "Kajaria Ceramics",
+      "role": "Sales Analytics Intern",
+      "dates": "May 2025 \u2013 Jun 2025",
+      "location": "New Delhi, India",
+      "evidence": [
+        "Built seasonal demand forecasts and consumer-behavior models in R and Python",
+        "Supported pricing strategy and regional sales planning",
+        "Conducted customer segmentation identifying high-value groups",
+        "Findings informed marketing campaigns and a new product launch"
+      ],
+      "skills": [
+        "R",
+        "Python",
+        "NumPy",
+        "Matplotlib",
+        "Demand forecasting",
+        "Customer segmentation",
+        "Pricing analytics"
+      ]
+    }
+  ],
+  "leadership": [
+    {
+      "organization": "Housing & Residence Life, Virginia Tech",
+      "role": "Well-Being Student Leader (Incoming)",
+      "dates": "Aug 2026 \u2013 May 2027",
+      "location": "Blacksburg, VA",
+      "evidence": [
+        "Selected as 1 of approximately 90 from approximately 900 applicants",
+        "Will lead well-being programming, crisis response, and community development"
+      ]
+    },
+    {
+      "organization": "Sigma Tau Gamma Fraternity",
+      "role": "Brother",
+      "dates": "Needs confirmation",
+      "note": "Resume still contains placeholder '[join term]'."
+    }
+  ],
+  "research_and_publications": [
+    {
+      "organization": "Department of Economics, Virginia Tech",
+      "role": "Economics Research Assistant \u2014 Prof. T. Nicolaus Tideman (Incoming)",
+      "dates": "Fall 2026",
+      "evidence": [
+        "Selected to replicate and test the robustness of Killingsworth, Kahneman & Mellers (PNAS, 2023)",
+        "Will re-examine the income-happiness relationship using original study data"
+      ]
+    },
+    {
+      "organization": "Gray Undergraduate Research Program, Virginia Tech",
+      "role": "Undergraduate Researcher",
+      "project": "Dread Maestro",
+      "dates": "Aug 2025 \u2013 May 2026",
+      "evidence": [
+        "Trained and evaluated machine learning models on human-motion datasets",
+        "Contributed to gesture-recognition and motion-tracking workflows on a six-person team"
+      ]
+    },
+    {
+      "title": "Predicting the Success of a Movie Using Machine Learning Algorithms",
+      "publication": "IJFMR",
+      "year": 2023,
+      "evidence": [
+        "Built a Random Forest model predicting IMDb ratings of unreleased films",
+        "Reported approximately 75% accuracy"
+      ]
+    },
+    {
+      "title": "Economic Trends in the Indian Handmade Paper Industry",
+      "publication": "IJFMR",
+      "year": 2023,
+      "evidence": [
+        "Analyzed employment, exports, and GDP contribution"
+      ]
+    }
+  ],
+  "technical_skills": {
+    "languages": [
+      "Python",
+      "R",
+      "SQL",
+      "Java"
+    ],
+    "libraries_and_tools": [
+      "Tableau",
+      "pandas",
+      "NumPy",
+      "Matplotlib",
+      "DataRobot",
+      "Microsoft Excel"
+    ],
+    "methods": [
+      "Machine Learning",
+      "Statistical Modeling",
+      "Demand Forecasting",
+      "Customer Segmentation",
+      "Data Visualization"
+    ]
+  },
+  "target_search": {
+    "employment_type": "Summer 2027 internship",
+    "degree_level": "Undergraduate",
+    "graduation_date": "May 2028",
+    "target_role_families": [
+      "Data Analytics",
+      "Business Intelligence",
+      "Product Analytics",
+      "Business Analytics",
+      "Data Science",
+      "Economic Consulting",
+      "Research Analytics",
+      "Strategy and Analytics"
+    ]
+  },
+  "facts_needing_confirmation": [
+    "Sigma Tau Gamma join term",
+    "Whether to include phone and email in a public repository",
+    "Whether STEM OPT eligibility should be represented as confirmed or only potential",
+    "Any third publication not listed on the current resume"
+  ]
+}
