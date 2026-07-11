@@ -21,3 +21,8 @@ site/
 __pycache__/
 .pytest_cache/
 /*.csv
+# private LinkedIn export and recovered source workbooks (derived JSON is committed)
+data/linkedin_export/
+_recovered/
+# authoritative company source IS committed (CI-reproducible); un-ignore it
+!authoritative_target_companies.csv

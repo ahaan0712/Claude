@@ -1,4 +1,5 @@
 {
+  "generated_at": "2026-07-11T22:55:15+00:00",
   "lanes": [
     {
       "applications": 0,
@@ -7,7 +8,12 @@
       "interviews": 0,
       "outcomes": 0,
       "outcomes_needed_for_calibration": 20,
-      "role_family": "DATA_ANALYTICS"
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.045,
+      "prior_logit_sd": 0.8,
+      "role_family": "DATA_ANALYTICS",
+      "v4_prior_lane": "Data Analytics"
     },
     {
       "applications": 0,
@@ -16,7 +22,12 @@
       "interviews": 0,
       "outcomes": 0,
       "outcomes_needed_for_calibration": 20,
-      "role_family": "DATA_SCIENCE"
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.03,
+      "prior_logit_sd": 0.95,
+      "role_family": "DATA_SCIENCE",
+      "v4_prior_lane": "Applied Data Science"
     },
     {
       "applications": 0,
@@ -25,7 +36,12 @@
       "interviews": 0,
       "outcomes": 0,
       "outcomes_needed_for_calibration": 20,
-      "role_family": "BUSINESS_INTELLIGENCE"
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.05,
+      "prior_logit_sd": 0.8,
+      "role_family": "BUSINESS_INTELLIGENCE",
+      "v4_prior_lane": "Business Intelligence"
     },
     {
       "applications": 0,
@@ -34,7 +50,12 @@
       "interviews": 0,
       "outcomes": 0,
       "outcomes_needed_for_calibration": 20,
-      "role_family": "BUSINESS_ANALYTICS"
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.045,
+      "prior_logit_sd": 0.8,
+      "role_family": "BUSINESS_ANALYTICS",
+      "v4_prior_lane": "Strategy / Business Analytics"
     },
     {
       "applications": 0,
@@ -43,9 +64,15 @@
       "interviews": 0,
       "outcomes": 0,
       "outcomes_needed_for_calibration": 20,
-      "role_family": "ADJACENT_ANALYTICS"
+      "posterior_logit_shift": 0.0,
+      "posterior_shift_sd": 1.0,
+      "prior_interview_rate": 0.035,
+      "prior_logit_sd": 0.9,
+      "role_family": "ADJACENT_ANALYTICS",
+      "v4_prior_lane": "Analytics Consulting"
     }
   ],
   "message": "Expected-interview estimates are not available yet. Log 20 outcomes in a role lane to enable calibration.",
+  "method": "V4 Bayesian logit-shift posterior (legacy/ahaan_model_v4_update.py). Probabilities are withheld until a lane reaches 20 logged outcomes.",
   "threshold": 20
 }

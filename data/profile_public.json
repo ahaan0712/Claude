@@ -1,0 +1,42 @@
+{
+  "core_skills": [
+    "python",
+    "sql",
+    "r",
+    "tableau",
+    "excel",
+    "numpy",
+    "matplotlib",
+    "pandas",
+    "machine learning",
+    "forecasting",
+    "segmentation",
+    "exploratory data analysis",
+    "statistics",
+    "regression",
+    "dashboard",
+    "econometrics",
+    "data visualization",
+    "predictive modeling",
+    "automl",
+    "a/b testing"
+  ],
+  "gpa": 3.31,
+  "grad_month": "2028-05",
+  "majors": [
+    "Computational Modeling & Data Analytics",
+    "Economics"
+  ],
+  "name": "Ahaan Anand",
+  "resume_parsed": true,
+  "role_families": [
+    "ADJACENT_ANALYTICS",
+    "BUSINESS_ANALYTICS",
+    "BUSINESS_INTELLIGENCE",
+    "DATA_ANALYTICS",
+    "DATA_SCIENCE"
+  ],
+  "school": "Virginia Tech",
+  "visa_status": "F-1",
+  "work_auth_summer_2027": "CPT"
+}

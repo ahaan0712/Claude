@@ -1,60 +1,56 @@
-# Ahaan Anand Summer 2027 Internship Recommendation Engine — Phase 1
+# Campaign 27 — Summer 2027 Internship Matcher (V7.1)
 
-This repository now serves a static GitHub Pages-compatible personalized recommendation feed for Ahaan Anand's Summer 2027 undergraduate analytics internship search.
+A posting-level internship matcher for Ahaan Anand (F-1 international student,
+Virginia Tech CMDA + Economics, May 2028, targeting analytics / BI / data
+science / economic-consulting internships for Summer 2027).
 
-## What Phase 1 does
+The unit of prediction is **one exact posting**, never a company. Eligibility
+is a **hard gate**, fit is a **grouped tier** (never a point rank), and **no
+interview probability is published** until it is calibrated against real logged
+outcomes. The headline is a portfolio curve — *apply to top N postings →
+expected interviews* — with honest, wide uncertainty bands.
 
-`score.py` reads `data/postings.json`, `profile_verified_from_resume.json`, and optional `data/dol_lookup.json`, then writes `data/matches.json` using the required normalized posting schema. The engine is deliberately cold-start and explainable:
+## Pipeline (`python run_pipeline.py`)
 
-1. deterministic hard gates for Summer 2027 undergraduate scope, graduation-window compatibility, work authorization, role relevance, and hard-excluded industries;
-2. strict exclusion of quant, trading, SWE, hardware, IT support, cybersecurity, incompatible authorization, clearance, ITAR/export-control, and excluded-industry roles;
-3. role-family confidence for Data Analyst, Data Analytics, Data Science, Business Intelligence, and Business Analytics, with limited adjacent analytics families;
-4. verified skill and résumé evidence matching from Ahaan's résumé/profile;
-5. BM25 lexical similarity as one normalized signal, not the whole system;
-6. visible sponsorship uncertainty: posting-level language controls, company history is supporting evidence only;
-7. freshness and application urgency labels;
-8. final application priority labels instead of interview probabilities.
+Heavy computation lives in scripts writing JSON to `data/`; the frontend is a
+thin static viewer that recomputes nothing.
 
-## Cold-start scoring configuration
+| Stage | Script | Output |
+|-------|--------|--------|
+| 1. Companies | `build_companies.py` | `companies.json`, `company_diff.json` — the 162-company universe from `authoritative_target_companies.csv`, plus the old-vs-new diff |
+| 2. Profile | `build_profile.py` | `profile.json` — resume (.docx) + LinkedIn skills, PII-stripped |
+| 3. Postings | `ingest.py` | `postings_raw.json` — real Summer-2027 tracker postings, source-tagged, deduped by company+role+month |
+| 4. Network | `build_network_aggregates.py` | `network_aggregates.json` — company-level LinkedIn connection signal (aggregate only) |
+| 5. DOL | `dol_lookup.py` | `dol_lookup.json` — sponsorship history (supporting evidence only; UNKNOWN on failure, never a fabricated NONE) |
+| 6. Model | `score.py` + `model.py` | `matches.json`, `model_report.json` — eligibility gate + fit-model bake-off + grouped matches |
+| 7. Calibrate | `calibrate.py` | `lane_calibration.json` — V4 Bayesian posterior (PRIOR_ONLY until 20 outcomes/lane) |
+| 8. Portfolio | `portfolio.py` | `portfolio.json` — the headline expected-interview curve |
+| 9. Site | `build_site.py` | `site/` — sanitized static viewer |
 
-The temporary Phase 1 weights live in `PHASE1_WEIGHTS` inside `score.py`:
+## The fit model (chosen for robustness, not accuracy)
 
-- role fit: 0.30
-- verified skill match: 0.22
-- BM25 lexical similarity: 0.16
-- response-outlook signal: 0.14
-- sponsorship support: 0.07
-- freshness: 0.07
-- industry preference: 0.04
+Because there are **zero logged outcomes**, real-world accuracy is unmeasurable.
+`score.py` runs a bake-off of 3 fit scorers (`tfidf_resume`, `skill_overlap`,
+`role_family`) × 3 combiners (`additive`, `multiplicative`, `lexicographic`)
+and auto-selects the candidate that minimises a robustness cost:
 
-Eligibility and Summer 2027 scope are hard gates before ranking. These weights are not a validated probability model and should be recalibrated only after Ahaan has real application outcomes.
+- **tier-flip instability** under bootstrap input perturbation,
+- **Pareto violations** (ranking a dominated posting above its dominator),
+- **auxiliary-feature dominance** (a timing/network/access feature silently
+  controlling the order — the V6 "Claude prior" failure mode), and
+- **poor discrimination** (collapsing every posting into one tier).
 
-## Static frontend
+The current winner and the full scoreboard live in `data/model_report.json`.
 
-`index.html` renders `data/matches.json` as a personalized internship feed. It supports filters for Apply Now, Eligible, Verify First, the five primary role families, Saved, and Applied. Application tracking is stored in browser `localStorage` using these statuses: saved, dismissed, applied, online_assessment, recruiter_screen, interview, final_round, rejected, offer, withdrawn.
+## Private inputs
 
-## Data limitations
+Resume `.docx`, the LinkedIn export (`data/linkedin_export/`), and the target
+workbook are git-ignored. Each stage falls back to committed JSON when its
+private input is absent, so CI/Pages re-runs never clobber good data.
 
-The current source feed contains limited posting descriptions, so many entries correctly become `VERIFY` or `SKIP`. Company-level H-1B/LCA history never proves CPT acceptance for a specific internship. The next data-quality step is to enrich postings with full descriptions and application-question evidence from source pages.
-
-## Development
-
-Run scoring:
+## Develop
 
 ```bash
-python score.py --as-of 2026-07-11
+python run_pipeline.py     # full pipeline -> data/ + site/
+python -m pytest -q        # invariant tests (hard gate, no ranks/probabilities, PII-safe)
 ```
-
-Run tests:
-
-```bash
-python -m pytest -q
-```
-
-## Phase 2 plan
-
-- Add a human review file for recommendation labels and verification decisions.
-- Export application outcomes from localStorage into `data/outcomes.csv`.
-- Add posting-description ingestion from job pages where permitted.
-- Calibrate response-outlook tiers after enough real outcomes exist.
-- Consider gradient-boosted learning-to-rank, Bayesian calibration, and portfolio optimization only after validated labels are available.

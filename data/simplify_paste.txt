@@ -1,6 +1,0 @@
-# Paste rows copied from Simplify here, one posting per line.
-# Tab-separated (straight paste from the Simplify table) or pipe-separated both work:
-#   Company \t Role \t Location \t Date \t URL
-#   Company | Role | Location | URL | Date
-#
-# Lines starting with # are ignored. Delete this header block once you have real rows.

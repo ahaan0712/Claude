@@ -1,13 +1,15 @@
-# Campaign 27 Product Spec
+# Campaign 27 Product Spec (V7.1)
 
-Campaign 27 is an XLSX-first Summer 2027 undergraduate internship campaign assistant for Ahaan Anand. The curated target workbook is the primary universe; public trackers are supplemental discovery inputs only.
+A posting-level Summer 2027 internship matcher for Ahaan Anand.
 
-## Principles
-- Preserve target companies/programs even when no live posting is open.
-- Evaluate posting-level eligibility before fit.
-- Use transparent fit tiers, not point ranks or interview probabilities.
-- Keep LinkedIn/network data privacy-safe and aggregate-only.
-- Build and deploy only a sanitized static site.
+## Non-negotiables
+- Unit of prediction is ONE EXACT POSTING, never a company.
+- Eligibility is a HARD GATE (posting language), not a weighted score.
+- No interview probability is published until a lane has 20+ logged outcomes; everything else is PRIOR_ONLY and labelled.
+- No point ranks. Group by eligibility state + fit tier only.
+- Headline is a portfolio curve (apply to top N → expected interviews) with honest bands.
+- Heavy computation stays in scripts writing JSON; the frontend is a thin viewer.
 
-## Views
-Dashboard, Target Programs, Company Watchlist, Live Matches, Review Queue, Extra Discoveries, Saved, Applications, Network, and Coverage.
+## Sections
+Portfolio (headline curve), Matches (grouped, never ranked), Model (robustness bake-off),
+Companies (162 target list), Network (LinkedIn layer), Method (ground rules).

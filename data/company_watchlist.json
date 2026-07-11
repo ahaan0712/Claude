@@ -1,3322 +1,1622 @@
 [
   {
-    "aliases": [
-      "Accenture"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "accenture",
-    "career_page_url": null,
-    "company": "Accenture",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "accenture-1013446c",
-      "accenture-a1238962"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Adobe"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "adobe",
-    "career_page_url": null,
-    "company": "Adobe",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "adobe-6ca4d876"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Airbnb"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "airbnb",
-    "career_page_url": null,
-    "company": "Airbnb",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "airbnb-194b3149"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "ALSAC / St. Jude"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "alsac-st-jude",
-    "career_page_url": null,
+    "aliases": [],
+    "canonical_company_id": "alsac_st_jude",
+    "career_page_url": "https://www.stjude.org/jobs",
+    "category": "Nonprofit",
     "company": "ALSAC / St. Jude",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "alsac-st-jude-4561d518"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Spring 2027 for returners",
+    "intl_friendly_level": "STRONG",
+    "notes": "YOUR #1 EASIEST WIN: crush this summer, ask about return offers / referrals in your final weeks."
   },
   {
-    "aliases": [
-      "Amazon"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "amazon",
-    "career_page_url": null,
-    "company": "Amazon",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "amazon-7e875307"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "AMD"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "amd",
-    "career_page_url": null,
-    "company": "AMD",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "amd-225fd367"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "American Express"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "american-express",
-    "career_page_url": null,
-    "company": "American Express",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "american-express-7f12b95e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Analysis Group"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "analysis-group",
-    "career_page_url": null,
-    "company": "Analysis Group",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "analysis-group-c3a83a20",
-      "analysis-group-c0b9523a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Anthropic"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "anthropic",
-    "career_page_url": null,
-    "company": "Anthropic",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "anthropic-d49c37ef"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Appian"
-    ],
-    "ats_provider": "UNKNOWN",
+    "aliases": [],
     "canonical_company_id": "appian",
-    "career_page_url": null,
+    "career_page_url": "https://careers.appian.com/",
+    "category": "Tech (VA, VT pipeline)",
     "company": "Appian",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "appian-9058bd15",
-      "appian-21a80e87"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "McLean VA software company, VT feeder (6 grads in snapshot), named in VEDP's VT talent-pipeline list."
   },
   {
-    "aliases": [
-      "Apple"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "apple",
-    "career_page_url": null,
-    "company": "Apple",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "apple-9b61a8fa"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "AstraZeneca"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "astrazeneca",
-    "career_page_url": null,
-    "company": "AstraZeneca",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "astrazeneca-f2a835ca"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Atlassian"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "atlassian",
-    "career_page_url": null,
-    "company": "Atlassian",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "atlassian-68ad31bc"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "AutoZone"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "autozone",
-    "career_page_url": null,
-    "company": "AutoZone",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "autozone-5741fb97",
-      "autozone-381c816e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Bain & Company"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "bain-and-company",
-    "career_page_url": null,
-    "company": "Bain & Company",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "bain-and-company-9bf380e4"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Bank of America"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "bank-of-america",
-    "career_page_url": null,
-    "company": "Bank of America",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "bank-of-america-1619ff77"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Barclays"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "barclays",
-    "career_page_url": null,
-    "company": "Barclays",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "barclays-38922086"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Bates White"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "bates-white",
-    "career_page_url": null,
-    "company": "Bates White",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "bates-white-caa12f19",
-      "bates-white-25f98f7e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Best Buy"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "best-buy",
-    "career_page_url": null,
-    "company": "Best Buy",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "best-buy-e2283950"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Big 4 truth for YOU specifically"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "big-4-truth-for-you-specifically",
-    "career_page_url": null,
-    "company": "Big 4 truth for YOU specifically",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "big-4-truth-for-you-specifically-89203c9a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "BlackRock"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "blackrock",
-    "career_page_url": null,
-    "company": "BlackRock",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "blackrock-83f1e7ae"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Block (Square/Cash App)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "block-square-cash-app",
-    "career_page_url": null,
-    "company": "Block (Square/Cash App)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "block-square-cash-app-a912954f"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Bloomberg"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "bloomberg",
-    "career_page_url": null,
-    "company": "Bloomberg",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "bloomberg-942e965b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Booking Holdings / Priceline"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "booking-holdings-priceline",
-    "career_page_url": null,
-    "company": "Booking Holdings / Priceline",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "booking-holdings-priceline-d7d14c9e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Booz Allen Hamilton"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "booz-allen-hamilton",
-    "career_page_url": null,
-    "company": "Booz Allen Hamilton",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "booz-allen-hamilton-22d866ca"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Boston Consulting Group"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "boston-consulting-group",
-    "career_page_url": null,
-    "company": "Boston Consulting Group",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "boston-consulting-group-95d0da0d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Brattle Group"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "brattle-group",
-    "career_page_url": null,
-    "company": "Brattle Group",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "brattle-group-a87a48a0",
-      "brattle-group-74324e8b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Brinker International (Chili's)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "brinker-international-chili-s",
-    "career_page_url": null,
-    "company": "Brinker International (Chili's)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "brinker-international-chili-s-2bc4537a",
-      "brinker-international-chili-s-243ea906"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Bristol Myers Squibb"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "bristol-myers-squibb",
-    "career_page_url": null,
-    "company": "Bristol Myers Squibb",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "bristol-myers-squibb-0b90f50a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Capital One"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "capital-one",
-    "career_page_url": null,
-    "company": "Capital One",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "capital-one-b470b5b1"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Capital One (VT pipeline note)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "capital-one-vt-pipeline-note",
-    "career_page_url": null,
-    "company": "Capital One (VT pipeline note)",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "capital-one-vt-pipeline-note-8e0da98d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Carilion Clinic"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "carilion-clinic",
-    "career_page_url": null,
-    "company": "Carilion Clinic",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "carilion-clinic-1d3b3b10",
-      "carilion-clinic-5a923a2a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "CarMax"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "carmax",
-    "career_page_url": null,
-    "company": "CarMax",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "carmax-e5ef324f",
-      "carmax-8d498a7b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "CGI"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "cgi",
-    "career_page_url": null,
-    "company": "CGI",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "cgi-1386f0e3",
-      "cgi-1bbaf424"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Charles River Associates"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "charles-river-associates",
-    "career_page_url": null,
-    "company": "Charles River Associates",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "charles-river-associates-7b9735ba",
-      "charles-river-associates-657e91b5"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Chewy"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "chewy",
-    "career_page_url": null,
-    "company": "Chewy",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "chewy-04cd691c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Cisco"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "cisco",
-    "career_page_url": null,
-    "company": "Cisco",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "cisco-3ad56411",
-      "cisco-2b80772c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Citi"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "citi",
-    "career_page_url": null,
-    "company": "Citi",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "citi-042efefe"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Coca-Cola"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "coca-cola",
-    "career_page_url": null,
-    "company": "Coca-Cola",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "coca-cola-5fff1917",
-      "coca-cola-b0432685"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Coinbase"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "coinbase",
-    "career_page_url": null,
-    "company": "Coinbase",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "coinbase-7c181545"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Colgate-Palmolive"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "colgate-palmolive",
-    "career_page_url": null,
-    "company": "Colgate-Palmolive",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "colgate-palmolive-4e47a793",
-      "colgate-palmolive-87f55df9"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Compass Lexecon"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "compass-lexecon",
-    "career_page_url": null,
-    "company": "Compass Lexecon",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "compass-lexecon-6943d971",
-      "compass-lexecon-ad762b48"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Cornerstone Research"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "cornerstone-research",
-    "career_page_url": null,
-    "company": "Cornerstone Research",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "cornerstone-research-a3dd8dab",
-      "cornerstone-research-a58fce35"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Costco"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "costco",
-    "career_page_url": null,
-    "company": "Costco",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "costco-02e7f263"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Cvent"
-    ],
-    "ats_provider": "UNKNOWN",
+    "aliases": [],
     "canonical_company_id": "cvent",
-    "career_page_url": null,
+    "career_page_url": "https://www.cvent.com/en/careers",
+    "category": "Tech (VA, VT pipeline)",
     "company": "Cvent",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "cvent-82f4b9d5",
-      "cvent-84b8f93c"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Tysons VA; repeat VT employer (14 grads in one FDS cohort). Historically hires internationals."
   },
   {
-    "aliases": [
-      "CVS Health"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "cvs-health",
-    "career_page_url": null,
-    "company": "CVS Health",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "cvs-health-0b9c63be"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "analysis_group",
+    "career_page_url": "https://www.analysisgroup.com/careers/",
+    "category": "Econ Consulting",
+    "company": "Analysis Group",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Economic consulting = literally CMDA+Econ as a job. Sponsors. TOP fit."
   },
   {
-    "aliases": [
-      "Databricks"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "databricks",
-    "career_page_url": null,
-    "company": "Databricks",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "databricks-b4de6de0"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "cornerstone_research",
+    "career_page_url": "https://www.cornerstone.com/careers/",
+    "category": "Econ Consulting",
+    "company": "Cornerstone Research",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Same - econ consulting, sponsors, loves econ+data double majors."
   },
   {
-    "aliases": [
-      "Dell Technologies"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "dell-technologies",
-    "career_page_url": null,
-    "company": "Dell Technologies",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "dell-technologies-e134b497"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "charles_river_associates",
+    "career_page_url": "https://careers.crai.com/students",
+    "category": "Econ Consulting",
+    "company": "Charles River Associates",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Same. TOP fit."
   },
   {
-    "aliases": [
-      "Deloitte"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "deloitte",
-    "career_page_url": null,
-    "company": "Deloitte",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "deloitte-ba26634a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Deloitte-alternative: FTI Consulting"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "deloitte-alternative-fti-consulting",
-    "career_page_url": null,
-    "company": "Deloitte-alternative: FTI Consulting",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "deloitte-alternative-fti-consulting-64fee983"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Deutsche Bank"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "deutsche-bank",
-    "career_page_url": null,
-    "company": "Deutsche Bank",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "deutsche-bank-a86075d3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Discover"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "discover",
-    "career_page_url": null,
-    "company": "Discover",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "discover-56d3f55b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Disney"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "disney",
-    "career_page_url": null,
-    "company": "Disney",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "disney-8e5727f1"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Domino's"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "domino-s",
-    "career_page_url": null,
-    "company": "Domino's",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "domino-s-2ed36370",
-      "domino-s-64b67e77"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "DoorDash"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "doordash",
-    "career_page_url": null,
-    "company": "DoorDash",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "doordash-dda191b1",
-      "doordash-fd5bb15b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Duolingo"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "duolingo",
-    "career_page_url": null,
-    "company": "Duolingo",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "duolingo-061e6d66"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "eBay"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "ebay",
-    "career_page_url": null,
-    "company": "eBay",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "ebay-9bf73a55"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Edgeworth Economics"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "edgeworth-economics",
-    "career_page_url": null,
-    "company": "Edgeworth Economics",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "edgeworth-economics-d02679dc",
-      "edgeworth-economics-b997117c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Electronic Arts"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "electronic-arts",
-    "career_page_url": null,
-    "company": "Electronic Arts",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "electronic-arts-f1f6d7e7"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Eli Lilly"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "eli-lilly",
-    "career_page_url": null,
-    "company": "Eli Lilly",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "eli-lilly-04f4d587"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "ELIGIBILITY KILL-PHRASE (memorize)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "eligibility-kill-phrase-memorize",
-    "career_page_url": null,
-    "company": "ELIGIBILITY KILL-PHRASE (memorize)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "eligibility-kill-phrase-memorize-d6a800dc"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Epic Games"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "epic-games",
-    "career_page_url": null,
-    "company": "Epic Games",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "epic-games-055b10b7"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Epsilon"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "epsilon",
-    "career_page_url": null,
-    "company": "Epsilon",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "epsilon-5aee9eac",
-      "epsilon-1e550956"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Equifax"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "equifax",
-    "career_page_url": null,
-    "company": "Equifax",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "equifax-6c3abcd3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Est\u00e9e Lauder"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "est-e-lauder",
-    "career_page_url": null,
-    "company": "Est\u00e9e Lauder",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "est-e-lauder-5f09eb8a",
-      "est-e-lauder-3c087ae4"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Etsy"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "etsy",
-    "career_page_url": null,
-    "company": "Etsy",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "etsy-bdf6c4fa"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Expedia Group"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "expedia-group",
-    "career_page_url": null,
-    "company": "Expedia Group",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "expedia-group-99dee6f9"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Experian"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "experian",
-    "career_page_url": null,
-    "company": "Experian",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "experian-9b6930b3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "EY"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "ey",
-    "career_page_url": null,
-    "company": "EY",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "ey-ef0407d1"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Fannie Mae"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "fannie-mae",
-    "career_page_url": null,
-    "company": "Fannie Mae",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "fannie-mae-9c5e917e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "FedEx"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "fedex",
-    "career_page_url": null,
-    "company": "FedEx",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "fedex-fc246180",
-      "fedex-37b13ca5"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "FICO"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "fico",
-    "career_page_url": null,
-    "company": "FICO",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "fico-8620de2c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Fidelity"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "fidelity",
-    "career_page_url": null,
-    "company": "Fidelity",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "fidelity-3a62f88a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Gartner"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "gartner",
-    "career_page_url": null,
-    "company": "Gartner",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "gartner-09dc6077"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Genentech"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "genentech",
-    "career_page_url": null,
-    "company": "Genentech",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "genentech-02432196"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Goldman Sachs"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "goldman-sachs",
-    "career_page_url": null,
-    "company": "Goldman Sachs",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "goldman-sachs-846f3adc"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Google"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "google",
-    "career_page_url": null,
-    "company": "Google",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "google-8039f878"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "GPA strategy"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "gpa-strategy",
-    "career_page_url": null,
-    "company": "GPA strategy",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "gpa-strategy-d83117ad"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Grammarly"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "grammarly",
-    "career_page_url": null,
-    "company": "Grammarly",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "grammarly-8c5a4b95"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Home Depot"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "home-depot",
-    "career_page_url": null,
-    "company": "Home Depot",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "home-depot-455817ea"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "HP"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "hp",
-    "career_page_url": null,
-    "company": "HP",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "hp-2d21bffd"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "HSBC"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "hsbc",
-    "career_page_url": null,
-    "company": "HSBC",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "hsbc-f017792d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Humana"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "humana",
-    "career_page_url": null,
-    "company": "Humana",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "humana-bcd5a798"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "IBM"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "ibm",
-    "career_page_url": null,
-    "company": "IBM",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "ibm-97403715",
-      "ibm-c9fc67cd"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Instacart"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "instacart",
-    "career_page_url": null,
-    "company": "Instacart",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "instacart-34f3d52b",
-      "instacart-8857f6a4"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Intel"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "intel",
-    "career_page_url": null,
-    "company": "Intel",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "intel-964ea054"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Intuit"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "intuit",
-    "career_page_url": null,
-    "company": "Intuit",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "intuit-726c5538"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Johnson & Johnson"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "johnson-and-johnson",
-    "career_page_url": null,
-    "company": "Johnson & Johnson",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "johnson-and-johnson-303bbb47"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Kearney"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "kearney",
-    "career_page_url": null,
-    "company": "Kearney",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "kearney-fe6e5891"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "KPMG"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "kpmg",
-    "career_page_url": null,
-    "company": "KPMG",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "kpmg-fde811de"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Kroger / 84.51\u00b0"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "kroger-84-51",
-    "career_page_url": null,
-    "company": "Kroger / 84.51\u00b0",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "kroger-84-51-12992c63",
-      "kroger-84-51-fc70a925"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "L'Or\u00e9al"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "l-or-al",
-    "career_page_url": null,
-    "company": "L'Or\u00e9al",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "l-or-al-88be34fa",
-      "l-or-al-c209a802"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "LinkedIn"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "linkedin",
-    "career_page_url": null,
-    "company": "LinkedIn",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "linkedin-f8125527"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Lowe's"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "lowe-s",
-    "career_page_url": null,
-    "company": "Lowe's",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "lowe-s-a3fbc20f"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Lyft"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "lyft",
-    "career_page_url": null,
-    "company": "Lyft",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "lyft-3a8f962d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Mars"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "mars",
-    "career_page_url": null,
-    "company": "Mars",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "mars-d23f198c",
-      "mars-fff7eca8"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Mastercard"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "mastercard",
-    "career_page_url": null,
-    "company": "Mastercard",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "mastercard-fc7df5d3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Merck"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "merck",
-    "career_page_url": null,
-    "company": "Merck",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "merck-9e97104d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Meta"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "meta",
-    "career_page_url": null,
-    "company": "Meta",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "meta-8b11c458"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Microsoft"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "microsoft",
-    "career_page_url": null,
-    "company": "Microsoft",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "microsoft-50537f2e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Moody's"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "moody-s",
-    "career_page_url": null,
-    "company": "Moody's",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "moody-s-f02415f7"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "MSCI"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "msci",
-    "career_page_url": null,
-    "company": "MSCI",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "msci-a500a584"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "NERA Economic Consulting"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nera-economic-consulting",
-    "career_page_url": null,
+    "aliases": [],
+    "canonical_company_id": "nera_economic_consulting",
+    "career_page_url": "https://www.nera.com/careers.html",
+    "category": "Econ Consulting",
     "company": "NERA Economic Consulting",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nera-economic-consulting-dafb0d3b",
-      "nera-economic-consulting-f4650fac"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Same. TOP fit."
   },
   {
-    "aliases": [
-      "Nestl\u00e9"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nestl",
-    "career_page_url": null,
-    "company": "Nestl\u00e9",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nestl-ba00aa42",
-      "nestl-ef742069"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "brattle_group",
+    "career_page_url": "https://www.brattle.com/careers/",
+    "category": "Econ Consulting",
+    "company": "Brattle Group",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Same. TOP fit."
   },
   {
-    "aliases": [
-      "Netflix"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "netflix",
-    "career_page_url": null,
-    "company": "Netflix",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "netflix-eb048df6"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "compass_lexecon",
+    "career_page_url": "https://www.compasslexecon.com/careers",
+    "category": "Econ Consulting",
+    "company": "Compass Lexecon",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Same."
   },
   {
-    "aliases": [
-      "Nielsen / NielsenIQ"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nielsen-nielseniq",
-    "career_page_url": null,
-    "company": "Nielsen / NielsenIQ",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nielsen-nielseniq-96e87607",
-      "nielsen-nielseniq-0da2d784"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "bates_white",
+    "career_page_url": "https://www.bateswhite.com/careers.html",
+    "category": "Econ Consulting",
+    "company": "Bates White",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "DC-based; econ consulting."
   },
   {
-    "aliases": [
-      "Nike"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nike",
-    "career_page_url": null,
-    "company": "Nike",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nike-e305ef61",
-      "nike-81d959a3"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "domino_s",
+    "career_page_url": "https://jobs.dominos.com",
+    "category": "Consumer/Tech",
+    "company": "Domino's",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "ST. JUDE ANGLE: Domino's is one of St. Jude's largest corporate partners (nine-figure lifetime giving; Domino's Village sits on the St. Jude campus). A warm intro through your ALSAC network is a legitimately elite referral here. Also genuinely tech-forward - 'a tech company that sells pizza' - real DS org in Ann Arbor. Referral odds reflect warm-intro quality."
   },
   {
-    "aliases": [
-      "Novartis"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "novartis",
-    "career_page_url": null,
-    "company": "Novartis",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "novartis-186625f7"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "brinker_international_chili_s",
+    "career_page_url": "https://careers.brinker.com",
+    "category": "Consumer",
+    "company": "Brinker International (Chili's)",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "ST. JUDE ANGLE: Chili's has run one of the longest St. Jude campaigns in retail (nine-figure lifetime giving). Warm intro via ALSAC network = elite referral. Dallas HQ; restaurant analytics (pricing, loyalty, traffic forecasting) fits your consumer story."
   },
   {
-    "aliases": [
-      "Nutanix"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nutanix",
-    "career_page_url": null,
-    "company": "Nutanix",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nutanix-9fa26a57"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "autozone",
+    "career_page_url": "https://careers.autozone.com",
+    "category": "Retail",
+    "company": "AutoZone",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "MEMPHIS ANGLE: Fortune 500 HQ'd in Memphis - your ALSAC network overlaps its employee base heavily. Retail analytics org (pricing, inventory, loyalty)."
   },
   {
-    "aliases": [
-      "NVIDIA"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "nvidia",
-    "career_page_url": null,
-    "company": "NVIDIA",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "nvidia-5efdf42d"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "fedex",
+    "career_page_url": "https://careers.fedex.com/students",
+    "category": "Logistics/Tech",
+    "company": "FedEx",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "ST. JUDE + MEMPHIS ANGLE: title sponsor of the FedEx St. Jude Championship (PGA), HQ in Memphis where you are RIGHT NOW. Big data science org (network optimization, demand forecasting). Borderline vs your 'no old-style' filter - included for the network angle; veto if you want."
   },
   {
-    "aliases": [
-      "Oliver Wyman"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "oliver-wyman",
-    "career_page_url": null,
-    "company": "Oliver Wyman",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "oliver-wyman-d71a023e"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "carmax",
+    "career_page_url": "https://careers.carmax.com/students",
+    "category": "Retail/Tech (VA)",
+    "company": "CarMax",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Richmond VA; strong analytics org; verify."
   },
   {
-    "aliases": [
-      "OpenAI"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "openai",
-    "career_page_url": null,
-    "company": "OpenAI",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "openai-ff9f3f7d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Oracle"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "oracle",
-    "career_page_url": null,
-    "company": "Oracle",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "oracle-5dc1654d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Palantir"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "palantir",
-    "career_page_url": null,
-    "company": "Palantir",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "palantir-6f4ab047"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "PayPal"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "paypal",
-    "career_page_url": null,
-    "company": "PayPal",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "paypal-5d4e2c1a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "PepsiCo"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "pepsico",
-    "career_page_url": null,
-    "company": "PepsiCo",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "pepsico-01a99db0",
-      "pepsico-9c614228"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Pfizer"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "pfizer",
-    "career_page_url": null,
-    "company": "Pfizer",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "pfizer-b07d2f91",
-      "pfizer-f823e9f2"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Pinterest"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "pinterest",
-    "career_page_url": null,
-    "company": "Pinterest",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "pinterest-07deb1ac",
-      "pinterest-e02ede06"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Procter & Gamble"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "procter-and-gamble",
-    "career_page_url": null,
-    "company": "Procter & Gamble",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "procter-and-gamble-e62982c7"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "PwC"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "pwc",
-    "career_page_url": null,
-    "company": "PwC",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "pwc-c0cfcaff"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Qualcomm"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "qualcomm",
-    "career_page_url": null,
-    "company": "Qualcomm",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "qualcomm-43d831bf"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "RA + Sigma Tau Gamma"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "ra-sigma-tau-gamma",
-    "career_page_url": null,
-    "company": "RA + Sigma Tau Gamma",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "ra-sigma-tau-gamma-eb9205cb"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Reddit"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "reddit",
-    "career_page_url": null,
-    "company": "Reddit",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "reddit-79e657d1"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Referral script"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "referral-script",
-    "career_page_url": null,
-    "company": "Referral script",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "referral-script-0c9c3e9a"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Regeneron"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "regeneron",
-    "career_page_url": null,
-    "company": "Regeneron",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "regeneron-915235b9"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Robinhood"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "robinhood",
-    "career_page_url": null,
-    "company": "Robinhood",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "robinhood-cb3557e7"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Roblox"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "roblox",
-    "career_page_url": null,
-    "company": "Roblox",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "roblox-390a3c34"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "S&P Global"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "s-and-p-global",
-    "career_page_url": null,
-    "company": "S&P Global",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "s-and-p-global-ad3d39c5"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Salesforce"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "salesforce",
-    "career_page_url": null,
-    "company": "Salesforce",
-    "current_status": "No verified live posting yet; monitor target program",
-    "discovery_state": "CHECKED_MATCH_FOUND",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": "2026-07-11T17:28:23+00:00",
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "salesforce-ffa203fd"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Samsung Research America"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "samsung-research-america",
-    "career_page_url": null,
-    "company": "Samsung Research America",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "samsung-research-america-b849c00b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Scale AI"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "scale-ai",
-    "career_page_url": null,
-    "company": "Scale AI",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "scale-ai-b4e6a3d5"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "ServiceNow"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "servicenow",
-    "career_page_url": null,
-    "company": "ServiceNow",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "servicenow-fc411dc3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Shopify"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "shopify",
-    "career_page_url": null,
-    "company": "Shopify",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "shopify-8baa23d0"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Snap"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "snap",
-    "career_page_url": null,
-    "company": "Snap",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "snap-df4dc97e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Snowflake"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "snowflake",
-    "career_page_url": null,
-    "company": "Snowflake",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "snowflake-a434b86b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "So what do you actually do?"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "so-what-do-you-actually-do",
-    "career_page_url": null,
-    "company": "So what do you actually do?",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "so-what-do-you-actually-do-1be6043f"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Sony Interactive (PlayStation)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "sony-interactive-playstation",
-    "career_page_url": null,
-    "company": "Sony Interactive (PlayStation)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "sony-interactive-playstation-36ba3399"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Splunk (Cisco)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "splunk-cisco",
-    "career_page_url": null,
-    "company": "Splunk (Cisco)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "splunk-cisco-d0e73d47"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Spotify"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "spotify",
-    "career_page_url": null,
-    "company": "Spotify",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "spotify-b9bd29e1",
-      "spotify-1778487c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Stripe"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "stripe",
-    "career_page_url": null,
-    "company": "Stripe",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "stripe-38bd7fbb"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Target"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "target",
-    "career_page_url": null,
-    "company": "Target",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "target-50a9c41b"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Tesla"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "tesla",
-    "career_page_url": null,
-    "company": "Tesla",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "tesla-4abc1997"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "The one question that matters"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "the-one-question-that-matters",
-    "career_page_url": null,
-    "company": "The one question that matters",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "the-one-question-that-matters-d5bfbd61"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "TikTok"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "tiktok",
-    "career_page_url": null,
-    "company": "TikTok",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "tiktok-c8c8ad0e"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Timeline (it starts NOW)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "timeline-it-starts-now",
-    "career_page_url": null,
-    "company": "Timeline (it starts NOW)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "timeline-it-starts-now-0f3690ee"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "TransUnion"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "transunion",
-    "career_page_url": null,
-    "company": "TransUnion",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "transunion-3e044fd4"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Twilio"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "twilio",
-    "career_page_url": null,
-    "company": "Twilio",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "twilio-c9573e17"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Uber"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "uber",
-    "career_page_url": null,
-    "company": "Uber",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "uber-6ba742b9"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Unilever"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "unilever",
-    "career_page_url": null,
-    "company": "Unilever",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "unilever-d781cbbc",
-      "unilever-716fc3eb"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "UnitedHealth Group / Optum"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "unitedhealth-group-optum",
-    "career_page_url": null,
-    "company": "UnitedHealth Group / Optum",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "unitedhealth-group-optum-e60e519f"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "v3.1 - INTERVIEW-FIRST + SORTED"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "v3-1-interview-first-sorted",
-    "career_page_url": null,
-    "company": "v3.1 - INTERVIEW-FIRST + SORTED",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "v3-1-interview-first-sorted-acf35d04"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Vanguard"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "vanguard",
-    "career_page_url": null,
-    "company": "Vanguard",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "vanguard-beed45e6"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Visa"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "visa",
-    "career_page_url": null,
-    "company": "Visa",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "visa-f01a325d"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "VMware (Broadcom)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "vmware-broadcom",
-    "career_page_url": null,
-    "company": "VMware (Broadcom)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "vmware-broadcom-23dd85a3"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "VT PIPELINE (verified)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "vt-pipeline-verified",
-    "career_page_url": null,
-    "company": "VT PIPELINE (verified)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "vt-pipeline-verified-fe926b5c"
-    ],
-    "window_confidence": "INFERRED"
-  },
-  {
-    "aliases": [
-      "Walmart Global Tech"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "walmart-global-tech",
-    "career_page_url": null,
+    "aliases": [],
+    "canonical_company_id": "walmart_global_tech",
+    "career_page_url": "https://careers.walmart.com/us/students",
+    "category": "Retail/Tech",
     "company": "Walmart Global Tech",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "walmart-global-tech-935e89ac",
-      "walmart-global-tech-3117ccd2"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer. Huge DS org; retail+consumer behavior fit."
   },
   {
-    "aliases": [
-      "Wayfair"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "wayfair",
-    "career_page_url": null,
-    "company": "Wayfair",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "wayfair-cbd66d24",
-      "wayfair-a99b153b"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "nielsen_nielseniq",
+    "career_page_url": "https://nielseniq.com/global/en/careers/",
+    "category": "Data/Analytics",
+    "company": "Nielsen / NielsenIQ",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Consumer behavior measurement - literally your Mankind story. Sponsors."
   },
   {
-    "aliases": [
-      "Where to apply"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "where-to-apply",
-    "career_page_url": null,
-    "company": "Where to apply",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "where-to-apply-053a6609"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "carilion_clinic",
+    "career_page_url": "https://jobs.carilionclinic.org/",
+    "category": "Healthcare (VA)",
+    "company": "Carilion Clinic",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Roanoke - near Blacksburg; smaller = less competition."
   },
   {
-    "aliases": [
-      "Workday"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "workday",
-    "career_page_url": null,
-    "company": "Workday",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "workday-747bae9a"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "edgeworth_economics",
+    "career_page_url": "https://www.edgewortheconomics.com/careers",
+    "category": "Econ Consulting",
+    "company": "Edgeworth Economics",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Smaller; verify."
   },
   {
-    "aliases": [
-      "Your 3 priority lanes (revised)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "your-3-priority-lanes-revised",
-    "career_page_url": null,
-    "company": "Your 3 priority lanes (revised)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "your-3-priority-lanes-revised-5455af07"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "pfizer",
+    "career_page_url": "https://www.pfizer.com/about/careers/early-careers",
+    "category": "Pharma",
+    "company": "Pfizer",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer."
   },
   {
-    "aliases": [
-      "Your personal story (use it)"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "your-personal-story-use-it",
-    "career_page_url": null,
-    "company": "Your personal story (use it)",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "your-personal-story-use-it-9b1a3a5c"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "kroger_84_51",
+    "career_page_url": "https://www.8451.com/careers",
+    "category": "Retail/Data",
+    "company": "Kroger / 84.51\u00b0",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "84.51\u00b0 is Kroger's dedicated data-science subsidiary - retail/promotion analytics as the ENTIRE job. Perfect fit for your consumer story; known to hire DS interns; Cincinnati."
   },
   {
-    "aliases": [
-      "YOUR PORTFOLIO NUMBERS"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "your-portfolio-numbers",
-    "career_page_url": null,
-    "company": "YOUR PORTFOLIO NUMBERS",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "your-portfolio-numbers-0f59f859"
-    ],
-    "window_confidence": "INFERRED"
+    "aliases": [],
+    "canonical_company_id": "accenture",
+    "career_page_url": "https://www.accenture.com/us-en/careers/local/entry-level",
+    "category": "Consulting",
+    "company": "Accenture",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Sponsors for some tech tracks; verify per posting."
   },
   {
-    "aliases": [
-      "Zillow"
-    ],
-    "ats_provider": "UNKNOWN",
+    "aliases": [],
+    "canonical_company_id": "cgi",
+    "career_page_url": "https://cgi.com/en/careers/students",
+    "category": "Tech/Consulting (VT pipeline)",
+    "company": "CGI",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "13 grads in VT FDS data; big VA presence (Fairfax, Lebanon VA). Verify per posting - some federal work."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "ibm",
+    "career_page_url": "https://www.ibm.com/careers/internships",
+    "category": "Big Tech",
+    "company": "IBM",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Large intern program, hires internationals."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "cisco",
+    "career_page_url": "https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html",
+    "category": "Big Tech",
+    "company": "Cisco",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "doordash",
+    "career_page_url": "https://careers.doordash.com/university/",
+    "category": "Big Tech",
+    "company": "DoorDash",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "instacart",
+    "career_page_url": "https://instacart.careers/university-recruiting/",
+    "category": "Big Tech",
+    "company": "Instacart",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Has literal ECONOMICS intern roles some years - perfect fit."
+  },
+  {
+    "aliases": [],
     "canonical_company_id": "zillow",
-    "career_page_url": null,
+    "career_page_url": "https://www.zillow.com/careers/students/",
+    "category": "Big Tech",
     "company": "Zillow",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "zillow-92cf6384",
-      "zillow-b89535ca"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Housing econ + DS = your double major."
   },
   {
-    "aliases": [
-      "ZS Associates"
-    ],
-    "ats_provider": "UNKNOWN",
-    "canonical_company_id": "zs-associates",
-    "career_page_url": null,
+    "aliases": [],
+    "canonical_company_id": "spotify",
+    "career_page_url": "https://www.lifeatspotify.com/students",
+    "category": "Big Tech",
+    "company": "Spotify",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Consumer behavior angle fits you."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "pinterest",
+    "career_page_url": "https://www.pinterestcareers.com/en/students/",
+    "category": "Big Tech",
+    "company": "Pinterest",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Ads/consumer analytics fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "wayfair",
+    "career_page_url": "https://www.aboutwayfair.com/careers/early-career",
+    "category": "Big Tech",
+    "company": "Wayfair",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Retail analytics; sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "nike",
+    "career_page_url": "https://careers.nike.com/university",
+    "category": "Consumer",
+    "company": "Nike",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Consumer behavior fit; verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "pepsico",
+    "career_page_url": "https://www.pepsicojobs.com/main/students",
+    "category": "Consumer",
+    "company": "PepsiCo",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Consumer + your Mankind/Kajaria experience is a great story here."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "coca_cola",
+    "career_page_url": "https://careers.coca-colacompany.com/students",
+    "category": "Consumer",
+    "company": "Coca-Cola",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Same story fit; verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "nestl",
+    "career_page_url": "https://www.nestlejobs.com/students",
+    "category": "Consumer",
+    "company": "Nestl\u00e9",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "unilever",
+    "career_page_url": "https://careers.unilever.com/students",
+    "category": "Consumer",
+    "company": "Unilever",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify US roles."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "est_e_lauder",
+    "career_page_url": "https://www.elcompanies.com/en/careers/students-and-graduates",
+    "category": "Consumer",
+    "company": "Est\u00e9e Lauder",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Consumer behavior fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "l_or_al",
+    "career_page_url": "https://careers.loreal.com/en_US/students",
+    "category": "Consumer",
+    "company": "L'Or\u00e9al",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Beauty tech + marketing analytics fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "mars",
+    "career_page_url": "https://careers.mars.com/us/en/students",
+    "category": "Consumer",
+    "company": "Mars",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "colgate_palmolive",
+    "career_page_url": "https://jobs.colgate.com/students",
+    "category": "Consumer",
+    "company": "Colgate-Palmolive",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "epsilon",
+    "career_page_url": "https://www.epsilon.com/us/careers",
+    "category": "Data/Marketing",
+    "company": "Epsilon",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Marketing analytics fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "amazon",
+    "career_page_url": "https://amazon.jobs/en/teams/internships-for-students",
+    "category": "Big Tech",
+    "company": "Amazon",
+    "expected_recruiting_window": "Opens late Jul-Aug 2026 - FIRST big tech to post. Set alert TODAY.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Opens FIRST of all big tech. Check weekly starting NOW. Huge intern class, very international-friendly."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "johnson_and_johnson",
+    "career_page_url": "https://www.careers.jnj.com/en/students/",
+    "category": "Pharma/Consumer",
+    "company": "Johnson & Johnson",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; huge DS org."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "merck",
+    "career_page_url": "https://jobs.merck.com/us/en/students",
+    "category": "Pharma",
+    "company": "Merck",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "eli_lilly",
+    "career_page_url": "https://careers.lilly.com/us/en/early-career",
+    "category": "Pharma",
+    "company": "Eli Lilly",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; booming."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "genentech",
+    "career_page_url": "https://careers.gene.com/us/en/students",
+    "category": "Pharma",
+    "company": "Genentech",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "bristol_myers_squibb",
+    "career_page_url": "https://careers.bms.com/students",
+    "category": "Pharma",
+    "company": "Bristol Myers Squibb",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "astrazeneca",
+    "career_page_url": "https://careers.astrazeneca.com/students",
+    "category": "Pharma",
+    "company": "AstraZeneca",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "novartis",
+    "career_page_url": "https://www.novartis.com/careers/early-career",
+    "category": "Pharma",
+    "company": "Novartis",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "cvs_health",
+    "career_page_url": "https://jobs.cvshealth.com/us/en/students",
+    "category": "Healthcare",
+    "company": "CVS Health",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer; Aetna analytics."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "lyft",
+    "career_page_url": "https://www.lyft.com/careers/early-talent",
+    "category": "Big Tech",
+    "company": "Lyft",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Smaller class than Uber."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "airbnb",
+    "career_page_url": "https://careers.airbnb.com/university/",
+    "category": "Big Tech",
+    "company": "Airbnb",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Econ-flavored DS teams."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "zs_associates",
+    "career_page_url": "https://www.zs.com/careers/students",
+    "category": "Consulting",
     "company": "ZS Associates",
-    "current_status": "Target retained; no live fixture posting verified yet.",
-    "discovery_state": "EXPECTED_LATER",
-    "expected_recruiting_window": "Expected Summer/Fall 2026 recruiting for Summer 2027",
-    "last_checked": null,
-    "next_check_date": "2026-07-18",
-    "notes": "",
-    "status": "ACTIVE",
-    "target_program_ids": [
-      "zs-associates-1700d163"
-    ],
-    "window_confidence": "INFERRED"
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Analytics-first consulting; historically very international-friendly. HIGH-PRIORITY target for your profile."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "adobe",
+    "career_page_url": "https://www.adobe.com/careers/university.html",
+    "category": "Big Tech",
+    "company": "Adobe",
+    "expected_recruiting_window": "Aug-Sep 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT/OPT employer."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "intel",
+    "career_page_url": "https://intel.com/jobs/students",
+    "category": "Big Tech",
+    "company": "Intel",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Long history with CPT students."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "oracle",
+    "career_page_url": "https://www.oracle.com/careers/students-grads/",
+    "category": "Big Tech",
+    "company": "Oracle",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; large analytics org."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "salesforce",
+    "career_page_url": "https://www.salesforce.com/company/careers/university-recruiting/",
+    "category": "Big Tech",
+    "company": "Salesforce",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Futureforce program; Tableau roles too."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "linkedin",
+    "career_page_url": "https://careers.linkedin.com/students",
+    "category": "Big Tech",
+    "company": "LinkedIn",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "snap",
+    "career_page_url": "https://careers.snap.com/university",
+    "category": "Big Tech",
+    "company": "Snap",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "snowflake",
+    "career_page_url": "https://careers.snowflake.com/us/en/university",
+    "category": "Big Tech",
+    "company": "Snowflake",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Data-native company."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "intuit",
+    "career_page_url": "https://www.intuit.com/careers/students/",
+    "category": "Big Tech",
+    "company": "Intuit",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Strong intern program."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "servicenow",
+    "career_page_url": "https://careers.servicenow.com/early-career/",
+    "category": "Big Tech",
+    "company": "ServiceNow",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Growing fast."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "workday",
+    "career_page_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career",
+    "category": "Big Tech",
+    "company": "Workday",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "qualcomm",
+    "career_page_url": "https://www.qualcomm.com/company/careers/students",
+    "category": "Big Tech",
+    "company": "Qualcomm",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Heavy international hiring."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "amd",
+    "career_page_url": "https://careers.amd.com/students",
+    "category": "Big Tech",
+    "company": "AMD",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "ebay",
+    "career_page_url": "https://careers.ebayinc.com/students/",
+    "category": "Big Tech",
+    "company": "eBay",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Marketplace analytics."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "expedia_group",
+    "career_page_url": "https://careers.expediagroup.com/early-careers/",
+    "category": "Big Tech",
+    "company": "Expedia Group",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "atlassian",
+    "career_page_url": "https://www.atlassian.com/company/careers/students",
+    "category": "Big Tech",
+    "company": "Atlassian",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Remote-friendly."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "reddit",
+    "career_page_url": "https://redditinc.com/careers",
+    "category": "Big Tech",
+    "company": "Reddit",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Smaller class."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "duolingo",
+    "career_page_url": "https://careers.duolingo.com/students",
+    "category": "Big Tech",
+    "company": "Duolingo",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Founder-led, loves international talent."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "samsung_research_america",
+    "career_page_url": "https://sra.samsung.com/careers/",
+    "category": "Big Tech",
+    "company": "Samsung Research America",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "nutanix",
+    "career_page_url": "https://www.nutanix.com/company/careers/university",
+    "category": "Big Tech",
+    "company": "Nutanix",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "splunk_cisco",
+    "career_page_url": "https://www.splunk.com/en_us/careers/university-recruiting.html",
+    "category": "Big Tech",
+    "company": "Splunk (Cisco)",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "tesla",
+    "career_page_url": "https://www.tesla.com/careers/search/?type=3",
+    "category": "Auto/Tech",
+    "company": "Tesla",
+    "expected_recruiting_window": "Rolling year-round - check monthly.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer; posts continuously."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "visa",
+    "career_page_url": "https://corporate.visa.com/en/jobs/students.html",
+    "category": "Finance/Tech",
+    "company": "Visa",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; big DS intern class."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "mastercard",
+    "career_page_url": "https://careers.mastercard.com/us/en/students",
+    "category": "Finance/Tech",
+    "company": "Mastercard",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; consumer spend data = your niche."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "american_express",
+    "career_page_url": "https://www.americanexpress.com/en-us/careers/students/",
+    "category": "Finance/Tech",
+    "company": "American Express",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Big analytics org; sponsors. Decision science track."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "home_depot",
+    "career_page_url": "https://careers.homedepot.com/university/",
+    "category": "Retail",
+    "company": "Home Depot",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "lowe_s",
+    "career_page_url": "https://talent.lowes.com/us/en/students",
+    "category": "Retail",
+    "company": "Lowe's",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify; Charlotte tech hub."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "gartner",
+    "career_page_url": "https://jobs.gartner.com/students/",
+    "category": "Data/Analytics",
+    "company": "Gartner",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "experian",
+    "career_page_url": "https://www.experian.com/careers/students",
+    "category": "Data",
+    "company": "Experian",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "equifax",
+    "career_page_url": "https://careers.equifax.com/students",
+    "category": "Data",
+    "company": "Equifax",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "transunion",
+    "career_page_url": "https://www.transunion.com/careers/students",
+    "category": "Data",
+    "company": "TransUnion",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "fico",
+    "career_page_url": "https://www.fico.com/en/careers",
+    "category": "Data",
+    "company": "FICO",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Credit analytics + econ fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "etsy",
+    "career_page_url": "https://careers.etsy.com/global/en/students",
+    "category": "Big Tech",
+    "company": "Etsy",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Small class; verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "chewy",
+    "career_page_url": "https://careers.chewy.com/us/en/university",
+    "category": "Big Tech",
+    "company": "Chewy",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "disney",
+    "career_page_url": "https://jobs.disneycareers.com/students",
+    "category": "Media",
+    "company": "Disney",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Decision Science team is strong; verify sponsorship."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "booking_holdings_priceline",
+    "career_page_url": "https://careers.bookingholdings.com/",
+    "category": "Travel/Tech",
+    "company": "Booking Holdings / Priceline",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "regeneron",
+    "career_page_url": "https://careers.regeneron.com/students",
+    "category": "Pharma",
+    "company": "Regeneron",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "unitedhealth_group_optum",
+    "career_page_url": "https://careers.unitedhealthgroup.com/early-careers/",
+    "category": "Healthcare",
+    "company": "UnitedHealth Group / Optum",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Big DS org; verify per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "humana",
+    "career_page_url": "https://careers.humana.com/students/",
+    "category": "Healthcare",
+    "company": "Humana",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "oliver_wyman",
+    "career_page_url": "https://www.oliverwyman.com/careers/entry-level.html",
+    "category": "Consulting",
+    "company": "Oliver Wyman",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "costco",
+    "career_page_url": "https://www.costco.com/jobs.html",
+    "category": "Retail",
+    "company": "Costco",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "You flagged this one - added. Lean tech org historically, but growing DS team (demand forecasting, membership analytics). Verify sponsorship per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "best_buy",
+    "career_page_url": "https://jobs.bestbuy.com/students",
+    "category": "Retail",
+    "company": "Best Buy",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Consumer electronics retail analytics; verify sponsorship per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "microsoft",
+    "career_page_url": "https://careers.microsoft.com/v2/global/en/students",
+    "category": "Big Tech",
+    "company": "Microsoft",
+    "expected_recruiting_window": "Opens ~Aug 15, 2026 (last cycle's date).",
+    "intl_friendly_level": "STRONG",
+    "notes": "2026 cycle opened Aug 15. Sponsors heavily."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "bloomberg",
+    "career_page_url": "https://www.bloomberg.com/careers/early-career/",
+    "category": "Finance/Tech",
+    "company": "Bloomberg",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Very international-friendly; engineering-driven."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "deloitte_alternative_fti_consulting",
+    "career_page_url": "https://fticareers.com/students",
+    "category": "Consulting/Data",
+    "company": "Deloitte-alternative: FTI Consulting",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Litigation analytics; more open than Big 4."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "dell_technologies",
+    "career_page_url": "https://jobs.dell.com/en/students",
+    "category": "Big Tech",
+    "company": "Dell Technologies",
+    "expected_recruiting_window": "Sep-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify sponsorship per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "hp",
+    "career_page_url": "https://jobs.hp.com/students/",
+    "category": "Big Tech",
+    "company": "HP",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "shopify",
+    "career_page_url": "https://www.shopify.com/careers/early-careers",
+    "category": "Big Tech",
+    "company": "Shopify",
+    "expected_recruiting_window": "Varies",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Mostly Canada/remote; check US eligibility."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "sony_interactive_playstation",
+    "career_page_url": "https://www.playstation.com/en-us/corporate/playstation-careers/",
+    "category": "Big Tech",
+    "company": "Sony Interactive (PlayStation)",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Gaming analytics."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "electronic_arts",
+    "career_page_url": "https://ea.gr8people.com/internships",
+    "category": "Big Tech",
+    "company": "Electronic Arts",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Gaming + consumer behavior."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "epic_games",
+    "career_page_url": "https://www.epicgames.com/site/en-US/earlycareers",
+    "category": "Big Tech",
+    "company": "Epic Games",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "vmware_broadcom",
+    "career_page_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+    "category": "Big Tech",
+    "company": "VMware (Broadcom)",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Post-acquisition; verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "twilio",
+    "career_page_url": "https://www.twilio.com/en-us/company/jobs",
+    "category": "Big Tech",
+    "company": "Twilio",
+    "expected_recruiting_window": "Oct-Dec 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Smaller program."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "grammarly",
+    "career_page_url": "https://www.grammarly.com/jobs",
+    "category": "Big Tech",
+    "company": "Grammarly",
+    "expected_recruiting_window": "Oct-Jan 2027",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "scale_ai",
+    "career_page_url": "https://scale.com/careers",
+    "category": "Big Tech / AI",
+    "company": "Scale AI",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Fast-growing."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "block_square_cash_app",
+    "career_page_url": "https://block.xyz/careers",
+    "category": "Big Tech",
+    "company": "Block (Square/Cash App)",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Cash App DS is consumer-behavior heavy."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "paypal",
+    "career_page_url": "https://careers.pypl.com/students/",
+    "category": "Big Tech",
+    "company": "PayPal",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "robinhood",
+    "career_page_url": "https://careers.robinhood.com/students",
+    "category": "Big Tech",
+    "company": "Robinhood",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Fintech + behavior fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "coinbase",
+    "career_page_url": "https://www.coinbase.com/careers/students",
+    "category": "Big Tech",
+    "company": "Coinbase",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Crypto analytics."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "freddie_mac",
+    "career_page_url": "https://careers.freddiemac.com/us/en/students",
+    "category": "Finance",
+    "company": "Freddie Mac",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Housing econ fit; McLean VA (in-state!); verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "uber",
+    "career_page_url": "https://www.uber.com/us/en/careers/teams/university/",
+    "category": "Big Tech",
+    "company": "Uber",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Econ + DS profile is a great fit (marketplace economics)."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "kearney",
+    "career_page_url": "https://www.kearney.com/careers",
+    "category": "Consulting",
+    "company": "Kearney",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "capital_one",
+    "career_page_url": "https://www.capitalonecareers.com/students",
+    "category": "Finance/Tech",
+    "company": "Capital One",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "CLOSED",
+    "notes": "VERIFIED 0% via primary source (their own posting language). Lesson: this exact phrase family ('no immigration-related support including CPT/OPT') is the kill-signal to scan every posting for before applying. Note: their 2027 posting went LIVE early July - confirms the cycle has started."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "nvidia",
+    "career_page_url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+    "category": "Big Tech",
+    "company": "NVIDIA",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Hottest company in tech; apply day one."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "tiktok",
+    "career_page_url": "https://lifeattiktok.com/search?recruitment_id_list=201",
+    "category": "Big Tech",
+    "company": "TikTok",
+    "expected_recruiting_window": "Posts continuously Aug onward - check monthly.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Posts MANY data intern roles year-round; very international-friendly."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "databricks",
+    "career_page_url": "https://www.databricks.com/company/careers/university-recruiting",
+    "category": "Big Tech",
+    "company": "Databricks",
+    "expected_recruiting_window": "Opens Jul-Sep 2026 - among earliest. Set alert TODAY.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Opens as early as Amazon. Apply immediately."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "stripe",
+    "career_page_url": "https://stripe.com/jobs/university",
+    "category": "Big Tech",
+    "company": "Stripe",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Fintech + econ fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "roblox",
+    "career_page_url": "https://careers.roblox.com/early-career",
+    "category": "Big Tech",
+    "company": "Roblox",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Pays extremely well."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "blackrock",
+    "career_page_url": "https://careers.blackrock.com/early-careers",
+    "category": "Finance",
+    "company": "BlackRock",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; Aladdin = data platform."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "deloitte",
+    "career_page_url": "UPDATED: Internship itself needs no sponsorship (CPT) and many postings don't ask the future question. VT is a real Big 4 feeder. Route: VT career fair + firm events + Consulting Group at VT, answer app questions honestly, know that the harder wall is FT conversion - by which point your OPT plan buys 3 years.",
+    "category": "Consulting",
+    "company": "Deloitte",
+    "expected_recruiting_window": "Sophomore/junior programs open Jul-Sep 2026; office-by-office rolling.",
+    "intl_friendly_level": "MODERATE",
+    "notes": "HONEST FLAG: Most US intern programs ask if you'll need future sponsorship and screen out 'yes'. Some tech/AI roles are exceptions. Apply only to roles not asking, and network hard at VT events."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "ey",
+    "career_page_url": "UPDATED: Internship itself needs no sponsorship (CPT) and many postings don't ask the future question. VT is a real Big 4 feeder. Route: VT career fair + firm events + Consulting Group at VT, answer app questions honestly, know that the harder wall is FT conversion - by which point your OPT plan buys 3 years.",
+    "category": "Consulting",
+    "company": "EY",
+    "expected_recruiting_window": "Opens Jul-Sep 2026, rolling by office.",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Same flag as Deloitte. EY slightly more open than KPMG historically. Verify each posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "kpmg",
+    "career_page_url": "UPDATED: Internship itself needs no sponsorship (CPT) and many postings don't ask the future question. VT is a real Big 4 feeder. Route: VT career fair + firm events + Consulting Group at VT, answer app questions honestly, know that the harder wall is FT conversion - by which point your OPT plan buys 3 years.",
+    "category": "Consulting",
+    "company": "KPMG",
+    "expected_recruiting_window": "Opens Jul-Sep 2026, rolling by office.",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Same flag. You follow them on LinkedIn - fine, but do not make them your core strategy."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "discover",
+    "career_page_url": "https://jobs.discover.com/students/",
+    "category": "Finance/Tech",
+    "company": "Discover",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify (Capital One merger integration)."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "target",
+    "career_page_url": "https://corporate.target.com/careers/internships",
+    "category": "Retail",
+    "company": "Target",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "LOW",
+    "notes": "Historically does NOT sponsor. Low priority."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "procter_and_gamble",
+    "career_page_url": "https://www.pgcareers.com/students",
+    "category": "Consumer",
+    "company": "Procter & Gamble",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "LOW",
+    "notes": "Historically restrictive on sponsorship for US roles. Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "moody_s",
+    "career_page_url": "https://careers.moodys.com/students",
+    "category": "Finance/Data",
+    "company": "Moody's",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT employer; econ fit."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "fannie_mae",
+    "career_page_url": "https://careers.fanniemae.com/students",
+    "category": "Finance",
+    "company": "Fannie Mae",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Housing econ fit; verify WA requirements."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "pwc",
+    "career_page_url": "UPDATED: Internship itself needs no sponsorship (CPT) and many postings don't ask the future question. VT is a real Big 4 feeder. Route: VT career fair + firm events + Consulting Group at VT, answer app questions honestly, know that the harder wall is FT conversion - by which point your OPT plan buys 3 years.",
+    "category": "Consulting",
+    "company": "PwC",
+    "expected_recruiting_window": "Opens Jul-Sep 2026, rolling by office.",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Same flag. Historically among the least sponsorship-open for interns."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "booz_allen_hamilton",
+    "career_page_url": "https://careers.boozallen.com/students",
+    "category": "Consulting (VT pipeline)",
+    "company": "Booz Allen Hamilton",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "LOW",
+    "notes": "Top-7 VT employer (29 grads) BUT heavily government/clearance work - many roles US-citizen only. Filter for commercial/health analytics roles only."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "bank_of_america",
+    "career_page_url": "https://campus.bankofamerica.com/",
+    "category": "Finance",
+    "company": "Bank of America",
+    "expected_recruiting_window": "Jul-Sep 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Sponsors for tech tracks; verify per program."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "citi",
+    "career_page_url": "https://jobs.citi.com/students-and-graduates",
+    "category": "Finance",
+    "company": "Citi",
+    "expected_recruiting_window": "Jul-Sep 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Known CPT/H-1B employer."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "barclays",
+    "career_page_url": "https://search.jobs.barclays/students",
+    "category": "Finance",
+    "company": "Barclays",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "ubs",
+    "career_page_url": "https://www.ubs.com/global/en/careers/students.html",
+    "category": "Finance",
+    "company": "UBS",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "deutsche_bank",
+    "career_page_url": "https://careers.db.com/students-graduates/",
+    "category": "Finance",
+    "company": "Deutsche Bank",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "wells_fargo",
+    "career_page_url": "https://www.wellsfargojobs.com/en/early-careers/",
+    "category": "Finance",
+    "company": "Wells Fargo",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Sponsors for some quant/tech roles; verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "nomura",
+    "career_page_url": "https://www.nomura.com/careers/",
+    "category": "Finance",
+    "company": "Nomura",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "s_and_p_global",
+    "career_page_url": "https://www.spglobal.com/en/careers/early-careers",
+    "category": "Finance/Data",
+    "company": "S&P Global",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify per posting."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "msci",
+    "career_page_url": "https://www.msci.com/careers",
+    "category": "Finance/Data",
+    "company": "MSCI",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "state_street",
+    "career_page_url": "https://careers.statestreet.com/students",
+    "category": "Finance",
+    "company": "State Street",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "bnp_paribas",
+    "career_page_url": "https://group.bnpparibas/en/careers",
+    "category": "Finance",
+    "company": "BNP Paribas",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify US sponsorship."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "hsbc",
+    "career_page_url": "https://www.hsbc.com/careers/students-and-graduates",
+    "category": "Finance",
+    "company": "HSBC",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify US roles."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "rbc_capital_markets",
+    "career_page_url": "https://jobs.rbc.com/ca/en/students",
+    "category": "Finance",
+    "company": "RBC Capital Markets",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Verify US sponsorship."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "mckinsey_and_company",
+    "career_page_url": "https://www.mckinsey.com/careers/students",
+    "category": "Consulting",
+    "company": "McKinsey & Company",
+    "expected_recruiting_window": "Sep-Nov 2026 (Sophomore/Junior programs earlier)",
+    "intl_friendly_level": "STRONG",
+    "notes": "MBB DO sponsor. QuantumBlack = their DS arm. Perfect target."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "boston_consulting_group",
+    "career_page_url": "https://careers.bcg.com/students",
+    "category": "Consulting",
+    "company": "Boston Consulting Group",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "BCG X hires DS interns; sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "bain_and_company",
+    "career_page_url": "https://www.bain.com/careers/roles/students/",
+    "category": "Consulting",
+    "company": "Bain & Company",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "capital_one_vt_pipeline_note",
+    "career_page_url": "-",
+    "category": "Finance/Tech",
+    "company": "Capital One (VT pipeline note)",
+    "expected_recruiting_window": "-",
+    "intl_friendly_level": "LOW",
+    "notes": "Massive VT recruiter but sponsorship policy makes it a long shot for internationals. Attend their VT events anyway for practice."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "goldman_sachs",
+    "career_page_url": "https://www.goldmansachs.com/careers/students",
+    "category": "Finance",
+    "company": "Goldman Sachs",
+    "expected_recruiting_window": "Opens ~early Jul 2026; division deadlines Sep-Oct. Apply week 1.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Finance opens EARLIEST. Sponsors. 0.7% acceptance - apply day 1."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "j_p_morgan",
+    "career_page_url": "https://careers.jpmorgan.com/us/en/students/programs",
+    "category": "Finance",
+    "company": "J.P. Morgan",
+    "expected_recruiting_window": "Opens Jul 2026; most programs close by mid-Sep.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors; huge data org."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "morgan_stanley",
+    "career_page_url": "https://www.morganstanley.com/careers/students-graduates",
+    "category": "Finance",
+    "company": "Morgan Stanley",
+    "expected_recruiting_window": "Opens Jul-Aug 2026; hard deadlines by division.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Sponsors."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "fidelity",
+    "career_page_url": "https://jobs.fidelity.com/students/",
+    "category": "Finance",
+    "company": "Fidelity",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "LOW",
+    "notes": "Generally does not sponsor. Low priority."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "vanguard",
+    "career_page_url": "https://www.vanguardjobs.com/students/",
+    "category": "Finance",
+    "company": "Vanguard",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "LOW",
+    "notes": "Generally does not sponsor. Low priority."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "google",
+    "career_page_url": "https://www.google.com/about/careers/applications/students/",
+    "category": "Big Tech",
+    "company": "Google",
+    "expected_recruiting_window": "Opens ~mid-Oct 2026, window only 2-4 WEEKS. Calendar reminder for Sep 25.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Window is TINY. Check weekly from late Sept."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "meta",
+    "career_page_url": "https://www.metacareers.com/careerprograms/students",
+    "category": "Big Tech",
+    "company": "Meta",
+    "expected_recruiting_window": "Sep-Oct 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Fast pipeline once in process."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "apple",
+    "career_page_url": "https://www.apple.com/careers/us/students.html",
+    "category": "Big Tech",
+    "company": "Apple",
+    "expected_recruiting_window": "Sep 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Team-by-team postings; apply to multiple."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "netflix",
+    "career_page_url": "https://jobs.netflix.com/students",
+    "category": "Big Tech",
+    "company": "Netflix",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "STRONG",
+    "notes": "Extremely selective, small class."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "palantir",
+    "career_page_url": "https://www.palantir.com/careers/students/",
+    "category": "Big Tech",
+    "company": "Palantir",
+    "expected_recruiting_window": "Aug-Oct 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Some roles require US person status (govt work) - filter for commercial roles."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "openai",
+    "career_page_url": "https://openai.com/careers/",
+    "category": "Big Tech / AI",
+    "company": "OpenAI",
+    "expected_recruiting_window": "Sep-Nov 2026",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Very selective; mostly grad-level but check."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "anthropic",
+    "career_page_url": "https://www.anthropic.com/careers",
+    "category": "Big Tech / AI",
+    "company": "Anthropic",
+    "expected_recruiting_window": "Varies",
+    "intl_friendly_level": "MODERATE",
+    "notes": "Limited undergrad intern roles; check."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "two_sigma",
+    "career_page_url": "KEPT (1 of 2 quant): has a dedicated Data Science intern track separate from quant trading - values stats/modeling profiles over competition math. Your realistic quant-adjacent shot.",
+    "category": "Quant",
+    "company": "Two Sigma",
+    "expected_recruiting_window": "Opens Aug-Oct 2026, rolling.",
+    "intl_friendly_level": "STRONG",
+    "notes": "DS-specific intern roles exist."
+  },
+  {
+    "aliases": [],
+    "canonical_company_id": "sig_susquehanna",
+    "career_page_url": "KEPT (2 of 2 quant): broadest analytics hiring in quant, decision-science culture (poker training), less olympiad-gated than Citadel/Jane Street. Sports analytics roles fit a scorekeeper who models consumer behavior.",
+    "category": "Quant",
+    "company": "SIG (Susquehanna)",
+    "expected_recruiting_window": "Opens Jul-Oct 2026, rolling.",
+    "intl_friendly_level": "STRONG",
+    "notes": "Also has sports-analytics style roles; poker culture."
   }
 ]
