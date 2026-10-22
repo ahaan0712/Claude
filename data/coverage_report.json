@@ -1,20 +1,22 @@
 {
-  "active_target_programs": 204,
-  "active_xlsx_target_companies": 164,
+  "active_target_programs": 150,
+  "active_xlsx_target_companies": 150,
   "closed_postings": 23,
   "companies_checked": 0,
-  "companies_to_check_this_week": 164,
+  "companies_to_check_this_week": 142,
   "companies_with_ineligible_openings": 1,
   "companies_with_live_matches": 0,
   "excluded_postings": 141,
-  "generated_at": "2026-07-11T18:59:12+00:00",
+  "generated_at": "2026-10-22T08:11:44+00:00",
   "live_matches": 0,
   "monitoring_status_counts": {
-    "NEEDS_RESEARCH": 164
+    "MONITOR_NOW": 137,
+    "NEEDS_RESEARCH": 5,
+    "NOT_DUE": 8
   },
   "privacy_result": "site/ excludes raw XLSX, DOCX, LinkedIn CSVs, ZIPs, Python source, and repository root",
-  "programs_opening_31_90_days": 0,
-  "programs_opening_next_30_days": 0,
+  "programs_opening_31_90_days": 8,
+  "programs_opening_next_30_days": 137,
   "retrieval_coverage": {
     "TITLE_ONLY": 148
   },

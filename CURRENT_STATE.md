@@ -10,7 +10,7 @@ This repository was audited after PR #4 and before the rescue implementation was
 - `watchlist.py` only added default fields and did not monitor real career pages.
 - `import_target_universe.py` scanned multiple workbook worksheets rather than importing only `Target Companies`.
 - The repository reported 164 active companies and 204 target programs, but those counts came from broad parsing and were not a genuine V6 reconciliation.
-- The authoritative cleaned workbook `Ahaan_2027_Internship_Target_List_Cleaned.xlsx` was not present in this local checkout; the rescue importer uses sanitized derived JSON as a CI-safe fallback.
+- The original rescue used generated JSON as fallback. This has been replaced by the exact 162-record extraction from `Ahaan 2027 Internship Target List(2).xlsx`, materialized by `tools/materialize_authoritative_targets.py`. Missing or wrong-count authoritative input now fails instead of reusing generated targets. Legacy probability text remains audit-only in the extracted source and is not propagated to campaign outputs.
 
 ## CI failure
 

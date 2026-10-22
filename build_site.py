@@ -9,7 +9,13 @@ def main():
     shutil.copyfile('index.html', site/'index.html')
     for f in PUBLIC:
         p=Path('data')/f
-        if p.exists(): shutil.copyfile(p, site/'data'/f)
+        if p.exists():
+            if f == 'company_reconciliation_report.json':
+                report = json.loads(p.read_text())
+                report.pop('source_workbook', None)
+                (site/'data'/f).write_text(json.dumps(report, indent=2) + '\n')
+            else:
+                shutil.copyfile(p, site/'data'/f)
     bad=[]
     for p in site.rglob('*'):
         if any(d in str(p) for d in DENY) or p.suffix in BLOCK_EXT: bad.append(str(p))

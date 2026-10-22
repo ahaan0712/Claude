@@ -1,24 +1,25 @@
 {
-  "active_companies": 164,
-  "active_programs": 204,
-  "archived_companies": 0,
+  "active_companies": 150,
+  "active_programs": 150,
+  "archived_companies": 12,
+  "authoritative_source_records_before_exclusions": 162,
   "duplicate_company_aliases": {},
   "duplicate_programs": [],
   "industry_exclusions": {},
   "malformed_rows": [],
-  "quant_programs_removed": 0,
+  "quant_programs_removed": 12,
   "source_precedence": [
     "exact live posting text",
     "verified r\u00e9sum\u00e9/profile",
-    "cleaned XLSX",
+    "authoritative Target Companies workbook or exact extracted JSON",
     "current official company career pages",
     "verified historical evidence",
     "V6 reference metadata",
     "supplemental tracker data"
   ],
-  "source_workbook": "sanitized derived JSON fallback",
-  "total_rows": 204,
+  "source_workbook": "Ahaan 2027 Internship Target List(2).xlsx",
+  "total_rows": 162,
   "unresolved_records": [],
-  "valid_rows": 204,
+  "valid_rows": 162,
   "worksheet_used": "Target Companies"
 }

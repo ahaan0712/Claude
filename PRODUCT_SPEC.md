@@ -6,7 +6,7 @@ Campaign 27 is an XLSX-first Summer 2027 internship monitoring and relative-fit 
 
 1. Exact live posting text
 2. Verified résumé/profile
-3. Cleaned XLSX (`Ahaan_2027_Internship_Target_List_Cleaned.xlsx`, worksheet `Target Companies`)
+3. Authoritative XLSX (`Ahaan 2027 Internship Target List(2).xlsx`, worksheet `Target Companies`) or its exact extracted `data/authoritative_target_companies.json`
 4. Current official company career pages
 5. Verified historical evidence
 6. V6 reference metadata for aliases/windows/links/notes only
@@ -14,7 +14,7 @@ Campaign 27 is an XLSX-first Summer 2027 internship monitoring and relative-fit 
 
 ## Core data products
 
-- `data/target_programs.json` — active programs from the Target Companies worksheet or sanitized CI fallback.
+- `data/target_programs.json` — active programs from exactly 162 authoritative Target Companies records before exclusions. Generated outputs are never source inputs.
 - `data/company_watchlist.json` — active companies and monitoring status, retained even when no live role is open.
 - `data/excluded_target_programs.json` — auditable archived rows for user exclusions.
 - `data/company_reconciliation_report.json` — source, row, active/archive, duplicate, exclusion, and unresolved-record counts.
